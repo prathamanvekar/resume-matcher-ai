@@ -1,0 +1,9493 @@
+{
+  "communication": {
+    "total_jobs": 13526,
+    "top_roles": {
+      "other": 9567,
+      "nurse": 1919,
+      "sales": 510,
+      "customer_service": 367,
+      "project_manager": 282
+    }
+  },
+  "customer service": {
+    "total_jobs": 10191,
+    "top_roles": {
+      "other": 8348,
+      "customer_service": 664,
+      "nurse": 459,
+      "sales": 339,
+      "operations": 123
+    }
+  },
+  "teamwork": {
+    "total_jobs": 8421,
+    "top_roles": {
+      "other": 6105,
+      "nurse": 1309,
+      "customer_service": 252,
+      "sales": 225,
+      "finance": 116
+    }
+  },
+  "communication skills": {
+    "total_jobs": 7190,
+    "top_roles": {
+      "other": 5201,
+      "nurse": 782,
+      "sales": 275,
+      "customer_service": 223,
+      "finance": 165
+    }
+  },
+  "leadership": {
+    "total_jobs": 6853,
+    "top_roles": {
+      "other": 5018,
+      "nurse": 984,
+      "sales": 195,
+      "project_manager": 164,
+      "operations": 133
+    }
+  },
+  "problem solving": {
+    "total_jobs": 5421,
+    "top_roles": {
+      "other": 3831,
+      "nurse": 521,
+      "sales": 247,
+      "customer_service": 243,
+      "project_manager": 134
+    }
+  },
+  "time management": {
+    "total_jobs": 5250,
+    "top_roles": {
+      "other": 3698,
+      "nurse": 711,
+      "sales": 230,
+      "customer_service": 125,
+      "administrative": 107
+    }
+  },
+  "attention to detail": {
+    "total_jobs": 4980,
+    "top_roles": {
+      "other": 3780,
+      "nurse": 369,
+      "finance": 180,
+      "customer_service": 140,
+      "sales": 121
+    }
+  },
+  "problemsolving": {
+    "total_jobs": 4749,
+    "top_roles": {
+      "other": 3402,
+      "nurse": 628,
+      "customer_service": 168,
+      "sales": 118,
+      "project_manager": 72
+    }
+  },
+  "project management": {
+    "total_jobs": 4402,
+    "top_roles": {
+      "other": 3088,
+      "project_manager": 594,
+      "sales": 130,
+      "nurse": 115,
+      "operations": 103
+    }
+  },
+  "patient care": {
+    "total_jobs": 3775,
+    "top_roles": {
+      "nurse": 2367,
+      "other": 1390,
+      "customer_service": 7,
+      "administrative": 5,
+      "sales": 2
+    }
+  },
+  "interpersonal skills": {
+    "total_jobs": 3717,
+    "top_roles": {
+      "other": 2713,
+      "nurse": 458,
+      "sales": 120,
+      "customer_service": 76,
+      "finance": 72
+    }
+  },
+  "nursing": {
+    "total_jobs": 3444,
+    "top_roles": {
+      "nurse": 3149,
+      "other": 289,
+      "hr": 3,
+      "project_manager": 2,
+      "sales": 1
+    }
+  },
+  "sales": {
+    "total_jobs": 3386,
+    "top_roles": {
+      "other": 2461,
+      "sales": 642,
+      "customer_service": 154,
+      "nurse": 56,
+      "marketing": 15
+    }
+  },
+  "collaboration": {
+    "total_jobs": 3236,
+    "top_roles": {
+      "other": 2020,
+      "nurse": 730,
+      "sales": 89,
+      "project_manager": 73,
+      "software_engineer": 62
+    }
+  },
+  "training": {
+    "total_jobs": 3089,
+    "top_roles": {
+      "other": 2577,
+      "nurse": 223,
+      "sales": 69,
+      "operations": 46,
+      "hr": 45
+    }
+  },
+  "data analysis": {
+    "total_jobs": 2960,
+    "top_roles": {
+      "other": 2026,
+      "nurse": 214,
+      "sales": 160,
+      "data_analyst": 109,
+      "finance": 106
+    }
+  },
+  "microsoft office suite": {
+    "total_jobs": 2862,
+    "top_roles": {
+      "other": 1975,
+      "sales": 179,
+      "nurse": 179,
+      "administrative": 101,
+      "finance": 92
+    }
+  },
+  "organizational skills": {
+    "total_jobs": 2791,
+    "top_roles": {
+      "other": 1935,
+      "nurse": 300,
+      "sales": 133,
+      "administrative": 83,
+      "customer_service": 66
+    }
+  },
+  "inventory management": {
+    "total_jobs": 2659,
+    "top_roles": {
+      "other": 2318,
+      "operations": 150,
+      "customer_service": 69,
+      "nurse": 58,
+      "finance": 24
+    }
+  },
+  "high school diploma": {
+    "total_jobs": 2478,
+    "top_roles": {
+      "other": 2092,
+      "customer_service": 167,
+      "nurse": 79,
+      "operations": 44,
+      "sales": 43
+    }
+  },
+  "bachelor's degree": {
+    "total_jobs": 2367,
+    "top_roles": {
+      "other": 1638,
+      "sales": 214,
+      "nurse": 144,
+      "project_manager": 73,
+      "operations": 54
+    }
+  },
+  "scheduling": {
+    "total_jobs": 2349,
+    "top_roles": {
+      "other": 1880,
+      "nurse": 167,
+      "project_manager": 146,
+      "administrative": 59,
+      "operations": 36
+    }
+  },
+  "multitasking": {
+    "total_jobs": 2292,
+    "top_roles": {
+      "other": 1642,
+      "nurse": 168,
+      "customer_service": 136,
+      "sales": 90,
+      "administrative": 66
+    }
+  },
+  "microsoft office": {
+    "total_jobs": 2271,
+    "top_roles": {
+      "other": 1620,
+      "sales": 152,
+      "nurse": 148,
+      "customer_service": 71,
+      "project_manager": 58
+    }
+  },
+  "analytical skills": {
+    "total_jobs": 2240,
+    "top_roles": {
+      "other": 1534,
+      "nurse": 154,
+      "finance": 149,
+      "sales": 98,
+      "operations": 61
+    }
+  },
+  "adaptability": {
+    "total_jobs": 2232,
+    "top_roles": {
+      "other": 1618,
+      "nurse": 248,
+      "sales": 104,
+      "customer_service": 56,
+      "project_manager": 38
+    }
+  },
+  "flexibility": {
+    "total_jobs": 2092,
+    "top_roles": {
+      "other": 1589,
+      "nurse": 234,
+      "customer_service": 70,
+      "sales": 49,
+      "administrative": 38
+    }
+  },
+  "critical thinking": {
+    "total_jobs": 2006,
+    "top_roles": {
+      "nurse": 946,
+      "other": 906,
+      "sales": 25,
+      "project_manager": 23,
+      "finance": 20
+    }
+  },
+  "documentation": {
+    "total_jobs": 1937,
+    "top_roles": {
+      "other": 992,
+      "nurse": 806,
+      "project_manager": 35,
+      "data_analyst": 25,
+      "software_engineer": 24
+    }
+  },
+  "organization": {
+    "total_jobs": 1770,
+    "top_roles": {
+      "other": 1282,
+      "nurse": 168,
+      "sales": 85,
+      "customer_service": 52,
+      "administrative": 49
+    }
+  },
+  "budgeting": {
+    "total_jobs": 1655,
+    "top_roles": {
+      "other": 1107,
+      "finance": 207,
+      "project_manager": 143,
+      "sales": 63,
+      "nurse": 55
+    }
+  },
+  "troubleshooting": {
+    "total_jobs": 1638,
+    "top_roles": {
+      "other": 1415,
+      "nurse": 50,
+      "devops_engineer": 34,
+      "software_engineer": 29,
+      "customer_service": 25
+    }
+  },
+  "safety": {
+    "total_jobs": 1603,
+    "top_roles": {
+      "other": 1318,
+      "nurse": 175,
+      "project_manager": 42,
+      "operations": 30,
+      "customer_service": 10
+    }
+  },
+  "problemsolving skills": {
+    "total_jobs": 1598,
+    "top_roles": {
+      "other": 1140,
+      "nurse": 156,
+      "finance": 61,
+      "sales": 49,
+      "customer_service": 48
+    }
+  },
+  "written communication": {
+    "total_jobs": 1560,
+    "top_roles": {
+      "other": 1075,
+      "nurse": 170,
+      "sales": 74,
+      "project_manager": 44,
+      "customer_service": 33
+    }
+  },
+  "excel": {
+    "total_jobs": 1498,
+    "top_roles": {
+      "other": 983,
+      "finance": 165,
+      "sales": 70,
+      "nurse": 60,
+      "project_manager": 42
+    }
+  },
+  "conflict resolution": {
+    "total_jobs": 1469,
+    "top_roles": {
+      "other": 1052,
+      "nurse": 217,
+      "customer_service": 44,
+      "project_manager": 42,
+      "hr": 39
+    }
+  },
+  "coaching": {
+    "total_jobs": 1434,
+    "top_roles": {
+      "other": 1214,
+      "nurse": 87,
+      "sales": 32,
+      "hr": 29,
+      "operations": 19
+    }
+  },
+  "verbal communication": {
+    "total_jobs": 1415,
+    "top_roles": {
+      "other": 999,
+      "nurse": 141,
+      "sales": 73,
+      "customer_service": 35,
+      "project_manager": 33
+    }
+  },
+  "supervision": {
+    "total_jobs": 1409,
+    "top_roles": {
+      "other": 1014,
+      "nurse": 306,
+      "operations": 22,
+      "project_manager": 18,
+      "administrative": 11
+    }
+  },
+  "paid time off": {
+    "total_jobs": 1409,
+    "top_roles": {
+      "other": 1037,
+      "nurse": 246,
+      "sales": 34,
+      "customer_service": 22,
+      "project_manager": 16
+    }
+  },
+  "merchandising": {
+    "total_jobs": 1353,
+    "top_roles": {
+      "other": 1255,
+      "customer_service": 59,
+      "sales": 17,
+      "nurse": 16,
+      "operations": 3
+    }
+  },
+  "quality control": {
+    "total_jobs": 1343,
+    "top_roles": {
+      "other": 1161,
+      "project_manager": 71,
+      "nurse": 47,
+      "operations": 31,
+      "qa_engineer": 13
+    }
+  },
+  "life insurance": {
+    "total_jobs": 1329,
+    "top_roles": {
+      "other": 850,
+      "nurse": 359,
+      "sales": 31,
+      "customer_service": 21,
+      "project_manager": 16
+    }
+  },
+  "reporting": {
+    "total_jobs": 1325,
+    "top_roles": {
+      "other": 913,
+      "nurse": 121,
+      "finance": 65,
+      "sales": 58,
+      "project_manager": 43
+    }
+  },
+  "computer skills": {
+    "total_jobs": 1319,
+    "top_roles": {
+      "other": 878,
+      "nurse": 289,
+      "customer_service": 53,
+      "sales": 34,
+      "project_manager": 17
+    }
+  },
+  "quality assurance": {
+    "total_jobs": 1318,
+    "top_roles": {
+      "other": 947,
+      "nurse": 175,
+      "qa_engineer": 69,
+      "project_manager": 60,
+      "operations": 19
+    }
+  },
+  "team management": {
+    "total_jobs": 1298,
+    "top_roles": {
+      "other": 1075,
+      "nurse": 53,
+      "operations": 39,
+      "sales": 32,
+      "project_manager": 30
+    }
+  },
+  "accounting": {
+    "total_jobs": 1285,
+    "top_roles": {
+      "other": 724,
+      "finance": 406,
+      "nurse": 52,
+      "operations": 43,
+      "sales": 16
+    }
+  },
+  "research": {
+    "total_jobs": 1262,
+    "top_roles": {
+      "other": 810,
+      "nurse": 325,
+      "sales": 39,
+      "project_manager": 16,
+      "administrative": 13
+    }
+  },
+  "lifting": {
+    "total_jobs": 1245,
+    "top_roles": {
+      "other": 1037,
+      "nurse": 125,
+      "customer_service": 50,
+      "operations": 15,
+      "sales": 11
+    }
+  },
+  "decision making": {
+    "total_jobs": 1241,
+    "top_roles": {
+      "other": 886,
+      "nurse": 128,
+      "customer_service": 63,
+      "project_manager": 33,
+      "operations": 31
+    }
+  },
+  "travel": {
+    "total_jobs": 1229,
+    "top_roles": {
+      "other": 836,
+      "nurse": 175,
+      "sales": 115,
+      "project_manager": 45,
+      "operations": 19
+    }
+  },
+  "registered nurse": {
+    "total_jobs": 1217,
+    "top_roles": {
+      "nurse": 1171,
+      "other": 43,
+      "project_manager": 1,
+      "hr": 1,
+      "qa_engineer": 1
+    }
+  },
+  "risk management": {
+    "total_jobs": 1196,
+    "top_roles": {
+      "other": 813,
+      "project_manager": 149,
+      "nurse": 110,
+      "sales": 24,
+      "finance": 24
+    }
+  },
+  "driver's license": {
+    "total_jobs": 1181,
+    "top_roles": {
+      "other": 854,
+      "nurse": 212,
+      "sales": 52,
+      "operations": 24,
+      "project_manager": 20
+    }
+  },
+  "planning": {
+    "total_jobs": 1179,
+    "top_roles": {
+      "other": 717,
+      "nurse": 317,
+      "project_manager": 47,
+      "sales": 27,
+      "operations": 15
+    }
+  },
+  "food safety": {
+    "total_jobs": 1177,
+    "top_roles": {
+      "other": 1127,
+      "nurse": 18,
+      "qa_engineer": 17,
+      "customer_service": 6,
+      "operations": 6
+    }
+  },
+  "negotiation": {
+    "total_jobs": 1167,
+    "top_roles": {
+      "other": 672,
+      "sales": 258,
+      "nurse": 97,
+      "project_manager": 57,
+      "hr": 23
+    }
+  },
+  "team leadership": {
+    "total_jobs": 1166,
+    "top_roles": {
+      "other": 905,
+      "project_manager": 60,
+      "nurse": 50,
+      "operations": 45,
+      "sales": 38
+    }
+  },
+  "cash handling": {
+    "total_jobs": 1154,
+    "top_roles": {
+      "other": 1057,
+      "customer_service": 60,
+      "nurse": 25,
+      "administrative": 5,
+      "operations": 5
+    }
+  },
+  "dental insurance": {
+    "total_jobs": 1138,
+    "top_roles": {
+      "other": 701,
+      "nurse": 342,
+      "sales": 29,
+      "customer_service": 14,
+      "project_manager": 11
+    }
+  },
+  "mentoring": {
+    "total_jobs": 1136,
+    "top_roles": {
+      "other": 780,
+      "nurse": 189,
+      "project_manager": 45,
+      "software_engineer": 35,
+      "sales": 19
+    }
+  },
+  "engineering": {
+    "total_jobs": 1115,
+    "top_roles": {
+      "other": 827,
+      "project_manager": 112,
+      "sales": 37,
+      "nurse": 24,
+      "operations": 21
+    }
+  },
+  "presentation skills": {
+    "total_jobs": 1104,
+    "top_roles": {
+      "other": 718,
+      "sales": 179,
+      "project_manager": 36,
+      "nurse": 35,
+      "finance": 30
+    }
+  },
+  "management": {
+    "total_jobs": 1100,
+    "top_roles": {
+      "other": 850,
+      "nurse": 153,
+      "sales": 22,
+      "operations": 14,
+      "project_manager": 12
+    }
+  },
+  "healthcare": {
+    "total_jobs": 1074,
+    "top_roles": {
+      "other": 545,
+      "nurse": 475,
+      "sales": 18,
+      "project_manager": 12,
+      "customer_service": 5
+    }
+  },
+  "marketing": {
+    "total_jobs": 1063,
+    "top_roles": {
+      "other": 807,
+      "sales": 116,
+      "marketing": 40,
+      "project_manager": 25,
+      "nurse": 22
+    }
+  },
+  "supervisory experience": {
+    "total_jobs": 1061,
+    "top_roles": {
+      "other": 937,
+      "nurse": 71,
+      "operations": 20,
+      "project_manager": 9,
+      "administrative": 7
+    }
+  },
+  "bls": {
+    "total_jobs": 1053,
+    "top_roles": {
+      "nurse": 832,
+      "other": 220,
+      "hr": 1
+    }
+  },
+  "health insurance": {
+    "total_jobs": 1051,
+    "top_roles": {
+      "other": 635,
+      "nurse": 322,
+      "sales": 32,
+      "customer_service": 17,
+      "finance": 12
+    }
+  },
+  "valid driver's license": {
+    "total_jobs": 1045,
+    "top_roles": {
+      "other": 801,
+      "nurse": 139,
+      "sales": 50,
+      "customer_service": 17,
+      "project_manager": 13
+    }
+  },
+  "equal opportunity employer": {
+    "total_jobs": 1035,
+    "top_roles": {
+      "other": 760,
+      "nurse": 175,
+      "sales": 22,
+      "customer_service": 16,
+      "operations": 13
+    }
+  },
+  "compliance": {
+    "total_jobs": 1028,
+    "top_roles": {
+      "other": 763,
+      "nurse": 138,
+      "finance": 24,
+      "hr": 20,
+      "operations": 19
+    }
+  },
+  "confidentiality": {
+    "total_jobs": 1025,
+    "top_roles": {
+      "other": 660,
+      "nurse": 224,
+      "administrative": 45,
+      "hr": 32,
+      "finance": 20
+    }
+  },
+  "patient education": {
+    "total_jobs": 1001,
+    "top_roles": {
+      "nurse": 749,
+      "other": 251,
+      "sales": 1
+    }
+  },
+  "retail experience": {
+    "total_jobs": 997,
+    "top_roles": {
+      "other": 803,
+      "customer_service": 164,
+      "nurse": 13,
+      "operations": 8,
+      "sales": 6
+    }
+  },
+  "vision insurance": {
+    "total_jobs": 996,
+    "top_roles": {
+      "other": 594,
+      "nurse": 324,
+      "sales": 23,
+      "customer_service": 13,
+      "operations": 9
+    }
+  },
+  "prioritization": {
+    "total_jobs": 959,
+    "top_roles": {
+      "other": 583,
+      "nurse": 148,
+      "sales": 49,
+      "administrative": 37,
+      "customer_service": 34
+    }
+  },
+  "business development": {
+    "total_jobs": 952,
+    "top_roles": {
+      "other": 504,
+      "sales": 331,
+      "project_manager": 53,
+      "nurse": 21,
+      "operations": 11
+    }
+  },
+  "professionalism": {
+    "total_jobs": 949,
+    "top_roles": {
+      "other": 591,
+      "nurse": 266,
+      "administrative": 30,
+      "customer_service": 24,
+      "sales": 12
+    }
+  },
+  "cpr": {
+    "total_jobs": 936,
+    "top_roles": {
+      "nurse": 499,
+      "other": 430,
+      "project_manager": 3,
+      "administrative": 2,
+      "operations": 2
+    }
+  },
+  "education": {
+    "total_jobs": 913,
+    "top_roles": {
+      "other": 519,
+      "nurse": 363,
+      "sales": 15,
+      "project_manager": 8,
+      "data_analyst": 2
+    }
+  },
+  "microsoft excel": {
+    "total_jobs": 910,
+    "top_roles": {
+      "other": 622,
+      "finance": 100,
+      "nurse": 47,
+      "sales": 31,
+      "administrative": 25
+    }
+  },
+  "python": {
+    "total_jobs": 898,
+    "top_roles": {
+      "other": 465,
+      "software_engineer": 164,
+      "devops_engineer": 62,
+      "data_engineer": 50,
+      "data_analyst": 50
+    }
+  },
+  "data entry": {
+    "total_jobs": 897,
+    "top_roles": {
+      "other": 627,
+      "nurse": 81,
+      "customer_service": 69,
+      "administrative": 40,
+      "sales": 28
+    }
+  },
+  "high school diploma or ged": {
+    "total_jobs": 889,
+    "top_roles": {
+      "other": 772,
+      "customer_service": 32,
+      "nurse": 28,
+      "operations": 27,
+      "sales": 12
+    }
+  },
+  "motivation": {
+    "total_jobs": 880,
+    "top_roles": {
+      "other": 720,
+      "nurse": 46,
+      "sales": 43,
+      "customer_service": 34,
+      "operations": 11
+    }
+  },
+  "professional development": {
+    "total_jobs": 879,
+    "top_roles": {
+      "other": 525,
+      "nurse": 319,
+      "sales": 10,
+      "project_manager": 6,
+      "administrative": 5
+    }
+  },
+  "fastpaced environment": {
+    "total_jobs": 870,
+    "top_roles": {
+      "other": 711,
+      "nurse": 54,
+      "sales": 25,
+      "finance": 18,
+      "customer_service": 17
+    }
+  },
+  "decisionmaking": {
+    "total_jobs": 866,
+    "top_roles": {
+      "other": 595,
+      "nurse": 140,
+      "customer_service": 25,
+      "project_manager": 23,
+      "sales": 18
+    }
+  },
+  "bls certification": {
+    "total_jobs": 865,
+    "top_roles": {
+      "nurse": 623,
+      "other": 240,
+      "operations": 1,
+      "hr": 1
+    }
+  },
+  "acls": {
+    "total_jobs": 857,
+    "top_roles": {
+      "nurse": 743,
+      "other": 112,
+      "hr": 1,
+      "devops_engineer": 1
+    }
+  },
+  "physical stamina": {
+    "total_jobs": 851,
+    "top_roles": {
+      "other": 673,
+      "nurse": 78,
+      "customer_service": 77,
+      "sales": 11,
+      "operations": 9
+    }
+  },
+  "high school diploma or equivalent": {
+    "total_jobs": 845,
+    "top_roles": {
+      "other": 671,
+      "customer_service": 112,
+      "nurse": 30,
+      "operations": 10,
+      "administrative": 10
+    }
+  },
+  "leadership skills": {
+    "total_jobs": 835,
+    "top_roles": {
+      "other": 624,
+      "nurse": 90,
+      "sales": 25,
+      "operations": 23,
+      "project_manager": 21
+    }
+  },
+  "initiative": {
+    "total_jobs": 833,
+    "top_roles": {
+      "other": 627,
+      "nurse": 43,
+      "sales": 41,
+      "administrative": 30,
+      "finance": 26
+    }
+  },
+  "retail": {
+    "total_jobs": 824,
+    "top_roles": {
+      "other": 704,
+      "customer_service": 78,
+      "nurse": 17,
+      "sales": 12,
+      "finance": 3
+    }
+  },
+  "diversity": {
+    "total_jobs": 815,
+    "top_roles": {
+      "other": 568,
+      "nurse": 143,
+      "sales": 32,
+      "hr": 17,
+      "project_manager": 16
+    }
+  },
+  "relationship building": {
+    "total_jobs": 811,
+    "top_roles": {
+      "other": 513,
+      "sales": 175,
+      "nurse": 31,
+      "project_manager": 21,
+      "hr": 15
+    }
+  },
+  "case management": {
+    "total_jobs": 806,
+    "top_roles": {
+      "other": 437,
+      "nurse": 357,
+      "customer_service": 2,
+      "sales": 2,
+      "operations": 2
+    }
+  },
+  "sql": {
+    "total_jobs": 797,
+    "top_roles": {
+      "other": 396,
+      "software_engineer": 131,
+      "data_analyst": 98,
+      "data_engineer": 42,
+      "data_scientist": 28
+    }
+  },
+  "product knowledge": {
+    "total_jobs": 789,
+    "top_roles": {
+      "other": 642,
+      "sales": 88,
+      "customer_service": 27,
+      "nurse": 19,
+      "operations": 11
+    }
+  },
+  "medication administration": {
+    "total_jobs": 782,
+    "top_roles": {
+      "nurse": 668,
+      "other": 111,
+      "project_manager": 2,
+      "administrative": 1
+    }
+  },
+  "food preparation": {
+    "total_jobs": 776,
+    "top_roles": {
+      "other": 757,
+      "nurse": 16,
+      "customer_service": 3
+    }
+  },
+  "performance management": {
+    "total_jobs": 772,
+    "top_roles": {
+      "other": 584,
+      "hr": 80,
+      "nurse": 32,
+      "operations": 26,
+      "customer_service": 15
+    }
+  },
+  "standing": {
+    "total_jobs": 765,
+    "top_roles": {
+      "other": 607,
+      "nurse": 112,
+      "customer_service": 29,
+      "operations": 8,
+      "sales": 3
+    }
+  },
+  "budget management": {
+    "total_jobs": 761,
+    "top_roles": {
+      "other": 547,
+      "project_manager": 89,
+      "nurse": 37,
+      "sales": 20,
+      "administrative": 16
+    }
+  },
+  "microsoft word": {
+    "total_jobs": 719,
+    "top_roles": {
+      "other": 538,
+      "nurse": 60,
+      "administrative": 23,
+      "sales": 22,
+      "customer_service": 17
+    }
+  },
+  "team player": {
+    "total_jobs": 713,
+    "top_roles": {
+      "other": 532,
+      "nurse": 47,
+      "sales": 43,
+      "finance": 21,
+      "project_manager": 13
+    }
+  },
+  "maintenance": {
+    "total_jobs": 710,
+    "top_roles": {
+      "other": 651,
+      "nurse": 20,
+      "operations": 13,
+      "software_engineer": 8,
+      "project_manager": 5
+    }
+  },
+  "financial analysis": {
+    "total_jobs": 707,
+    "top_roles": {
+      "other": 395,
+      "finance": 214,
+      "sales": 29,
+      "nurse": 20,
+      "data_analyst": 17
+    }
+  },
+  "medical": {
+    "total_jobs": 701,
+    "top_roles": {
+      "other": 368,
+      "nurse": 298,
+      "sales": 13,
+      "project_manager": 8,
+      "operations": 4
+    }
+  },
+  "teaching": {
+    "total_jobs": 697,
+    "top_roles": {
+      "other": 507,
+      "nurse": 177,
+      "software_engineer": 3,
+      "project_manager": 2,
+      "sales": 2
+    }
+  },
+  "cpr certification": {
+    "total_jobs": 694,
+    "top_roles": {
+      "nurse": 463,
+      "other": 228,
+      "operations": 1,
+      "administrative": 1,
+      "project_manager": 1
+    }
+  },
+  "integrity": {
+    "total_jobs": 692,
+    "top_roles": {
+      "other": 476,
+      "nurse": 101,
+      "sales": 42,
+      "finance": 12,
+      "devops_engineer": 11
+    }
+  },
+  "ability to work in a fastpaced environment": {
+    "total_jobs": 688,
+    "top_roles": {
+      "other": 588,
+      "nurse": 43,
+      "customer_service": 23,
+      "operations": 9,
+      "sales": 8
+    }
+  },
+  "empathy": {
+    "total_jobs": 687,
+    "top_roles": {
+      "other": 401,
+      "nurse": 222,
+      "customer_service": 41,
+      "sales": 9,
+      "project_manager": 3
+    }
+  },
+  "hiring": {
+    "total_jobs": 676,
+    "top_roles": {
+      "other": 581,
+      "nurse": 39,
+      "hr": 18,
+      "operations": 12,
+      "sales": 7
+    }
+  },
+  "vision": {
+    "total_jobs": 673,
+    "top_roles": {
+      "other": 412,
+      "nurse": 215,
+      "sales": 10,
+      "project_manager": 9,
+      "customer_service": 6
+    }
+  },
+  "flexible schedule": {
+    "total_jobs": 673,
+    "top_roles": {
+      "other": 548,
+      "nurse": 64,
+      "customer_service": 28,
+      "sales": 21,
+      "administrative": 4
+    }
+  },
+  "walking": {
+    "total_jobs": 671,
+    "top_roles": {
+      "other": 545,
+      "nurse": 92,
+      "customer_service": 22,
+      "operations": 5,
+      "sales": 3
+    }
+  },
+  "bending": {
+    "total_jobs": 668,
+    "top_roles": {
+      "other": 546,
+      "nurse": 88,
+      "customer_service": 23,
+      "operations": 5,
+      "qa_engineer": 2
+    }
+  },
+  "finance": {
+    "total_jobs": 666,
+    "top_roles": {
+      "other": 424,
+      "finance": 134,
+      "nurse": 37,
+      "sales": 20,
+      "data_analyst": 17
+    }
+  },
+  "physical strength": {
+    "total_jobs": 656,
+    "top_roles": {
+      "other": 491,
+      "customer_service": 65,
+      "nurse": 57,
+      "operations": 17,
+      "sales": 15
+    }
+  },
+  "continuing education": {
+    "total_jobs": 655,
+    "top_roles": {
+      "other": 409,
+      "nurse": 236,
+      "administrative": 2,
+      "customer_service": 2,
+      "operations": 2
+    }
+  },
+  "assessment": {
+    "total_jobs": 644,
+    "top_roles": {
+      "nurse": 419,
+      "other": 221,
+      "hr": 1,
+      "sales": 1,
+      "software_engineer": 1
+    }
+  },
+  "ability to work independently": {
+    "total_jobs": 644,
+    "top_roles": {
+      "other": 517,
+      "nurse": 52,
+      "customer_service": 18,
+      "sales": 15,
+      "operations": 9
+    }
+  },
+  "compassion": {
+    "total_jobs": 641,
+    "top_roles": {
+      "other": 328,
+      "nurse": 306,
+      "administrative": 4,
+      "customer_service": 3
+    }
+  },
+  "regulatory compliance": {
+    "total_jobs": 637,
+    "top_roles": {
+      "other": 420,
+      "nurse": 135,
+      "project_manager": 21,
+      "qa_engineer": 14,
+      "finance": 11
+    }
+  },
+  "team work": {
+    "total_jobs": 633,
+    "top_roles": {
+      "other": 481,
+      "nurse": 80,
+      "sales": 30,
+      "customer_service": 20,
+      "administrative": 4
+    }
+  },
+  "401k": {
+    "total_jobs": 629,
+    "top_roles": {
+      "other": 395,
+      "nurse": 169,
+      "project_manager": 14,
+      "sales": 13,
+      "customer_service": 8
+    }
+  },
+  "manufacturing": {
+    "total_jobs": 629,
+    "top_roles": {
+      "other": 484,
+      "sales": 30,
+      "finance": 24,
+      "operations": 23,
+      "project_manager": 15
+    }
+  },
+  "electrical engineering": {
+    "total_jobs": 628,
+    "top_roles": {
+      "other": 520,
+      "project_manager": 30,
+      "nurse": 22,
+      "devops_engineer": 20,
+      "qa_engineer": 12
+    }
+  },
+  "sanitation": {
+    "total_jobs": 624,
+    "top_roles": {
+      "other": 597,
+      "nurse": 14,
+      "operations": 6,
+      "qa_engineer": 3,
+      "customer_service": 2
+    }
+  },
+  "master's degree": {
+    "total_jobs": 621,
+    "top_roles": {
+      "other": 448,
+      "nurse": 81,
+      "project_manager": 19,
+      "software_engineer": 15,
+      "hr": 13
+    }
+  },
+  "autocad": {
+    "total_jobs": 621,
+    "top_roles": {
+      "other": 533,
+      "project_manager": 72,
+      "devops_engineer": 7,
+      "nurse": 6,
+      "sales": 2
+    }
+  },
+  "cleaning": {
+    "total_jobs": 616,
+    "top_roles": {
+      "other": 588,
+      "nurse": 15,
+      "customer_service": 9,
+      "project_manager": 1,
+      "sales": 1
+    }
+  },
+  "tuition reimbursement": {
+    "total_jobs": 613,
+    "top_roles": {
+      "other": 420,
+      "nurse": 137,
+      "sales": 18,
+      "customer_service": 9,
+      "project_manager": 8
+    }
+  },
+  "word": {
+    "total_jobs": 613,
+    "top_roles": {
+      "other": 433,
+      "nurse": 35,
+      "finance": 30,
+      "sales": 30,
+      "administrative": 24
+    }
+  },
+  "networking": {
+    "total_jobs": 612,
+    "top_roles": {
+      "other": 420,
+      "sales": 89,
+      "nurse": 24,
+      "devops_engineer": 24,
+      "hr": 16
+    }
+  },
+  "employee assistance program": {
+    "total_jobs": 607,
+    "top_roles": {
+      "other": 469,
+      "nurse": 92,
+      "sales": 8,
+      "customer_service": 7,
+      "administrative": 7
+    }
+  },
+  "medical terminology": {
+    "total_jobs": 605,
+    "top_roles": {
+      "other": 353,
+      "nurse": 228,
+      "customer_service": 13,
+      "administrative": 7,
+      "sales": 2
+    }
+  },
+  "quality improvement": {
+    "total_jobs": 605,
+    "top_roles": {
+      "nurse": 386,
+      "other": 209,
+      "project_manager": 2,
+      "qa_engineer": 2,
+      "data_analyst": 1
+    }
+  },
+  "paid holidays": {
+    "total_jobs": 603,
+    "top_roles": {
+      "other": 457,
+      "nurse": 70,
+      "sales": 25,
+      "customer_service": 12,
+      "project_manager": 10
+    }
+  },
+  "innovation": {
+    "total_jobs": 600,
+    "top_roles": {
+      "other": 410,
+      "nurse": 61,
+      "sales": 27,
+      "project_manager": 21,
+      "marketing": 12
+    }
+  },
+  "selfmotivation": {
+    "total_jobs": 594,
+    "top_roles": {
+      "other": 406,
+      "sales": 69,
+      "nurse": 22,
+      "customer_service": 19,
+      "project_manager": 18
+    }
+  },
+  "medical benefits": {
+    "total_jobs": 592,
+    "top_roles": {
+      "other": 346,
+      "nurse": 211,
+      "sales": 12,
+      "operations": 6,
+      "customer_service": 5
+    }
+  },
+  "inventory control": {
+    "total_jobs": 592,
+    "top_roles": {
+      "other": 501,
+      "operations": 47,
+      "nurse": 31,
+      "finance": 5,
+      "customer_service": 3
+    }
+  },
+  "positive attitude": {
+    "total_jobs": 589,
+    "top_roles": {
+      "other": 478,
+      "nurse": 34,
+      "customer_service": 29,
+      "sales": 25,
+      "administrative": 7
+    }
+  },
+  "forecasting": {
+    "total_jobs": 588,
+    "top_roles": {
+      "other": 318,
+      "finance": 143,
+      "sales": 61,
+      "operations": 20,
+      "project_manager": 17
+    }
+  },
+  "powerpoint": {
+    "total_jobs": 586,
+    "top_roles": {
+      "other": 393,
+      "sales": 38,
+      "nurse": 29,
+      "administrative": 26,
+      "finance": 25
+    }
+  },
+  "dental": {
+    "total_jobs": 586,
+    "top_roles": {
+      "other": 340,
+      "nurse": 205,
+      "project_manager": 10,
+      "sales": 8,
+      "administrative": 5
+    }
+  },
+  "counseling": {
+    "total_jobs": 582,
+    "top_roles": {
+      "other": 481,
+      "nurse": 86,
+      "hr": 7,
+      "project_manager": 3,
+      "operations": 2
+    }
+  },
+  "evaluation": {
+    "total_jobs": 580,
+    "top_roles": {
+      "nurse": 360,
+      "other": 205,
+      "project_manager": 5,
+      "qa_engineer": 2,
+      "devops_engineer": 1
+    }
+  },
+  "weekly pay": {
+    "total_jobs": 578,
+    "top_roles": {
+      "nurse": 328,
+      "other": 246,
+      "customer_service": 2,
+      "operations": 1,
+      "qa_engineer": 1
+    }
+  },
+  "401(k)": {
+    "total_jobs": 578,
+    "top_roles": {
+      "other": 372,
+      "nurse": 152,
+      "sales": 17,
+      "customer_service": 7,
+      "project_manager": 6
+    }
+  },
+  "strategic planning": {
+    "total_jobs": 573,
+    "top_roles": {
+      "other": 382,
+      "sales": 76,
+      "project_manager": 26,
+      "nurse": 26,
+      "finance": 15
+    }
+  },
+  "training and development": {
+    "total_jobs": 572,
+    "top_roles": {
+      "other": 443,
+      "nurse": 31,
+      "hr": 28,
+      "sales": 18,
+      "operations": 14
+    }
+  },
+  "mechanical engineering": {
+    "total_jobs": 569,
+    "top_roles": {
+      "other": 488,
+      "project_manager": 33,
+      "nurse": 14,
+      "sales": 10,
+      "devops_engineer": 8
+    }
+  },
+  "financial reporting": {
+    "total_jobs": 568,
+    "top_roles": {
+      "other": 281,
+      "finance": 244,
+      "data_analyst": 12,
+      "nurse": 11,
+      "administrative": 6
+    }
+  },
+  "process improvement": {
+    "total_jobs": 566,
+    "top_roles": {
+      "other": 384,
+      "finance": 44,
+      "nurse": 44,
+      "operations": 34,
+      "data_analyst": 15
+    }
+  },
+  "continuous improvement": {
+    "total_jobs": 564,
+    "top_roles": {
+      "other": 445,
+      "operations": 29,
+      "nurse": 21,
+      "project_manager": 12,
+      "software_engineer": 11
+    }
+  },
+  "team collaboration": {
+    "total_jobs": 564,
+    "top_roles": {
+      "other": 377,
+      "nurse": 75,
+      "sales": 43,
+      "software_engineer": 12,
+      "project_manager": 10
+    }
+  },
+  "infection control": {
+    "total_jobs": 558,
+    "top_roles": {
+      "nurse": 391,
+      "other": 167
+    }
+  },
+  "diversity and inclusion": {
+    "total_jobs": 557,
+    "top_roles": {
+      "other": 396,
+      "nurse": 80,
+      "hr": 21,
+      "sales": 21,
+      "project_manager": 10
+    }
+  },
+  "rn license": {
+    "total_jobs": 550,
+    "top_roles": {
+      "nurse": 531,
+      "other": 19
+    }
+  },
+  "team building": {
+    "total_jobs": 548,
+    "top_roles": {
+      "other": 447,
+      "nurse": 26,
+      "project_manager": 16,
+      "sales": 15,
+      "operations": 12
+    }
+  },
+  "change management": {
+    "total_jobs": 547,
+    "top_roles": {
+      "other": 359,
+      "project_manager": 58,
+      "nurse": 40,
+      "hr": 22,
+      "operations": 16
+    }
+  },
+  "civil engineering": {
+    "total_jobs": 546,
+    "top_roles": {
+      "other": 443,
+      "project_manager": 93,
+      "nurse": 4,
+      "sales": 2,
+      "devops_engineer": 1
+    }
+  },
+  "retail management": {
+    "total_jobs": 544,
+    "top_roles": {
+      "other": 510,
+      "customer_service": 9,
+      "operations": 8,
+      "administrative": 6,
+      "sales": 6
+    }
+  },
+  "background check": {
+    "total_jobs": 544,
+    "top_roles": {
+      "other": 380,
+      "nurse": 120,
+      "operations": 9,
+      "customer_service": 8,
+      "project_manager": 8
+    }
+  },
+  "construction": {
+    "total_jobs": 542,
+    "top_roles": {
+      "other": 422,
+      "project_manager": 73,
+      "sales": 18,
+      "nurse": 12,
+      "finance": 5
+    }
+  },
+  "sap": {
+    "total_jobs": 542,
+    "top_roles": {
+      "other": 380,
+      "finance": 54,
+      "operations": 40,
+      "nurse": 13,
+      "project_manager": 10
+    }
+  },
+  "development": {
+    "total_jobs": 542,
+    "top_roles": {
+      "other": 430,
+      "nurse": 40,
+      "sales": 11,
+      "devops_engineer": 9,
+      "project_manager": 8
+    }
+  },
+  "construction management": {
+    "total_jobs": 540,
+    "top_roles": {
+      "other": 385,
+      "project_manager": 141,
+      "nurse": 4,
+      "operations": 3,
+      "sales": 2
+    }
+  },
+  "accuracy": {
+    "total_jobs": 538,
+    "top_roles": {
+      "other": 414,
+      "finance": 45,
+      "nurse": 23,
+      "customer_service": 19,
+      "sales": 10
+    }
+  },
+  "account management": {
+    "total_jobs": 533,
+    "top_roles": {
+      "sales": 329,
+      "other": 183,
+      "customer_service": 6,
+      "nurse": 3,
+      "operations": 3
+    }
+  },
+  "dental benefits": {
+    "total_jobs": 533,
+    "top_roles": {
+      "other": 313,
+      "nurse": 183,
+      "sales": 15,
+      "operations": 6,
+      "administrative": 4
+    }
+  },
+  "social work": {
+    "total_jobs": 529,
+    "top_roles": {
+      "other": 461,
+      "nurse": 63,
+      "project_manager": 3,
+      "administrative": 1,
+      "customer_service": 1
+    }
+  },
+  "customer service skills": {
+    "total_jobs": 527,
+    "top_roles": {
+      "other": 393,
+      "nurse": 54,
+      "customer_service": 33,
+      "sales": 15,
+      "administrative": 9
+    }
+  },
+  "rn": {
+    "total_jobs": 526,
+    "top_roles": {
+      "nurse": 502,
+      "other": 24
+    }
+  },
+  "java": {
+    "total_jobs": 525,
+    "top_roles": {
+      "other": 225,
+      "software_engineer": 206,
+      "devops_engineer": 21,
+      "qa_engineer": 17,
+      "data_engineer": 17
+    }
+  },
+  "english": {
+    "total_jobs": 523,
+    "top_roles": {
+      "other": 388,
+      "nurse": 58,
+      "sales": 22,
+      "project_manager": 10,
+      "customer_service": 9
+    }
+  },
+  "inclusion": {
+    "total_jobs": 522,
+    "top_roles": {
+      "other": 371,
+      "nurse": 90,
+      "sales": 21,
+      "project_manager": 9,
+      "hr": 8
+    }
+  },
+  "hospitality": {
+    "total_jobs": 502,
+    "top_roles": {
+      "other": 461,
+      "sales": 13,
+      "nurse": 8,
+      "administrative": 5,
+      "customer_service": 5
+    }
+  },
+  "financial management": {
+    "total_jobs": 499,
+    "top_roles": {
+      "other": 375,
+      "finance": 34,
+      "project_manager": 34,
+      "nurse": 26,
+      "administrative": 10
+    }
+  },
+  "time management skills": {
+    "total_jobs": 498,
+    "top_roles": {
+      "other": 347,
+      "nurse": 65,
+      "sales": 26,
+      "finance": 15,
+      "customer_service": 11
+    }
+  },
+  "security": {
+    "total_jobs": 493,
+    "top_roles": {
+      "other": 401,
+      "devops_engineer": 23,
+      "software_engineer": 18,
+      "sales": 12,
+      "nurse": 11
+    }
+  },
+  "technical writing": {
+    "total_jobs": 484,
+    "top_roles": {
+      "other": 389,
+      "project_manager": 34,
+      "sales": 11,
+      "nurse": 10,
+      "devops_engineer": 8
+    }
+  },
+  "outlook": {
+    "total_jobs": 481,
+    "top_roles": {
+      "other": 345,
+      "nurse": 30,
+      "administrative": 24,
+      "sales": 23,
+      "project_manager": 17
+    }
+  },
+  "vision benefits": {
+    "total_jobs": 477,
+    "top_roles": {
+      "other": 276,
+      "nurse": 165,
+      "sales": 14,
+      "operations": 6,
+      "administrative": 4
+    }
+  },
+  "ethics": {
+    "total_jobs": 475,
+    "top_roles": {
+      "other": 281,
+      "nurse": 159,
+      "sales": 10,
+      "project_manager": 5,
+      "administrative": 5
+    }
+  },
+  "ability to work under pressure": {
+    "total_jobs": 469,
+    "top_roles": {
+      "other": 384,
+      "nurse": 40,
+      "customer_service": 11,
+      "sales": 8,
+      "finance": 8
+    }
+  },
+  "travel nursing": {
+    "total_jobs": 466,
+    "top_roles": {
+      "nurse": 396,
+      "other": 70
+    }
+  },
+  "computer science": {
+    "total_jobs": 463,
+    "top_roles": {
+      "other": 295,
+      "software_engineer": 52,
+      "data_analyst": 22,
+      "nurse": 19,
+      "project_manager": 14
+    }
+  },
+  "report writing": {
+    "total_jobs": 459,
+    "top_roles": {
+      "other": 364,
+      "nurse": 29,
+      "project_manager": 19,
+      "administrative": 18,
+      "sales": 5
+    }
+  },
+  "radiology": {
+    "total_jobs": 457,
+    "top_roles": {
+      "other": 407,
+      "nurse": 49,
+      "sales": 1
+    }
+  },
+  "delegation": {
+    "total_jobs": 456,
+    "top_roles": {
+      "nurse": 227,
+      "other": 183,
+      "project_manager": 11,
+      "customer_service": 11,
+      "administrative": 7
+    }
+  },
+  "recruitment": {
+    "total_jobs": 455,
+    "top_roles": {
+      "other": 306,
+      "hr": 72,
+      "nurse": 45,
+      "sales": 10,
+      "operations": 9
+    }
+  },
+  "ms office": {
+    "total_jobs": 454,
+    "top_roles": {
+      "other": 326,
+      "sales": 34,
+      "nurse": 20,
+      "project_manager": 18,
+      "finance": 15
+    }
+  },
+  "coordination": {
+    "total_jobs": 450,
+    "top_roles": {
+      "other": 272,
+      "nurse": 117,
+      "project_manager": 25,
+      "administrative": 9,
+      "operations": 9
+    }
+  },
+  "aws": {
+    "total_jobs": 447,
+    "top_roles": {
+      "other": 216,
+      "software_engineer": 137,
+      "devops_engineer": 42,
+      "data_engineer": 19,
+      "data_analyst": 8
+    }
+  },
+  "medical insurance": {
+    "total_jobs": 441,
+    "top_roles": {
+      "other": 300,
+      "nurse": 105,
+      "project_manager": 7,
+      "operations": 7,
+      "sales": 6
+    }
+  },
+  "writing": {
+    "total_jobs": 440,
+    "top_roles": {
+      "other": 293,
+      "nurse": 79,
+      "sales": 18,
+      "project_manager": 14,
+      "administrative": 10
+    }
+  },
+  "reaching": {
+    "total_jobs": 437,
+    "top_roles": {
+      "other": 344,
+      "nurse": 64,
+      "customer_service": 21,
+      "qa_engineer": 3,
+      "sales": 2
+    }
+  },
+  "first aid": {
+    "total_jobs": 435,
+    "top_roles": {
+      "other": 354,
+      "nurse": 71,
+      "operations": 4,
+      "administrative": 3,
+      "project_manager": 2
+    }
+  },
+  "physical fitness": {
+    "total_jobs": 427,
+    "top_roles": {
+      "other": 377,
+      "nurse": 23,
+      "customer_service": 17,
+      "operations": 6,
+      "sales": 2
+    }
+  },
+  "english proficiency": {
+    "total_jobs": 426,
+    "top_roles": {
+      "other": 276,
+      "nurse": 118,
+      "operations": 7,
+      "sales": 7,
+      "customer_service": 6
+    }
+  },
+  "creativity": {
+    "total_jobs": 425,
+    "top_roles": {
+      "other": 314,
+      "nurse": 29,
+      "sales": 24,
+      "marketing": 14,
+      "project_manager": 12
+    }
+  },
+  "data collection": {
+    "total_jobs": 423,
+    "top_roles": {
+      "other": 302,
+      "nurse": 87,
+      "qa_engineer": 7,
+      "project_manager": 7,
+      "data_analyst": 6
+    }
+  },
+  "equipment maintenance": {
+    "total_jobs": 419,
+    "top_roles": {
+      "other": 363,
+      "nurse": 42,
+      "operations": 10,
+      "customer_service": 1,
+      "project_manager": 1
+    }
+  },
+  "detailoriented": {
+    "total_jobs": 416,
+    "top_roles": {
+      "other": 288,
+      "nurse": 33,
+      "finance": 20,
+      "sales": 18,
+      "administrative": 16
+    }
+  },
+  "treatment planning": {
+    "total_jobs": 414,
+    "top_roles": {
+      "other": 320,
+      "nurse": 92,
+      "administrative": 1,
+      "project_manager": 1
+    }
+  },
+  "computer literacy": {
+    "total_jobs": 414,
+    "top_roles": {
+      "other": 288,
+      "nurse": 68,
+      "customer_service": 24,
+      "sales": 14,
+      "operations": 5
+    }
+  },
+  "stress management": {
+    "total_jobs": 413,
+    "top_roles": {
+      "other": 248,
+      "nurse": 130,
+      "customer_service": 9,
+      "project_manager": 7,
+      "sales": 6
+    }
+  },
+  "agile": {
+    "total_jobs": 409,
+    "top_roles": {
+      "other": 200,
+      "software_engineer": 89,
+      "project_manager": 36,
+      "data_analyst": 23,
+      "devops_engineer": 20
+    }
+  },
+  "mathematical calculations": {
+    "total_jobs": 408,
+    "top_roles": {
+      "other": 399,
+      "nurse": 5,
+      "sales": 2,
+      "customer_service": 1,
+      "operations": 1
+    }
+  },
+  "risk assessment": {
+    "total_jobs": 408,
+    "top_roles": {
+      "other": 320,
+      "nurse": 43,
+      "project_manager": 18,
+      "sales": 7,
+      "operations": 4
+    }
+  },
+  "patient assessment": {
+    "total_jobs": 406,
+    "top_roles": {
+      "nurse": 348,
+      "other": 57,
+      "administrative": 1
+    }
+  },
+  "ability to work independently and as part of a team": {
+    "total_jobs": 402,
+    "top_roles": {
+      "other": 300,
+      "nurse": 48,
+      "sales": 12,
+      "project_manager": 8,
+      "customer_service": 8
+    }
+  },
+  "oral communication": {
+    "total_jobs": 402,
+    "top_roles": {
+      "other": 297,
+      "nurse": 54,
+      "project_manager": 17,
+      "administrative": 7,
+      "sales": 5
+    }
+  },
+  "pals": {
+    "total_jobs": 401,
+    "top_roles": {
+      "nurse": 356,
+      "other": 44,
+      "hr": 1
+    }
+  },
+  "stooping": {
+    "total_jobs": 401,
+    "top_roles": {
+      "other": 345,
+      "nurse": 35,
+      "customer_service": 12,
+      "operations": 5,
+      "sales": 1
+    }
+  },
+  "record keeping": {
+    "total_jobs": 399,
+    "top_roles": {
+      "other": 313,
+      "nurse": 49,
+      "operations": 14,
+      "administrative": 7,
+      "project_manager": 5
+    }
+  },
+  "independent work": {
+    "total_jobs": 399,
+    "top_roles": {
+      "other": 272,
+      "nurse": 49,
+      "sales": 22,
+      "administrative": 17,
+      "finance": 9
+    }
+  },
+  "design": {
+    "total_jobs": 399,
+    "top_roles": {
+      "other": 310,
+      "project_manager": 33,
+      "software_engineer": 17,
+      "devops_engineer": 12,
+      "nurse": 5
+    }
+  },
+  "disability insurance": {
+    "total_jobs": 397,
+    "top_roles": {
+      "other": 280,
+      "nurse": 81,
+      "sales": 12,
+      "project_manager": 4,
+      "operations": 4
+    }
+  },
+  "psychology": {
+    "total_jobs": 396,
+    "top_roles": {
+      "other": 370,
+      "nurse": 19,
+      "project_manager": 4,
+      "hr": 1,
+      "customer_service": 1
+    }
+  },
+  "loss prevention": {
+    "total_jobs": 390,
+    "top_roles": {
+      "other": 375,
+      "nurse": 8,
+      "customer_service": 4,
+      "operations": 3
+    }
+  },
+  "human resources": {
+    "total_jobs": 389,
+    "top_roles": {
+      "other": 240,
+      "hr": 85,
+      "nurse": 33,
+      "administrative": 13,
+      "sales": 5
+    }
+  },
+  "driving": {
+    "total_jobs": 387,
+    "top_roles": {
+      "other": 342,
+      "nurse": 28,
+      "sales": 10,
+      "qa_engineer": 2,
+      "customer_service": 2
+    }
+  },
+  "client relations": {
+    "total_jobs": 386,
+    "top_roles": {
+      "other": 269,
+      "project_manager": 40,
+      "sales": 31,
+      "nurse": 25,
+      "finance": 6
+    }
+  },
+  "401(k) plan": {
+    "total_jobs": 386,
+    "top_roles": {
+      "other": 197,
+      "nurse": 161,
+      "sales": 7,
+      "customer_service": 6,
+      "hr": 4
+    }
+  },
+  "machine learning": {
+    "total_jobs": 385,
+    "top_roles": {
+      "other": 193,
+      "data_scientist": 46,
+      "software_engineer": 34,
+      "ml_engineer": 23,
+      "data_engineer": 22
+    }
+  },
+  "data management": {
+    "total_jobs": 385,
+    "top_roles": {
+      "other": 270,
+      "data_analyst": 23,
+      "nurse": 20,
+      "finance": 12,
+      "sales": 10
+    }
+  },
+  "software development": {
+    "total_jobs": 383,
+    "top_roles": {
+      "other": 203,
+      "software_engineer": 101,
+      "devops_engineer": 15,
+      "project_manager": 14,
+      "product_manager": 8
+    }
+  },
+  "interpersonal communication": {
+    "total_jobs": 383,
+    "top_roles": {
+      "other": 271,
+      "nurse": 73,
+      "sales": 13,
+      "customer_service": 5,
+      "operations": 4
+    }
+  },
+  "safety procedures": {
+    "total_jobs": 379,
+    "top_roles": {
+      "other": 341,
+      "nurse": 17,
+      "operations": 13,
+      "project_manager": 3,
+      "customer_service": 2
+    }
+  },
+  "automation": {
+    "total_jobs": 378,
+    "top_roles": {
+      "other": 277,
+      "devops_engineer": 25,
+      "software_engineer": 18,
+      "sales": 11,
+      "nurse": 9
+    }
+  },
+  "retail operations": {
+    "total_jobs": 373,
+    "top_roles": {
+      "other": 291,
+      "customer_service": 68,
+      "nurse": 10,
+      "operations": 3,
+      "sales": 1
+    }
+  },
+  "referral bonus": {
+    "total_jobs": 371,
+    "top_roles": {
+      "nurse": 205,
+      "other": 164,
+      "qa_engineer": 1,
+      "project_manager": 1
+    }
+  },
+  "kneeling": {
+    "total_jobs": 368,
+    "top_roles": {
+      "other": 301,
+      "nurse": 49,
+      "customer_service": 11,
+      "operations": 4,
+      "sales": 1
+    }
+  },
+  "physical demands": {
+    "total_jobs": 368,
+    "top_roles": {
+      "other": 266,
+      "nurse": 75,
+      "sales": 9,
+      "operations": 4,
+      "customer_service": 3
+    }
+  },
+  "testing": {
+    "total_jobs": 367,
+    "top_roles": {
+      "other": 279,
+      "software_engineer": 20,
+      "nurse": 18,
+      "data_analyst": 14,
+      "devops_engineer": 9
+    }
+  },
+  "public speaking": {
+    "total_jobs": 366,
+    "top_roles": {
+      "other": 276,
+      "sales": 40,
+      "nurse": 25,
+      "project_manager": 8,
+      "marketing": 4
+    }
+  },
+  "pto": {
+    "total_jobs": 365,
+    "top_roles": {
+      "other": 213,
+      "nurse": 117,
+      "project_manager": 7,
+      "sales": 6,
+      "operations": 5
+    }
+  },
+  "mental health": {
+    "total_jobs": 365,
+    "top_roles": {
+      "other": 277,
+      "nurse": 87,
+      "project_manager": 1
+    }
+  },
+  "remote work": {
+    "total_jobs": 364,
+    "top_roles": {
+      "other": 257,
+      "sales": 37,
+      "nurse": 29,
+      "software_engineer": 11,
+      "project_manager": 7
+    }
+  },
+  "crm": {
+    "total_jobs": 364,
+    "top_roles": {
+      "other": 197,
+      "sales": 135,
+      "customer_service": 10,
+      "marketing": 4,
+      "operations": 3
+    }
+  },
+  "accountability": {
+    "total_jobs": 362,
+    "top_roles": {
+      "other": 247,
+      "nurse": 77,
+      "sales": 9,
+      "administrative": 7,
+      "operations": 6
+    }
+  },
+  "teamwork skills": {
+    "total_jobs": 360,
+    "top_roles": {
+      "other": 248,
+      "nurse": 57,
+      "sales": 10,
+      "finance": 9,
+      "project_manager": 8
+    }
+  },
+  "analytical thinking": {
+    "total_jobs": 359,
+    "top_roles": {
+      "other": 236,
+      "nurse": 37,
+      "sales": 23,
+      "project_manager": 11,
+      "finance": 10
+    }
+  },
+  "hipaa": {
+    "total_jobs": 357,
+    "top_roles": {
+      "other": 194,
+      "nurse": 146,
+      "administrative": 5,
+      "hr": 3,
+      "sales": 2
+    }
+  },
+  "procurement": {
+    "total_jobs": 356,
+    "top_roles": {
+      "other": 269,
+      "project_manager": 40,
+      "operations": 23,
+      "administrative": 8,
+      "data_analyst": 6
+    }
+  },
+  "reliability": {
+    "total_jobs": 356,
+    "top_roles": {
+      "other": 279,
+      "nurse": 33,
+      "software_engineer": 11,
+      "customer_service": 8,
+      "devops_engineer": 7
+    }
+  },
+  "contract management": {
+    "total_jobs": 355,
+    "top_roles": {
+      "other": 249,
+      "project_manager": 66,
+      "sales": 14,
+      "operations": 10,
+      "finance": 6
+    }
+  },
+  "restaurant management": {
+    "total_jobs": 354,
+    "top_roles": {
+      "other": 350,
+      "nurse": 3,
+      "operations": 1
+    }
+  },
+  "insurance": {
+    "total_jobs": 352,
+    "top_roles": {
+      "other": 243,
+      "nurse": 40,
+      "sales": 33,
+      "customer_service": 18,
+      "finance": 7
+    }
+  },
+  "active listening": {
+    "total_jobs": 352,
+    "top_roles": {
+      "other": 241,
+      "nurse": 48,
+      "customer_service": 33,
+      "sales": 18,
+      "project_manager": 4
+    }
+  },
+  "registered nurse (rn)": {
+    "total_jobs": 351,
+    "top_roles": {
+      "nurse": 337,
+      "other": 12,
+      "qa_engineer": 1,
+      "hr": 1
+    }
+  },
+  "climbing": {
+    "total_jobs": 351,
+    "top_roles": {
+      "other": 309,
+      "nurse": 24,
+      "customer_service": 17,
+      "project_manager": 1
+    }
+  },
+  "nurse practitioner": {
+    "total_jobs": 350,
+    "top_roles": {
+      "nurse": 273,
+      "other": 76,
+      "hr": 1
+    }
+  },
+  "technical skills": {
+    "total_jobs": 349,
+    "top_roles": {
+      "other": 267,
+      "nurse": 27,
+      "data_analyst": 14,
+      "sales": 11,
+      "project_manager": 7
+    }
+  },
+  "implementation": {
+    "total_jobs": 347,
+    "top_roles": {
+      "nurse": 212,
+      "other": 98,
+      "software_engineer": 8,
+      "project_manager": 6,
+      "data_analyst": 5
+    }
+  },
+  "covid19 vaccination": {
+    "total_jobs": 347,
+    "top_roles": {
+      "other": 211,
+      "nurse": 116,
+      "devops_engineer": 8,
+      "project_manager": 5,
+      "sales": 5
+    }
+  },
+  "javascript": {
+    "total_jobs": 346,
+    "top_roles": {
+      "other": 168,
+      "software_engineer": 152,
+      "devops_engineer": 7,
+      "qa_engineer": 6,
+      "ui_ux_designer": 4
+    }
+  },
+  "ability to lift heavy objects": {
+    "total_jobs": 345,
+    "top_roles": {
+      "other": 313,
+      "customer_service": 12,
+      "nurse": 10,
+      "sales": 4,
+      "operations": 3
+    }
+  },
+  "internal medicine": {
+    "total_jobs": 344,
+    "top_roles": {
+      "nurse": 182,
+      "other": 162
+    }
+  },
+  "payroll": {
+    "total_jobs": 344,
+    "top_roles": {
+      "other": 222,
+      "finance": 58,
+      "hr": 33,
+      "nurse": 16,
+      "administrative": 10
+    }
+  },
+  "analysis": {
+    "total_jobs": 341,
+    "top_roles": {
+      "other": 260,
+      "nurse": 17,
+      "project_manager": 12,
+      "sales": 9,
+      "data_analyst": 8
+    }
+  },
+  "basic computer skills": {
+    "total_jobs": 340,
+    "top_roles": {
+      "other": 264,
+      "nurse": 49,
+      "customer_service": 14,
+      "sales": 6,
+      "operations": 3
+    }
+  },
+  "benefits": {
+    "total_jobs": 338,
+    "top_roles": {
+      "other": 207,
+      "nurse": 57,
+      "hr": 25,
+      "sales": 18,
+      "finance": 6
+    }
+  },
+  "customer relationship management": {
+    "total_jobs": 337,
+    "top_roles": {
+      "sales": 154,
+      "other": 153,
+      "project_manager": 8,
+      "customer_service": 6,
+      "operations": 5
+    }
+  },
+  "physician assistant": {
+    "total_jobs": 337,
+    "top_roles": {
+      "nurse": 171,
+      "other": 166
+    }
+  },
+  "salesforce": {
+    "total_jobs": 336,
+    "top_roles": {
+      "other": 177,
+      "sales": 113,
+      "operations": 10,
+      "project_manager": 6,
+      "customer_service": 5
+    }
+  },
+  "crisis intervention": {
+    "total_jobs": 334,
+    "top_roles": {
+      "other": 278,
+      "nurse": 55,
+      "finance": 1
+    }
+  },
+  "business administration": {
+    "total_jobs": 333,
+    "top_roles": {
+      "other": 212,
+      "operations": 40,
+      "sales": 14,
+      "nurse": 13,
+      "hr": 12
+    }
+  },
+  "reliable transportation": {
+    "total_jobs": 333,
+    "top_roles": {
+      "other": 227,
+      "nurse": 84,
+      "sales": 17,
+      "customer_service": 3,
+      "operations": 1
+    }
+  },
+  "acls certification": {
+    "total_jobs": 331,
+    "top_roles": {
+      "nurse": 297,
+      "other": 33,
+      "operations": 1
+    }
+  },
+  "operations": {
+    "total_jobs": 331,
+    "top_roles": {
+      "other": 267,
+      "nurse": 16,
+      "operations": 16,
+      "project_manager": 11,
+      "sales": 7
+    }
+  },
+  "windows": {
+    "total_jobs": 331,
+    "top_roles": {
+      "other": 241,
+      "nurse": 26,
+      "software_engineer": 16,
+      "devops_engineer": 15,
+      "customer_service": 10
+    }
+  },
+  "auditing": {
+    "total_jobs": 330,
+    "top_roles": {
+      "other": 215,
+      "finance": 70,
+      "nurse": 26,
+      "qa_engineer": 9,
+      "sales": 3
+    }
+  },
+  "cleanliness": {
+    "total_jobs": 329,
+    "top_roles": {
+      "other": 306,
+      "nurse": 17,
+      "operations": 4,
+      "project_manager": 1,
+      "sales": 1
+    }
+  },
+  "ability to meet deadlines": {
+    "total_jobs": 329,
+    "top_roles": {
+      "other": 266,
+      "nurse": 24,
+      "finance": 8,
+      "customer_service": 7,
+      "sales": 6
+    }
+  },
+  "vendor management": {
+    "total_jobs": 328,
+    "top_roles": {
+      "other": 244,
+      "project_manager": 41,
+      "operations": 10,
+      "administrative": 9,
+      "sales": 4
+    }
+  },
+  "event planning": {
+    "total_jobs": 328,
+    "top_roles": {
+      "other": 237,
+      "administrative": 42,
+      "sales": 25,
+      "marketing": 8,
+      "nurse": 7
+    }
+  },
+  "cost control": {
+    "total_jobs": 326,
+    "top_roles": {
+      "other": 255,
+      "project_manager": 39,
+      "operations": 11,
+      "nurse": 9,
+      "finance": 9
+    }
+  },
+  "paid vacation": {
+    "total_jobs": 326,
+    "top_roles": {
+      "other": 280,
+      "nurse": 21,
+      "sales": 8,
+      "operations": 5,
+      "customer_service": 5
+    }
+  },
+  "strategic thinking": {
+    "total_jobs": 325,
+    "top_roles": {
+      "other": 208,
+      "sales": 43,
+      "project_manager": 11,
+      "hr": 10,
+      "marketing": 9
+    }
+  },
+  "food handling": {
+    "total_jobs": 325,
+    "top_roles": {
+      "other": 323,
+      "nurse": 2
+    }
+  },
+  "root cause analysis": {
+    "total_jobs": 325,
+    "top_roles": {
+      "other": 267,
+      "qa_engineer": 14,
+      "operations": 9,
+      "nurse": 9,
+      "project_manager": 6
+    }
+  },
+  "discharge planning": {
+    "total_jobs": 325,
+    "top_roles": {
+      "nurse": 234,
+      "other": 88,
+      "sales": 2,
+      "project_manager": 1
+    }
+  },
+  "physical requirements": {
+    "total_jobs": 324,
+    "top_roles": {
+      "other": 227,
+      "nurse": 61,
+      "customer_service": 17,
+      "sales": 5,
+      "administrative": 4
+    }
+  },
+  "client relationship management": {
+    "total_jobs": 324,
+    "top_roles": {
+      "other": 189,
+      "sales": 99,
+      "project_manager": 19,
+      "nurse": 5,
+      "finance": 5
+    }
+  },
+  "recruiting": {
+    "total_jobs": 323,
+    "top_roles": {
+      "other": 224,
+      "hr": 59,
+      "sales": 12,
+      "nurse": 11,
+      "operations": 4
+    }
+  },
+  "critical care": {
+    "total_jobs": 319,
+    "top_roles": {
+      "nurse": 255,
+      "other": 61,
+      "sales": 3
+    }
+  },
+  "technology": {
+    "total_jobs": 317,
+    "top_roles": {
+      "other": 229,
+      "nurse": 49,
+      "sales": 17,
+      "operations": 6,
+      "finance": 5
+    }
+  },
+  "stakeholder management": {
+    "total_jobs": 317,
+    "top_roles": {
+      "other": 170,
+      "project_manager": 76,
+      "data_analyst": 16,
+      "sales": 12,
+      "operations": 9
+    }
+  },
+  "sales experience": {
+    "total_jobs": 315,
+    "top_roles": {
+      "other": 228,
+      "sales": 57,
+      "customer_service": 21,
+      "nurse": 4,
+      "operations": 2
+    }
+  },
+  "supply chain management": {
+    "total_jobs": 315,
+    "top_roles": {
+      "other": 191,
+      "operations": 82,
+      "project_manager": 18,
+      "sales": 11,
+      "data_analyst": 6
+    }
+  },
+  "clinical experience": {
+    "total_jobs": 314,
+    "top_roles": {
+      "nurse": 169,
+      "other": 141,
+      "finance": 1,
+      "data_analyst": 1,
+      "sales": 1
+    }
+  },
+  "hvac": {
+    "total_jobs": 311,
+    "top_roles": {
+      "other": 264,
+      "sales": 25,
+      "project_manager": 11,
+      "operations": 7,
+      "nurse": 2
+    }
+  },
+  "patient safety": {
+    "total_jobs": 311,
+    "top_roles": {
+      "nurse": 207,
+      "other": 98,
+      "project_manager": 3,
+      "qa_engineer": 1,
+      "data_analyst": 1
+    }
+  },
+  "pediatrics": {
+    "total_jobs": 310,
+    "top_roles": {
+      "other": 165,
+      "nurse": 145
+    }
+  },
+  "strong work ethic": {
+    "total_jobs": 310,
+    "top_roles": {
+      "other": 232,
+      "nurse": 25,
+      "sales": 19,
+      "customer_service": 7,
+      "administrative": 7
+    }
+  },
+  "physician": {
+    "total_jobs": 310,
+    "top_roles": {
+      "other": 239,
+      "nurse": 71
+    }
+  },
+  "data analytics": {
+    "total_jobs": 309,
+    "top_roles": {
+      "other": 179,
+      "data_analyst": 26,
+      "nurse": 20,
+      "sales": 16,
+      "software_engineer": 13
+    }
+  },
+  "holiday pay": {
+    "total_jobs": 308,
+    "top_roles": {
+      "other": 155,
+      "nurse": 148,
+      "hr": 2,
+      "project_manager": 1,
+      "sales": 1
+    }
+  },
+  "equity": {
+    "total_jobs": 308,
+    "top_roles": {
+      "other": 223,
+      "nurse": 47,
+      "sales": 16,
+      "hr": 4,
+      "administrative": 3
+    }
+  },
+  "resource management": {
+    "total_jobs": 307,
+    "top_roles": {
+      "other": 162,
+      "nurse": 74,
+      "project_manager": 47,
+      "administrative": 6,
+      "operations": 6
+    }
+  },
+  "business acumen": {
+    "total_jobs": 306,
+    "top_roles": {
+      "other": 197,
+      "sales": 34,
+      "nurse": 12,
+      "hr": 12,
+      "operations": 12
+    }
+  },
+  "evidencebased practice": {
+    "total_jobs": 305,
+    "top_roles": {
+      "nurse": 261,
+      "other": 44
+    }
+  },
+  "medical records": {
+    "total_jobs": 303,
+    "top_roles": {
+      "nurse": 181,
+      "other": 119,
+      "administrative": 2,
+      "customer_service": 1
+    }
+  },
+  "referral bonuses": {
+    "total_jobs": 301,
+    "top_roles": {
+      "nurse": 235,
+      "other": 62,
+      "customer_service": 2,
+      "sales": 1,
+      "operations": 1
+    }
+  },
+  "software engineering": {
+    "total_jobs": 301,
+    "top_roles": {
+      "software_engineer": 148,
+      "other": 104,
+      "devops_engineer": 14,
+      "data_scientist": 7,
+      "qa_engineer": 6
+    }
+  },
+  "patience": {
+    "total_jobs": 300,
+    "top_roles": {
+      "other": 246,
+      "nurse": 36,
+      "customer_service": 11,
+      "administrative": 4,
+      "data_analyst": 1
+    }
+  },
+  "bsn": {
+    "total_jobs": 296,
+    "top_roles": {
+      "nurse": 283,
+      "other": 13
+    }
+  },
+  "data visualization": {
+    "total_jobs": 296,
+    "top_roles": {
+      "other": 189,
+      "data_analyst": 51,
+      "data_scientist": 13,
+      "finance": 13,
+      "data_engineer": 8
+    }
+  },
+  "registered nurse license": {
+    "total_jobs": 296,
+    "top_roles": {
+      "nurse": 289,
+      "other": 7
+    }
+  },
+  "nursing process": {
+    "total_jobs": 294,
+    "top_roles": {
+      "nurse": 290,
+      "other": 4
+    }
+  },
+  "retail sales": {
+    "total_jobs": 294,
+    "top_roles": {
+      "other": 267,
+      "customer_service": 9,
+      "nurse": 9,
+      "sales": 7,
+      "administrative": 2
+    }
+  },
+  "presentation": {
+    "total_jobs": 294,
+    "top_roles": {
+      "other": 203,
+      "sales": 54,
+      "nurse": 8,
+      "hr": 5,
+      "project_manager": 5
+    }
+  },
+  "shift work": {
+    "total_jobs": 293,
+    "top_roles": {
+      "other": 197,
+      "nurse": 85,
+      "operations": 6,
+      "customer_service": 3,
+      "devops_engineer": 1
+    }
+  },
+  "sales management": {
+    "total_jobs": 291,
+    "top_roles": {
+      "other": 185,
+      "sales": 88,
+      "administrative": 7,
+      "nurse": 4,
+      "customer_service": 3
+    }
+  },
+  "ged": {
+    "total_jobs": 291,
+    "top_roles": {
+      "other": 256,
+      "nurse": 13,
+      "customer_service": 7,
+      "operations": 4,
+      "sales": 4
+    }
+  },
+  "business": {
+    "total_jobs": 289,
+    "top_roles": {
+      "other": 182,
+      "sales": 35,
+      "nurse": 14,
+      "finance": 14,
+      "data_analyst": 12
+    }
+  },
+  "negotiation skills": {
+    "total_jobs": 289,
+    "top_roles": {
+      "other": 172,
+      "sales": 67,
+      "nurse": 15,
+      "operations": 8,
+      "project_manager": 7
+    }
+  },
+  "plumbing": {
+    "total_jobs": 288,
+    "top_roles": {
+      "other": 262,
+      "project_manager": 15,
+      "nurse": 4,
+      "operations": 4,
+      "qa_engineer": 2
+    }
+  },
+  "staffing": {
+    "total_jobs": 287,
+    "top_roles": {
+      "other": 154,
+      "nurse": 96,
+      "hr": 14,
+      "sales": 9,
+      "project_manager": 8
+    }
+  },
+  "safety management": {
+    "total_jobs": 287,
+    "top_roles": {
+      "other": 222,
+      "project_manager": 40,
+      "operations": 12,
+      "nurse": 8,
+      "hr": 2
+    }
+  },
+  "curriculum development": {
+    "total_jobs": 286,
+    "top_roles": {
+      "other": 252,
+      "nurse": 30,
+      "marketing": 1,
+      "hr": 1,
+      "sales": 1
+    }
+  },
+  "electrical": {
+    "total_jobs": 286,
+    "top_roles": {
+      "other": 251,
+      "project_manager": 14,
+      "sales": 6,
+      "operations": 5,
+      "nurse": 5
+    }
+  },
+  "program management": {
+    "total_jobs": 285,
+    "top_roles": {
+      "other": 169,
+      "project_manager": 79,
+      "operations": 8,
+      "sales": 6,
+      "nurse": 6
+    }
+  },
+  "osha": {
+    "total_jobs": 285,
+    "top_roles": {
+      "other": 203,
+      "nurse": 64,
+      "operations": 6,
+      "sales": 4,
+      "project_manager": 3
+    }
+  },
+  "mathematics": {
+    "total_jobs": 285,
+    "top_roles": {
+      "other": 202,
+      "operations": 31,
+      "nurse": 11,
+      "data_scientist": 10,
+      "data_analyst": 6
+    }
+  },
+  "customer focus": {
+    "total_jobs": 284,
+    "top_roles": {
+      "other": 204,
+      "customer_service": 25,
+      "sales": 12,
+      "nurse": 10,
+      "project_manager": 6
+    }
+  },
+  "logistics": {
+    "total_jobs": 284,
+    "top_roles": {
+      "other": 172,
+      "operations": 65,
+      "sales": 15,
+      "project_manager": 6,
+      "nurse": 6
+    }
+  },
+  "management experience": {
+    "total_jobs": 283,
+    "top_roles": {
+      "other": 246,
+      "nurse": 12,
+      "customer_service": 11,
+      "operations": 4,
+      "sales": 4
+    }
+  },
+  "procedures": {
+    "total_jobs": 282,
+    "top_roles": {
+      "other": 185,
+      "nurse": 67,
+      "hr": 7,
+      "finance": 6,
+      "project_manager": 4
+    }
+  },
+  "revit": {
+    "total_jobs": 281,
+    "top_roles": {
+      "other": 241,
+      "project_manager": 32,
+      "nurse": 5,
+      "devops_engineer": 2,
+      "sales": 1
+    }
+  },
+  "lead generation": {
+    "total_jobs": 281,
+    "top_roles": {
+      "other": 159,
+      "sales": 96,
+      "marketing": 13,
+      "customer_service": 7,
+      "nurse": 2
+    }
+  },
+  "computer proficiency": {
+    "total_jobs": 280,
+    "top_roles": {
+      "other": 162,
+      "nurse": 88,
+      "sales": 10,
+      "customer_service": 8,
+      "project_manager": 5
+    }
+  },
+  "safety compliance": {
+    "total_jobs": 280,
+    "top_roles": {
+      "other": 248,
+      "operations": 19,
+      "project_manager": 6,
+      "nurse": 3,
+      "administrative": 2
+    }
+  },
+  "safety and security": {
+    "total_jobs": 279,
+    "top_roles": {
+      "other": 245,
+      "customer_service": 20,
+      "nurse": 5,
+      "administrative": 5,
+      "operations": 3
+    }
+  },
+  "email": {
+    "total_jobs": 279,
+    "top_roles": {
+      "other": 199,
+      "customer_service": 25,
+      "nurse": 25,
+      "administrative": 11,
+      "sales": 8
+    }
+  },
+  "business analysis": {
+    "total_jobs": 279,
+    "top_roles": {
+      "other": 132,
+      "data_analyst": 96,
+      "project_manager": 14,
+      "finance": 8,
+      "operations": 5
+    }
+  },
+  "transportation": {
+    "total_jobs": 278,
+    "top_roles": {
+      "other": 198,
+      "nurse": 42,
+      "sales": 14,
+      "operations": 10,
+      "customer_service": 5
+    }
+  },
+  "health and safety": {
+    "total_jobs": 277,
+    "top_roles": {
+      "other": 237,
+      "nurse": 15,
+      "project_manager": 11,
+      "operations": 8,
+      "sales": 5
+    }
+  },
+  "emergency response": {
+    "total_jobs": 272,
+    "top_roles": {
+      "other": 153,
+      "nurse": 116,
+      "customer_service": 1,
+      "project_manager": 1,
+      "operations": 1
+    }
+  },
+  "tableau": {
+    "total_jobs": 272,
+    "top_roles": {
+      "other": 145,
+      "data_analyst": 45,
+      "finance": 16,
+      "software_engineer": 11,
+      "operations": 10
+    }
+  },
+  "monitoring": {
+    "total_jobs": 270,
+    "top_roles": {
+      "other": 152,
+      "nurse": 79,
+      "software_engineer": 12,
+      "devops_engineer": 7,
+      "project_manager": 7
+    }
+  },
+  "billing": {
+    "total_jobs": 270,
+    "top_roles": {
+      "other": 203,
+      "nurse": 18,
+      "administrative": 11,
+      "finance": 11,
+      "customer_service": 8
+    }
+  },
+  "legal research": {
+    "total_jobs": 269,
+    "top_roles": {
+      "nurse": 162,
+      "other": 104,
+      "operations": 1,
+      "customer_service": 1,
+      "administrative": 1
+    }
+  },
+  "linux": {
+    "total_jobs": 269,
+    "top_roles": {
+      "other": 160,
+      "software_engineer": 56,
+      "devops_engineer": 27,
+      "data_engineer": 6,
+      "project_manager": 4
+    }
+  },
+  "emr": {
+    "total_jobs": 269,
+    "top_roles": {
+      "other": 140,
+      "nurse": 114,
+      "data_engineer": 11,
+      "data_analyst": 1,
+      "administrative": 1
+    }
+  },
+  "stocking": {
+    "total_jobs": 268,
+    "top_roles": {
+      "other": 239,
+      "customer_service": 18,
+      "operations": 7,
+      "nurse": 4
+    }
+  },
+  "punctuality": {
+    "total_jobs": 268,
+    "top_roles": {
+      "other": 224,
+      "nurse": 19,
+      "customer_service": 13,
+      "administrative": 6,
+      "project_manager": 2
+    }
+  },
+  "quality": {
+    "total_jobs": 267,
+    "top_roles": {
+      "other": 209,
+      "nurse": 32,
+      "project_manager": 7,
+      "sales": 6,
+      "operations": 5
+    }
+  },
+  "worklife balance": {
+    "total_jobs": 267,
+    "top_roles": {
+      "other": 184,
+      "nurse": 55,
+      "sales": 14,
+      "project_manager": 4,
+      "administrative": 3
+    }
+  },
+  "operations management": {
+    "total_jobs": 265,
+    "top_roles": {
+      "other": 191,
+      "operations": 47,
+      "nurse": 13,
+      "sales": 6,
+      "project_manager": 5
+    }
+  },
+  "store management": {
+    "total_jobs": 265,
+    "top_roles": {
+      "other": 257,
+      "customer_service": 4,
+      "nurse": 3,
+      "operations": 1
+    }
+  },
+  "selfstarter": {
+    "total_jobs": 264,
+    "top_roles": {
+      "other": 191,
+      "sales": 23,
+      "nurse": 13,
+      "project_manager": 8,
+      "finance": 7
+    }
+  },
+  "food service": {
+    "total_jobs": 264,
+    "top_roles": {
+      "other": 252,
+      "nurse": 8,
+      "sales": 3,
+      "hr": 1
+    }
+  },
+  "cash register operation": {
+    "total_jobs": 262,
+    "top_roles": {
+      "other": 258,
+      "customer_service": 2,
+      "operations": 1,
+      "nurse": 1
+    }
+  },
+  "employee relations": {
+    "total_jobs": 261,
+    "top_roles": {
+      "other": 145,
+      "hr": 102,
+      "nurse": 5,
+      "operations": 4,
+      "administrative": 3
+    }
+  },
+  "care planning": {
+    "total_jobs": 261,
+    "top_roles": {
+      "nurse": 226,
+      "other": 35
+    }
+  },
+  "ability to travel": {
+    "total_jobs": 261,
+    "top_roles": {
+      "other": 203,
+      "nurse": 22,
+      "sales": 8,
+      "project_manager": 6,
+      "hr": 5
+    }
+  },
+  "feedback": {
+    "total_jobs": 260,
+    "top_roles": {
+      "other": 207,
+      "nurse": 28,
+      "operations": 5,
+      "customer_service": 4,
+      "sales": 4
+    }
+  },
+  "oncology": {
+    "total_jobs": 260,
+    "top_roles": {
+      "nurse": 142,
+      "other": 115,
+      "project_manager": 1,
+      "sales": 1,
+      "finance": 1
+    }
+  },
+  "project planning": {
+    "total_jobs": 260,
+    "top_roles": {
+      "other": 170,
+      "project_manager": 67,
+      "nurse": 5,
+      "data_analyst": 4,
+      "sales": 4
+    }
+  },
+  "crossfunctional collaboration": {
+    "total_jobs": 260,
+    "top_roles": {
+      "other": 143,
+      "sales": 27,
+      "project_manager": 25,
+      "finance": 15,
+      "marketing": 11
+    }
+  },
+  "equal employment opportunity": {
+    "total_jobs": 260,
+    "top_roles": {
+      "other": 175,
+      "nurse": 59,
+      "sales": 8,
+      "operations": 6,
+      "hr": 3
+    }
+  },
+  "criminal background check": {
+    "total_jobs": 259,
+    "top_roles": {
+      "other": 203,
+      "nurse": 43,
+      "customer_service": 4,
+      "project_manager": 2,
+      "sales": 2
+    }
+  },
+  "interviewing": {
+    "total_jobs": 259,
+    "top_roles": {
+      "other": 193,
+      "hr": 41,
+      "nurse": 18,
+      "operations": 4,
+      "project_manager": 1
+    }
+  },
+  "flexible work schedule": {
+    "total_jobs": 256,
+    "top_roles": {
+      "other": 225,
+      "nurse": 18,
+      "customer_service": 4,
+      "sales": 4,
+      "project_manager": 2
+    }
+  },
+  "chemistry": {
+    "total_jobs": 256,
+    "top_roles": {
+      "other": 231,
+      "nurse": 12,
+      "customer_service": 3,
+      "marketing": 3,
+      "qa_engineer": 3
+    }
+  },
+  "architecture": {
+    "total_jobs": 256,
+    "top_roles": {
+      "other": 183,
+      "project_manager": 48,
+      "software_engineer": 7,
+      "devops_engineer": 5,
+      "sales": 2
+    }
+  },
+  "competitive salary": {
+    "total_jobs": 256,
+    "top_roles": {
+      "other": 199,
+      "nurse": 32,
+      "sales": 8,
+      "finance": 6,
+      "project_manager": 5
+    }
+  },
+  "problem resolution": {
+    "total_jobs": 255,
+    "top_roles": {
+      "other": 181,
+      "customer_service": 17,
+      "project_manager": 12,
+      "nurse": 11,
+      "operations": 10
+    }
+  },
+  "devops": {
+    "total_jobs": 255,
+    "top_roles": {
+      "other": 133,
+      "software_engineer": 57,
+      "devops_engineer": 36,
+      "data_engineer": 8,
+      "qa_engineer": 4
+    }
+  },
+  "c++": {
+    "total_jobs": 253,
+    "top_roles": {
+      "other": 129,
+      "software_engineer": 75,
+      "devops_engineer": 15,
+      "data_scientist": 9,
+      "qa_engineer": 6
+    }
+  },
+  "strong communication skills": {
+    "total_jobs": 252,
+    "top_roles": {
+      "other": 173,
+      "nurse": 23,
+      "sales": 14,
+      "finance": 11,
+      "project_manager": 10
+    }
+  },
+  "diagnosis": {
+    "total_jobs": 252,
+    "top_roles": {
+      "other": 130,
+      "nurse": 121,
+      "project_manager": 1
+    }
+  },
+  "surgery": {
+    "total_jobs": 252,
+    "top_roles": {
+      "other": 202,
+      "nurse": 49,
+      "sales": 1
+    }
+  },
+  "cloud computing": {
+    "total_jobs": 251,
+    "top_roles": {
+      "other": 150,
+      "software_engineer": 49,
+      "data_analyst": 9,
+      "data_engineer": 8,
+      "devops_engineer": 7
+    }
+  },
+  "tax preparation": {
+    "total_jobs": 251,
+    "top_roles": {
+      "other": 204,
+      "finance": 45,
+      "sales": 1,
+      "administrative": 1
+    }
+  },
+  "client service": {
+    "total_jobs": 250,
+    "top_roles": {
+      "other": 183,
+      "nurse": 26,
+      "sales": 19,
+      "finance": 8,
+      "administrative": 5
+    }
+  },
+  "cashier": {
+    "total_jobs": 249,
+    "top_roles": {
+      "other": 224,
+      "customer_service": 22,
+      "nurse": 3
+    }
+  },
+  "performance improvement": {
+    "total_jobs": 249,
+    "top_roles": {
+      "nurse": 131,
+      "other": 97,
+      "operations": 6,
+      "customer_service": 4,
+      "sales": 3
+    }
+  },
+  "401k retirement plan": {
+    "total_jobs": 249,
+    "top_roles": {
+      "other": 167,
+      "nurse": 76,
+      "customer_service": 2,
+      "operations": 1,
+      "project_manager": 1
+    }
+  },
+  "litigation": {
+    "total_jobs": 248,
+    "top_roles": {
+      "nurse": 173,
+      "other": 70,
+      "customer_service": 2,
+      "devops_engineer": 1,
+      "hr": 1
+    }
+  },
+  "azure": {
+    "total_jobs": 248,
+    "top_roles": {
+      "other": 149,
+      "software_engineer": 42,
+      "devops_engineer": 28,
+      "ml_engineer": 5,
+      "data_analyst": 5
+    }
+  },
+  "math skills": {
+    "total_jobs": 248,
+    "top_roles": {
+      "other": 222,
+      "nurse": 12,
+      "sales": 4,
+      "finance": 3,
+      "customer_service": 2
+    }
+  },
+  "mentorship": {
+    "total_jobs": 247,
+    "top_roles": {
+      "other": 169,
+      "nurse": 46,
+      "sales": 7,
+      "project_manager": 7,
+      "software_engineer": 6
+    }
+  },
+  "quality management": {
+    "total_jobs": 247,
+    "top_roles": {
+      "other": 147,
+      "nurse": 35,
+      "project_manager": 32,
+      "qa_engineer": 11,
+      "operations": 8
+    }
+  },
+  "staff development": {
+    "total_jobs": 246,
+    "top_roles": {
+      "other": 170,
+      "nurse": 57,
+      "project_manager": 6,
+      "operations": 4,
+      "qa_engineer": 2
+    }
+  },
+  "u.s. citizenship": {
+    "total_jobs": 244,
+    "top_roles": {
+      "other": 182,
+      "nurse": 26,
+      "project_manager": 7,
+      "devops_engineer": 7,
+      "software_engineer": 7
+    }
+  },
+  "care coordination": {
+    "total_jobs": 244,
+    "top_roles": {
+      "nurse": 177,
+      "other": 67
+    }
+  },
+  "advocacy": {
+    "total_jobs": 242,
+    "top_roles": {
+      "other": 136,
+      "nurse": 100,
+      "project_manager": 3,
+      "sales": 2,
+      "devops_engineer": 1
+    }
+  },
+  "client management": {
+    "total_jobs": 242,
+    "top_roles": {
+      "other": 148,
+      "sales": 33,
+      "project_manager": 24,
+      "nurse": 15,
+      "finance": 9
+    }
+  },
+  "barber license": {
+    "total_jobs": 241,
+    "top_roles": {
+      "other": 231,
+      "nurse": 10
+    }
+  },
+  "housekeeping": {
+    "total_jobs": 239,
+    "top_roles": {
+      "other": 208,
+      "nurse": 19,
+      "operations": 6,
+      "customer_service": 3,
+      "administrative": 2
+    }
+  },
+  "microsoft outlook": {
+    "total_jobs": 239,
+    "top_roles": {
+      "other": 164,
+      "nurse": 22,
+      "administrative": 17,
+      "sales": 13,
+      "customer_service": 7
+    }
+  },
+  "epic": {
+    "total_jobs": 239,
+    "top_roles": {
+      "other": 121,
+      "nurse": 94,
+      "sales": 13,
+      "project_manager": 3,
+      "operations": 2
+    }
+  },
+  "effective communication": {
+    "total_jobs": 238,
+    "top_roles": {
+      "other": 164,
+      "nurse": 44,
+      "sales": 6,
+      "data_analyst": 5,
+      "project_manager": 4
+    }
+  },
+  "prospecting": {
+    "total_jobs": 237,
+    "top_roles": {
+      "sales": 122,
+      "other": 107,
+      "hr": 2,
+      "nurse": 2,
+      "finance": 1
+    }
+  },
+  "clinical skills": {
+    "total_jobs": 237,
+    "top_roles": {
+      "nurse": 134,
+      "other": 101,
+      "project_manager": 1,
+      "hr": 1
+    }
+  },
+  "jira": {
+    "total_jobs": 237,
+    "top_roles": {
+      "other": 127,
+      "software_engineer": 35,
+      "project_manager": 21,
+      "data_analyst": 15,
+      "devops_engineer": 12
+    }
+  },
+  "work ethic": {
+    "total_jobs": 237,
+    "top_roles": {
+      "other": 177,
+      "nurse": 13,
+      "sales": 10,
+      "finance": 6,
+      "project_manager": 6
+    }
+  },
+  "licensure": {
+    "total_jobs": 236,
+    "top_roles": {
+      "nurse": 117,
+      "other": 115,
+      "project_manager": 3,
+      "operations": 1
+    }
+  },
+  "goal setting": {
+    "total_jobs": 236,
+    "top_roles": {
+      "other": 178,
+      "nurse": 35,
+      "sales": 14,
+      "project_manager": 5,
+      "hr": 3
+    }
+  },
+  "wound care": {
+    "total_jobs": 234,
+    "top_roles": {
+      "nurse": 192,
+      "other": 40,
+      "sales": 2
+    }
+  },
+  "technical support": {
+    "total_jobs": 234,
+    "top_roles": {
+      "other": 185,
+      "sales": 13,
+      "customer_service": 13,
+      "devops_engineer": 5,
+      "nurse": 3
+    }
+  },
+  "store operations": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 219,
+      "customer_service": 6,
+      "nurse": 5,
+      "project_manager": 1,
+      "operations": 1
+    }
+  },
+  "holidays": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 184,
+      "nurse": 29,
+      "project_manager": 4,
+      "sales": 4,
+      "hr": 3
+    }
+  },
+  "allied health professional": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 231,
+      "nurse": 2
+    }
+  },
+  "pulling": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 161,
+      "nurse": 51,
+      "customer_service": 14,
+      "operations": 3,
+      "sales": 3
+    }
+  },
+  "relocation assistance": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 177,
+      "nurse": 49,
+      "software_engineer": 2,
+      "project_manager": 2,
+      "hr": 1
+    }
+  },
+  "physical ability": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 183,
+      "nurse": 33,
+      "customer_service": 7,
+      "sales": 4,
+      "operations": 2
+    }
+  },
+  "sharepoint": {
+    "total_jobs": 233,
+    "top_roles": {
+      "other": 170,
+      "project_manager": 17,
+      "administrative": 13,
+      "nurse": 7,
+      "data_analyst": 7
+    }
+  },
+  "pushing": {
+    "total_jobs": 232,
+    "top_roles": {
+      "other": 162,
+      "nurse": 51,
+      "customer_service": 14,
+      "sales": 3,
+      "hr": 1
+    }
+  },
+  "high school diploma/ged": {
+    "total_jobs": 232,
+    "top_roles": {
+      "other": 199,
+      "nurse": 15,
+      "operations": 7,
+      "customer_service": 6,
+      "sales": 3
+    }
+  },
+  "team environment": {
+    "total_jobs": 231,
+    "top_roles": {
+      "other": 188,
+      "nurse": 12,
+      "sales": 12,
+      "customer_service": 3,
+      "marketing": 3
+    }
+  },
+  "pet insurance": {
+    "total_jobs": 231,
+    "top_roles": {
+      "other": 149,
+      "nurse": 71,
+      "hr": 3,
+      "project_manager": 2,
+      "operations": 2
+    }
+  },
+  "lean manufacturing": {
+    "total_jobs": 231,
+    "top_roles": {
+      "other": 206,
+      "operations": 12,
+      "qa_engineer": 4,
+      "project_manager": 4,
+      "finance": 2
+    }
+  },
+  "relationship management": {
+    "total_jobs": 231,
+    "top_roles": {
+      "other": 110,
+      "customer_service": 65,
+      "sales": 31,
+      "project_manager": 7,
+      "nurse": 5
+    }
+  },
+  "statistical analysis": {
+    "total_jobs": 231,
+    "top_roles": {
+      "other": 176,
+      "data_analyst": 16,
+      "nurse": 10,
+      "operations": 6,
+      "data_scientist": 6
+    }
+  },
+  "ms office suite": {
+    "total_jobs": 231,
+    "top_roles": {
+      "other": 151,
+      "project_manager": 16,
+      "sales": 15,
+      "operations": 13,
+      "administrative": 9
+    }
+  },
+  "planogram implementation": {
+    "total_jobs": 229,
+    "top_roles": {
+      "other": 229
+    }
+  },
+  "organization skills": {
+    "total_jobs": 229,
+    "top_roles": {
+      "other": 169,
+      "nurse": 21,
+      "customer_service": 12,
+      "sales": 6,
+      "administrative": 5
+    }
+  },
+  "specifications": {
+    "total_jobs": 229,
+    "top_roles": {
+      "other": 202,
+      "project_manager": 20,
+      "sales": 2,
+      "software_engineer": 2,
+      "qa_engineer": 1
+    }
+  },
+  "financial planning": {
+    "total_jobs": 228,
+    "top_roles": {
+      "other": 187,
+      "finance": 22,
+      "nurse": 7,
+      "sales": 4,
+      "data_analyst": 4
+    }
+  },
+  "people management": {
+    "total_jobs": 226,
+    "top_roles": {
+      "other": 169,
+      "software_engineer": 23,
+      "operations": 12,
+      "nurse": 6,
+      "project_manager": 3
+    }
+  },
+  "flexible scheduling": {
+    "total_jobs": 225,
+    "top_roles": {
+      "other": 148,
+      "nurse": 70,
+      "customer_service": 5,
+      "administrative": 1,
+      "finance": 1
+    }
+  },
+  "statistics": {
+    "total_jobs": 225,
+    "top_roles": {
+      "other": 153,
+      "nurse": 19,
+      "data_scientist": 18,
+      "data_analyst": 17,
+      "ml_engineer": 4
+    }
+  },
+  "cosmetology license": {
+    "total_jobs": 225,
+    "top_roles": {
+      "other": 215,
+      "nurse": 10
+    }
+  },
+  "cpa": {
+    "total_jobs": 224,
+    "top_roles": {
+      "other": 125,
+      "finance": 81,
+      "nurse": 16,
+      "data_analyst": 2
+    }
+  },
+  "bachelor's degree in nursing": {
+    "total_jobs": 224,
+    "top_roles": {
+      "nurse": 216,
+      "other": 7,
+      "hr": 1
+    }
+  },
+  "power bi": {
+    "total_jobs": 224,
+    "top_roles": {
+      "other": 143,
+      "data_analyst": 27,
+      "finance": 15,
+      "operations": 7,
+      "nurse": 7
+    }
+  },
+  "inspection": {
+    "total_jobs": 224,
+    "top_roles": {
+      "other": 200,
+      "qa_engineer": 8,
+      "operations": 4,
+      "project_manager": 4,
+      "nurse": 4
+    }
+  },
+  "pos systems": {
+    "total_jobs": 224,
+    "top_roles": {
+      "other": 163,
+      "customer_service": 58,
+      "sales": 1,
+      "software_engineer": 1,
+      "operations": 1
+    }
+  },
+  "customer satisfaction": {
+    "total_jobs": 224,
+    "top_roles": {
+      "other": 158,
+      "sales": 22,
+      "nurse": 18,
+      "customer_service": 12,
+      "project_manager": 5
+    }
+  },
+  "primary care": {
+    "total_jobs": 223,
+    "top_roles": {
+      "nurse": 123,
+      "other": 96,
+      "sales": 3,
+      "operations": 1
+    }
+  },
+  "administrative support": {
+    "total_jobs": 222,
+    "top_roles": {
+      "other": 138,
+      "administrative": 56,
+      "nurse": 14,
+      "customer_service": 8,
+      "sales": 3
+    }
+  },
+  "medical coverage": {
+    "total_jobs": 222,
+    "top_roles": {
+      "other": 186,
+      "nurse": 21,
+      "customer_service": 4,
+      "sales": 4,
+      "operations": 3
+    }
+  },
+  "autonomy": {
+    "total_jobs": 221,
+    "top_roles": {
+      "other": 136,
+      "nurse": 35,
+      "sales": 20,
+      "software_engineer": 9,
+      "hr": 4
+    }
+  },
+  "detail orientation": {
+    "total_jobs": 221,
+    "top_roles": {
+      "other": 155,
+      "sales": 11,
+      "customer_service": 11,
+      "nurse": 9,
+      "project_manager": 9
+    }
+  },
+  "guest service": {
+    "total_jobs": 221,
+    "top_roles": {
+      "other": 209,
+      "operations": 6,
+      "administrative": 6
+    }
+  },
+  "associate's degree": {
+    "total_jobs": 221,
+    "top_roles": {
+      "other": 177,
+      "nurse": 28,
+      "sales": 6,
+      "data_analyst": 2,
+      "customer_service": 2
+    }
+  },
+  "cv": {
+    "total_jobs": 220,
+    "top_roles": {
+      "other": 172,
+      "nurse": 46,
+      "sales": 1,
+      "administrative": 1
+    }
+  },
+  "medical imaging": {
+    "total_jobs": 220,
+    "top_roles": {
+      "other": 208,
+      "nurse": 11,
+      "data_scientist": 1
+    }
+  },
+  "performance evaluation": {
+    "total_jobs": 219,
+    "top_roles": {
+      "other": 157,
+      "nurse": 35,
+      "operations": 9,
+      "customer_service": 4,
+      "project_manager": 4
+    }
+  },
+  "equipment operation": {
+    "total_jobs": 219,
+    "top_roles": {
+      "other": 187,
+      "nurse": 26,
+      "project_manager": 2,
+      "data_scientist": 1,
+      "customer_service": 1
+    }
+  },
+  "drug screening": {
+    "total_jobs": 218,
+    "top_roles": {
+      "other": 159,
+      "nurse": 46,
+      "customer_service": 5,
+      "operations": 3,
+      "sales": 3
+    }
+  },
+  "rehabilitation": {
+    "total_jobs": 218,
+    "top_roles": {
+      "other": 132,
+      "nurse": 81,
+      "project_manager": 5
+    }
+  },
+  "english language proficiency": {
+    "total_jobs": 218,
+    "top_roles": {
+      "other": 140,
+      "nurse": 64,
+      "customer_service": 7,
+      "project_manager": 3,
+      "qa_engineer": 1
+    }
+  },
+  "visual merchandising": {
+    "total_jobs": 217,
+    "top_roles": {
+      "other": 198,
+      "operations": 9,
+      "nurse": 8,
+      "sales": 1,
+      "customer_service": 1
+    }
+  },
+  "behavioral health": {
+    "total_jobs": 216,
+    "top_roles": {
+      "other": 130,
+      "nurse": 82,
+      "project_manager": 3,
+      "sales": 1
+    }
+  },
+  "market research": {
+    "total_jobs": 216,
+    "top_roles": {
+      "other": 106,
+      "sales": 56,
+      "marketing": 17,
+      "product_manager": 13,
+      "data_analyst": 8
+    }
+  },
+  "basic math skills": {
+    "total_jobs": 216,
+    "top_roles": {
+      "other": 205,
+      "nurse": 4,
+      "sales": 3,
+      "customer_service": 3,
+      "operations": 1
+    }
+  },
+  "mathematical skills": {
+    "total_jobs": 216,
+    "top_roles": {
+      "other": 179,
+      "customer_service": 15,
+      "nurse": 10,
+      "operations": 5,
+      "sales": 3
+    }
+  },
+  "presentations": {
+    "total_jobs": 215,
+    "top_roles": {
+      "other": 146,
+      "sales": 35,
+      "administrative": 9,
+      "nurse": 7,
+      "project_manager": 7
+    }
+  },
+  "shortterm disability": {
+    "total_jobs": 215,
+    "top_roles": {
+      "other": 180,
+      "nurse": 25,
+      "software_engineer": 2,
+      "devops_engineer": 2,
+      "sales": 2
+    }
+  },
+  "treatment": {
+    "total_jobs": 215,
+    "top_roles": {
+      "other": 111,
+      "nurse": 103,
+      "project_manager": 1
+    }
+  },
+  "cooking": {
+    "total_jobs": 214,
+    "top_roles": {
+      "other": 205,
+      "nurse": 8,
+      "project_manager": 1
+    }
+  },
+  "docker": {
+    "total_jobs": 214,
+    "top_roles": {
+      "software_engineer": 97,
+      "other": 70,
+      "devops_engineer": 28,
+      "data_engineer": 6,
+      "ml_engineer": 4
+    }
+  },
+  "flexible hours": {
+    "total_jobs": 213,
+    "top_roles": {
+      "other": 169,
+      "nurse": 20,
+      "customer_service": 6,
+      "software_engineer": 4,
+      "sales": 4
+    }
+  },
+  "employee discounts": {
+    "total_jobs": 213,
+    "top_roles": {
+      "other": 160,
+      "nurse": 39,
+      "administrative": 4,
+      "sales": 3,
+      "customer_service": 3
+    }
+  },
+  "kubernetes": {
+    "total_jobs": 213,
+    "top_roles": {
+      "software_engineer": 92,
+      "other": 75,
+      "devops_engineer": 29,
+      "data_engineer": 8,
+      "nurse": 3
+    }
+  },
+  "college degree": {
+    "total_jobs": 213,
+    "top_roles": {
+      "other": 167,
+      "sales": 21,
+      "operations": 5,
+      "customer_service": 5,
+      "administrative": 5
+    }
+  },
+  "oracle": {
+    "total_jobs": 213,
+    "top_roles": {
+      "other": 126,
+      "software_engineer": 25,
+      "finance": 21,
+      "operations": 10,
+      "data_analyst": 9
+    }
+  },
+  "dentistry": {
+    "total_jobs": 212,
+    "top_roles": {
+      "other": 201,
+      "nurse": 10,
+      "operations": 1
+    }
+  },
+  "audit": {
+    "total_jobs": 211,
+    "top_roles": {
+      "other": 166,
+      "finance": 29,
+      "nurse": 8,
+      "qa_engineer": 3,
+      "sales": 3
+    }
+  },
+  "flexible spending accounts": {
+    "total_jobs": 211,
+    "top_roles": {
+      "other": 170,
+      "nurse": 25,
+      "project_manager": 4,
+      "sales": 3,
+      "finance": 2
+    }
+  },
+  "product development": {
+    "total_jobs": 211,
+    "top_roles": {
+      "other": 144,
+      "sales": 16,
+      "product_manager": 14,
+      "project_manager": 10,
+      "software_engineer": 10
+    }
+  },
+  "malpractice insurance": {
+    "total_jobs": 211,
+    "top_roles": {
+      "other": 163,
+      "nurse": 48
+    }
+  },
+  "r": {
+    "total_jobs": 210,
+    "top_roles": {
+      "other": 126,
+      "data_analyst": 31,
+      "data_scientist": 23,
+      "software_engineer": 10,
+      "data_engineer": 6
+    }
+  },
+  "administration": {
+    "total_jobs": 209,
+    "top_roles": {
+      "other": 143,
+      "nurse": 27,
+      "administrative": 16,
+      "project_manager": 5,
+      "customer_service": 5
+    }
+  },
+  "retirement plan": {
+    "total_jobs": 209,
+    "top_roles": {
+      "other": 144,
+      "nurse": 51,
+      "sales": 5,
+      "operations": 4,
+      "project_manager": 2
+    }
+  },
+  "family medicine": {
+    "total_jobs": 209,
+    "top_roles": {
+      "other": 132,
+      "nurse": 77
+    }
+  },
+  "kitchen management": {
+    "total_jobs": 208,
+    "top_roles": {
+      "other": 206,
+      "nurse": 2
+    }
+  },
+  "preventative maintenance": {
+    "total_jobs": 208,
+    "top_roles": {
+      "other": 201,
+      "qa_engineer": 2,
+      "nurse": 2,
+      "project_manager": 1,
+      "administrative": 1
+    }
+  },
+  "written communication skills": {
+    "total_jobs": 207,
+    "top_roles": {
+      "other": 140,
+      "nurse": 29,
+      "sales": 10,
+      "project_manager": 6,
+      "finance": 5
+    }
+  },
+  "sales skills": {
+    "total_jobs": 207,
+    "top_roles": {
+      "other": 164,
+      "sales": 27,
+      "customer_service": 6,
+      "nurse": 5,
+      "marketing": 2
+    }
+  },
+  "leadership experience": {
+    "total_jobs": 207,
+    "top_roles": {
+      "other": 170,
+      "nurse": 27,
+      "sales": 3,
+      "hr": 2,
+      "operations": 2
+    }
+  },
+  "ms excel": {
+    "total_jobs": 207,
+    "top_roles": {
+      "other": 140,
+      "finance": 20,
+      "project_manager": 9,
+      "nurse": 9,
+      "operations": 7
+    }
+  },
+  "programming": {
+    "total_jobs": 207,
+    "top_roles": {
+      "other": 165,
+      "software_engineer": 9,
+      "devops_engineer": 6,
+      "project_manager": 5,
+      "sales": 5
+    }
+  },
+  "psychiatry": {
+    "total_jobs": 207,
+    "top_roles": {
+      "other": 164,
+      "nurse": 43
+    }
+  },
+  "forklift operation": {
+    "total_jobs": 206,
+    "top_roles": {
+      "other": 125,
+      "operations": 71,
+      "nurse": 5,
+      "customer_service": 2,
+      "sales": 2
+    }
+  },
+  "social media": {
+    "total_jobs": 206,
+    "top_roles": {
+      "other": 149,
+      "sales": 23,
+      "marketing": 11,
+      "nurse": 10,
+      "hr": 6
+    }
+  },
+  "parental leave": {
+    "total_jobs": 206,
+    "top_roles": {
+      "other": 173,
+      "nurse": 10,
+      "sales": 10,
+      "project_manager": 4,
+      "finance": 2
+    }
+  },
+  "hearing": {
+    "total_jobs": 206,
+    "top_roles": {
+      "other": 136,
+      "nurse": 64,
+      "sales": 3,
+      "qa_engineer": 2,
+      "administrative": 1
+    }
+  },
+  "onboarding": {
+    "total_jobs": 205,
+    "top_roles": {
+      "other": 133,
+      "hr": 38,
+      "nurse": 16,
+      "sales": 5,
+      "administrative": 4
+    }
+  },
+  "english language": {
+    "total_jobs": 205,
+    "top_roles": {
+      "other": 150,
+      "nurse": 36,
+      "customer_service": 4,
+      "administrative": 3,
+      "sales": 3
+    }
+  },
+  "veterinary medicine": {
+    "total_jobs": 204,
+    "top_roles": {
+      "other": 196,
+      "nurse": 7,
+      "administrative": 1
+    }
+  },
+  "six sigma": {
+    "total_jobs": 204,
+    "top_roles": {
+      "other": 165,
+      "operations": 13,
+      "project_manager": 12,
+      "qa_engineer": 4,
+      "nurse": 4
+    }
+  },
+  "installation": {
+    "total_jobs": 204,
+    "top_roles": {
+      "other": 184,
+      "nurse": 6,
+      "sales": 4,
+      "project_manager": 3,
+      "devops_engineer": 2
+    }
+  },
+  "dependability": {
+    "total_jobs": 202,
+    "top_roles": {
+      "other": 163,
+      "nurse": 19,
+      "administrative": 9,
+      "customer_service": 3,
+      "project_manager": 2
+    }
+  },
+  "efficiency": {
+    "total_jobs": 202,
+    "top_roles": {
+      "other": 147,
+      "nurse": 18,
+      "finance": 9,
+      "operations": 7,
+      "project_manager": 5
+    }
+  },
+  "git": {
+    "total_jobs": 202,
+    "top_roles": {
+      "other": 97,
+      "software_engineer": 70,
+      "devops_engineer": 15,
+      "qa_engineer": 7,
+      "data_engineer": 4
+    }
+  },
+  "decisionmaking skills": {
+    "total_jobs": 201,
+    "top_roles": {
+      "other": 141,
+      "nurse": 20,
+      "customer_service": 17,
+      "project_manager": 9,
+      "sales": 5
+    }
+  },
+  "medication management": {
+    "total_jobs": 200,
+    "top_roles": {
+      "nurse": 121,
+      "other": 78,
+      "administrative": 1
+    }
+  },
+  "board certification": {
+    "total_jobs": 200,
+    "top_roles": {
+      "other": 138,
+      "nurse": 62
+    }
+  },
+  "communications": {
+    "total_jobs": 199,
+    "top_roles": {
+      "other": 151,
+      "nurse": 11,
+      "marketing": 11,
+      "sales": 11,
+      "hr": 4
+    }
+  },
+  "safety regulations": {
+    "total_jobs": 199,
+    "top_roles": {
+      "other": 177,
+      "project_manager": 8,
+      "operations": 5,
+      "hr": 2,
+      "nurse": 2
+    }
+  },
+  "sitting": {
+    "total_jobs": 198,
+    "top_roles": {
+      "other": 134,
+      "nurse": 53,
+      "operations": 3,
+      "customer_service": 3,
+      "sales": 1
+    }
+  },
+  "emergency medicine": {
+    "total_jobs": 198,
+    "top_roles": {
+      "other": 143,
+      "nurse": 53,
+      "sales": 2
+    }
+  },
+  "regulations": {
+    "total_jobs": 198,
+    "top_roles": {
+      "other": 148,
+      "nurse": 28,
+      "hr": 8,
+      "finance": 4,
+      "project_manager": 4
+    }
+  },
+  "palliative care": {
+    "total_jobs": 198,
+    "top_roles": {
+      "nurse": 120,
+      "other": 78
+    }
+  },
+  "ultrasound": {
+    "total_jobs": 198,
+    "top_roles": {
+      "other": 177,
+      "nurse": 20,
+      "sales": 1
+    }
+  },
+  "competitive compensation": {
+    "total_jobs": 197,
+    "top_roles": {
+      "other": 135,
+      "nurse": 39,
+      "sales": 10,
+      "project_manager": 5,
+      "software_engineer": 2
+    }
+  },
+  "resilience": {
+    "total_jobs": 197,
+    "top_roles": {
+      "other": 125,
+      "sales": 27,
+      "nurse": 22,
+      "hr": 7,
+      "customer_service": 5
+    }
+  },
+  "patient advocacy": {
+    "total_jobs": 197,
+    "top_roles": {
+      "nurse": 159,
+      "other": 35,
+      "administrative": 2,
+      "sales": 1
+    }
+  },
+  "written and verbal communication": {
+    "total_jobs": 196,
+    "top_roles": {
+      "other": 138,
+      "nurse": 15,
+      "sales": 10,
+      "administrative": 8,
+      "marketing": 6
+    }
+  },
+  "cardiology": {
+    "total_jobs": 196,
+    "top_roles": {
+      "other": 129,
+      "nurse": 64,
+      "sales": 2,
+      "finance": 1
+    }
+  },
+  "repair": {
+    "total_jobs": 196,
+    "top_roles": {
+      "other": 188,
+      "nurse": 3,
+      "operations": 2,
+      "devops_engineer": 1,
+      "customer_service": 1
+    }
+  },
+  "basic life support": {
+    "total_jobs": 196,
+    "top_roles": {
+      "nurse": 129,
+      "other": 67
+    }
+  },
+  "patientcentered care": {
+    "total_jobs": 195,
+    "top_roles": {
+      "nurse": 125,
+      "other": 69,
+      "sales": 1
+    }
+  },
+  "consulting": {
+    "total_jobs": 194,
+    "top_roles": {
+      "other": 134,
+      "nurse": 16,
+      "sales": 9,
+      "data_analyst": 7,
+      "project_manager": 5
+    }
+  },
+  "psychotherapy": {
+    "total_jobs": 194,
+    "top_roles": {
+      "other": 187,
+      "nurse": 7
+    }
+  },
+  "pc skills": {
+    "total_jobs": 194,
+    "top_roles": {
+      "other": 128,
+      "nurse": 52,
+      "sales": 4,
+      "operations": 4,
+      "qa_engineer": 2
+    }
+  },
+  "physical therapy": {
+    "total_jobs": 194,
+    "top_roles": {
+      "other": 148,
+      "nurse": 46
+    }
+  },
+  "artificial intelligence": {
+    "total_jobs": 193,
+    "top_roles": {
+      "other": 114,
+      "data_scientist": 19,
+      "nurse": 14,
+      "software_engineer": 13,
+      "marketing": 6
+    }
+  },
+  "english fluency": {
+    "total_jobs": 193,
+    "top_roles": {
+      "other": 137,
+      "nurse": 26,
+      "sales": 10,
+      "customer_service": 8,
+      "operations": 4
+    }
+  },
+  "hipaa compliance": {
+    "total_jobs": 193,
+    "top_roles": {
+      "other": 103,
+      "nurse": 82,
+      "customer_service": 3,
+      "finance": 2,
+      "administrative": 2
+    }
+  },
+  "12hour shifts": {
+    "total_jobs": 192,
+    "top_roles": {
+      "nurse": 132,
+      "other": 60
+    }
+  },
+  "html": {
+    "total_jobs": 192,
+    "top_roles": {
+      "other": 110,
+      "software_engineer": 61,
+      "ui_ux_designer": 6,
+      "marketing": 5,
+      "qa_engineer": 3
+    }
+  },
+  "writing skills": {
+    "total_jobs": 191,
+    "top_roles": {
+      "other": 135,
+      "nurse": 34,
+      "administrative": 5,
+      "project_manager": 5,
+      "hr": 3
+    }
+  },
+  "electronic medical records": {
+    "total_jobs": 191,
+    "top_roles": {
+      "nurse": 103,
+      "other": 85,
+      "customer_service": 1,
+      "sales": 1,
+      "administrative": 1
+    }
+  },
+  "profitability": {
+    "total_jobs": 190,
+    "top_roles": {
+      "other": 155,
+      "sales": 13,
+      "nurse": 5,
+      "project_manager": 4,
+      "operations": 4
+    }
+  },
+  "typing": {
+    "total_jobs": 190,
+    "top_roles": {
+      "other": 107,
+      "operations": 35,
+      "nurse": 18,
+      "customer_service": 13,
+      "administrative": 8
+    }
+  },
+  "production": {
+    "total_jobs": 190,
+    "top_roles": {
+      "other": 162,
+      "operations": 10,
+      "qa_engineer": 4,
+      "sales": 3,
+      "project_manager": 3
+    }
+  },
+  "clinical research": {
+    "total_jobs": 190,
+    "top_roles": {
+      "other": 138,
+      "nurse": 44,
+      "sales": 3,
+      "qa_engineer": 1,
+      "customer_service": 1
+    }
+  },
+  "gaap": {
+    "total_jobs": 190,
+    "top_roles": {
+      "finance": 107,
+      "other": 76,
+      "nurse": 3,
+      "data_analyst": 2,
+      "administrative": 1
+    }
+  },
+  "excellent communication skills": {
+    "total_jobs": 189,
+    "top_roles": {
+      "other": 132,
+      "nurse": 25,
+      "project_manager": 7,
+      "customer_service": 5,
+      "finance": 4
+    }
+  },
+  "word processing": {
+    "total_jobs": 189,
+    "top_roles": {
+      "other": 137,
+      "nurse": 25,
+      "administrative": 15,
+      "customer_service": 3,
+      "project_manager": 3
+    }
+  },
+  "competitive pay": {
+    "total_jobs": 188,
+    "top_roles": {
+      "other": 116,
+      "nurse": 63,
+      "sales": 5,
+      "customer_service": 2,
+      "project_manager": 1
+    }
+  },
+  "financial statements": {
+    "total_jobs": 188,
+    "top_roles": {
+      "finance": 99,
+      "other": 82,
+      "nurse": 4,
+      "product_manager": 1,
+      "administrative": 1
+    }
+  },
+  "sustainability": {
+    "total_jobs": 188,
+    "top_roles": {
+      "other": 159,
+      "sales": 8,
+      "nurse": 5,
+      "project_manager": 4,
+      "operations": 3
+    }
+  },
+  "certification": {
+    "total_jobs": 188,
+    "top_roles": {
+      "other": 101,
+      "nurse": 81,
+      "project_manager": 3,
+      "devops_engineer": 2,
+      "sales": 1
+    }
+  },
+  "microsoft powerpoint": {
+    "total_jobs": 188,
+    "top_roles": {
+      "other": 136,
+      "nurse": 14,
+      "sales": 10,
+      "finance": 8,
+      "project_manager": 5
+    }
+  },
+  "customer relations": {
+    "total_jobs": 187,
+    "top_roles": {
+      "other": 137,
+      "nurse": 17,
+      "sales": 10,
+      "project_manager": 9,
+      "customer_service": 5
+    }
+  },
+  "career development": {
+    "total_jobs": 187,
+    "top_roles": {
+      "other": 144,
+      "nurse": 24,
+      "hr": 5,
+      "sales": 4,
+      "finance": 3
+    }
+  },
+  "independence": {
+    "total_jobs": 187,
+    "top_roles": {
+      "other": 138,
+      "nurse": 21,
+      "finance": 8,
+      "sales": 7,
+      "administrative": 4
+    }
+  },
+  "phlebotomy": {
+    "total_jobs": 187,
+    "top_roles": {
+      "other": 125,
+      "nurse": 59,
+      "sales": 2,
+      "customer_service": 1
+    }
+  },
+  "carrying": {
+    "total_jobs": 187,
+    "top_roles": {
+      "other": 149,
+      "nurse": 22,
+      "customer_service": 13,
+      "sales": 2,
+      "operations": 1
+    }
+  },
+  "property management": {
+    "total_jobs": 187,
+    "top_roles": {
+      "other": 171,
+      "finance": 7,
+      "project_manager": 3,
+      "operations": 2,
+      "nurse": 2
+    }
+  },
+  "mental health counseling": {
+    "total_jobs": 186,
+    "top_roles": {
+      "other": 182,
+      "nurse": 3,
+      "sales": 1
+    }
+  },
+  "compensation": {
+    "total_jobs": 186,
+    "top_roles": {
+      "other": 109,
+      "nurse": 32,
+      "hr": 23,
+      "operations": 4,
+      "sales": 4
+    }
+  },
+  "software": {
+    "total_jobs": 185,
+    "top_roles": {
+      "other": 136,
+      "nurse": 19,
+      "sales": 10,
+      "customer_service": 5,
+      "project_manager": 4
+    }
+  },
+  "verbal and written communication": {
+    "total_jobs": 185,
+    "top_roles": {
+      "other": 131,
+      "nurse": 19,
+      "project_manager": 8,
+      "administrative": 5,
+      "sales": 5
+    }
+  },
+  "preventive maintenance": {
+    "total_jobs": 184,
+    "top_roles": {
+      "other": 172,
+      "operations": 6,
+      "nurse": 3,
+      "customer_service": 1,
+      "devops_engineer": 1
+    }
+  },
+  "treatment plans": {
+    "total_jobs": 184,
+    "top_roles": {
+      "other": 113,
+      "nurse": 70,
+      "project_manager": 1
+    }
+  },
+  "respect": {
+    "total_jobs": 184,
+    "top_roles": {
+      "other": 124,
+      "nurse": 51,
+      "operations": 3,
+      "sales": 3,
+      "data_analyst": 1
+    }
+  },
+  "erp systems": {
+    "total_jobs": 184,
+    "top_roles": {
+      "other": 96,
+      "finance": 47,
+      "operations": 14,
+      "sales": 8,
+      "data_analyst": 5
+    }
+  },
+  "proposal writing": {
+    "total_jobs": 183,
+    "top_roles": {
+      "other": 120,
+      "sales": 29,
+      "project_manager": 25,
+      "operations": 2,
+      "marketing": 2
+    }
+  },
+  "conflict management": {
+    "total_jobs": 182,
+    "top_roles": {
+      "other": 131,
+      "nurse": 17,
+      "project_manager": 11,
+      "operations": 6,
+      "hr": 6
+    }
+  },
+  "staff management": {
+    "total_jobs": 182,
+    "top_roles": {
+      "other": 135,
+      "nurse": 29,
+      "operations": 7,
+      "project_manager": 5,
+      "sales": 3
+    }
+  },
+  "staff training": {
+    "total_jobs": 182,
+    "top_roles": {
+      "other": 126,
+      "nurse": 50,
+      "project_manager": 3,
+      "operations": 2,
+      "customer_service": 1
+    }
+  },
+  "client communication": {
+    "total_jobs": 181,
+    "top_roles": {
+      "other": 119,
+      "nurse": 33,
+      "project_manager": 14,
+      "sales": 9,
+      "finance": 2
+    }
+  },
+  "analytics": {
+    "total_jobs": 181,
+    "top_roles": {
+      "other": 110,
+      "marketing": 15,
+      "data_analyst": 13,
+      "sales": 10,
+      "nurse": 7
+    }
+  },
+  "401(k) retirement plan": {
+    "total_jobs": 180,
+    "top_roles": {
+      "other": 127,
+      "nurse": 41,
+      "sales": 4,
+      "customer_service": 3,
+      "devops_engineer": 2
+    }
+  },
+  "bookkeeping": {
+    "total_jobs": 180,
+    "top_roles": {
+      "other": 66,
+      "finance": 62,
+      "operations": 34,
+      "administrative": 9,
+      "sales": 3
+    }
+  },
+  "employee training": {
+    "total_jobs": 179,
+    "top_roles": {
+      "other": 161,
+      "nurse": 8,
+      "operations": 3,
+      "qa_engineer": 3,
+      "hr": 2
+    }
+  },
+  "clean driving record": {
+    "total_jobs": 179,
+    "top_roles": {
+      "other": 146,
+      "nurse": 11,
+      "sales": 11,
+      "customer_service": 6,
+      "project_manager": 2
+    }
+  },
+  "paid parental leave": {
+    "total_jobs": 178,
+    "top_roles": {
+      "other": 135,
+      "nurse": 14,
+      "sales": 8,
+      "project_manager": 6,
+      "operations": 5
+    }
+  },
+  "pricing": {
+    "total_jobs": 178,
+    "top_roles": {
+      "other": 136,
+      "sales": 20,
+      "operations": 7,
+      "data_analyst": 5,
+      "data_scientist": 3
+    }
+  },
+  "safety protocols": {
+    "total_jobs": 178,
+    "top_roles": {
+      "other": 151,
+      "nurse": 17,
+      "operations": 5,
+      "project_manager": 3,
+      "customer_service": 1
+    }
+  },
+  "client relationships": {
+    "total_jobs": 177,
+    "top_roles": {
+      "other": 107,
+      "sales": 41,
+      "project_manager": 12,
+      "nurse": 10,
+      "finance": 5
+    }
+  },
+  "orientation": {
+    "total_jobs": 177,
+    "top_roles": {
+      "nurse": 95,
+      "other": 75,
+      "hr": 3,
+      "devops_engineer": 1,
+      "customer_service": 1
+    }
+  },
+  "banking": {
+    "total_jobs": 177,
+    "top_roles": {
+      "other": 144,
+      "finance": 10,
+      "nurse": 8,
+      "customer_service": 5,
+      "sales": 2
+    }
+  },
+  "standard operating procedures": {
+    "total_jobs": 176,
+    "top_roles": {
+      "other": 156,
+      "operations": 6,
+      "finance": 3,
+      "project_manager": 3,
+      "sales": 2
+    }
+  },
+  "financial services": {
+    "total_jobs": 176,
+    "top_roles": {
+      "other": 114,
+      "sales": 16,
+      "customer_service": 16,
+      "nurse": 9,
+      "finance": 7
+    }
+  },
+  "heavy lifting": {
+    "total_jobs": 175,
+    "top_roles": {
+      "other": 134,
+      "nurse": 36,
+      "operations": 3,
+      "customer_service": 1,
+      "devops_engineer": 1
+    }
+  },
+  "drug test": {
+    "total_jobs": 175,
+    "top_roles": {
+      "other": 141,
+      "nurse": 24,
+      "operations": 4,
+      "sales": 3,
+      "administrative": 2
+    }
+  },
+  "mileage reimbursement": {
+    "total_jobs": 175,
+    "top_roles": {
+      "nurse": 84,
+      "other": 83,
+      "sales": 5,
+      "hr": 2,
+      "finance": 1
+    }
+  },
+  "erp": {
+    "total_jobs": 175,
+    "top_roles": {
+      "other": 119,
+      "finance": 21,
+      "operations": 10,
+      "project_manager": 6,
+      "sales": 6
+    }
+  },
+  "estimating": {
+    "total_jobs": 175,
+    "top_roles": {
+      "other": 123,
+      "project_manager": 42,
+      "sales": 5,
+      "nurse": 3,
+      "software_engineer": 1
+    }
+  },
+  "safety policies": {
+    "total_jobs": 175,
+    "top_roles": {
+      "other": 168,
+      "nurse": 3,
+      "operations": 2,
+      "project_manager": 2
+    }
+  },
+  "css": {
+    "total_jobs": 174,
+    "top_roles": {
+      "other": 97,
+      "software_engineer": 62,
+      "ui_ux_designer": 6,
+      "operations": 3,
+      "marketing": 2
+    }
+  },
+  "receiving": {
+    "total_jobs": 173,
+    "top_roles": {
+      "other": 124,
+      "operations": 45,
+      "nurse": 2,
+      "qa_engineer": 1,
+      "customer_service": 1
+    }
+  },
+  "stakeholder engagement": {
+    "total_jobs": 173,
+    "top_roles": {
+      "other": 131,
+      "project_manager": 13,
+      "data_analyst": 6,
+      "finance": 4,
+      "sales": 3
+    }
+  },
+  "hand tools": {
+    "total_jobs": 173,
+    "top_roles": {
+      "other": 167,
+      "nurse": 6
+    }
+  },
+  "bilingual": {
+    "total_jobs": 173,
+    "top_roles": {
+      "other": 121,
+      "nurse": 34,
+      "customer_service": 8,
+      "hr": 3,
+      "sales": 2
+    }
+  },
+  "verbal communication skills": {
+    "total_jobs": 173,
+    "top_roles": {
+      "other": 119,
+      "nurse": 22,
+      "sales": 7,
+      "project_manager": 6,
+      "customer_service": 5
+    }
+  },
+  "data interpretation": {
+    "total_jobs": 172,
+    "top_roles": {
+      "other": 127,
+      "nurse": 22,
+      "data_analyst": 11,
+      "data_scientist": 5,
+      "marketing": 2
+    }
+  },
+  "best practices": {
+    "total_jobs": 171,
+    "top_roles": {
+      "other": 129,
+      "nurse": 17,
+      "software_engineer": 6,
+      "sales": 5,
+      "project_manager": 4
+    }
+  },
+  "employee stock purchase plan": {
+    "total_jobs": 171,
+    "top_roles": {
+      "other": 147,
+      "nurse": 12,
+      "sales": 6,
+      "marketing": 1,
+      "customer_service": 1
+    }
+  },
+  "business intelligence": {
+    "total_jobs": 171,
+    "top_roles": {
+      "other": 102,
+      "data_analyst": 20,
+      "finance": 9,
+      "data_engineer": 8,
+      "sales": 8
+    }
+  },
+  "credentialing": {
+    "total_jobs": 170,
+    "top_roles": {
+      "other": 112,
+      "nurse": 55,
+      "sales": 2,
+      "hr": 1
+    }
+  },
+  "contract negotiation": {
+    "total_jobs": 170,
+    "top_roles": {
+      "other": 117,
+      "sales": 28,
+      "project_manager": 13,
+      "nurse": 8,
+      "operations": 2
+    }
+  },
+  "public relations": {
+    "total_jobs": 170,
+    "top_roles": {
+      "other": 120,
+      "nurse": 18,
+      "marketing": 11,
+      "sales": 9,
+      "administrative": 5
+    }
+  },
+  "spanish": {
+    "total_jobs": 170,
+    "top_roles": {
+      "other": 132,
+      "nurse": 14,
+      "operations": 5,
+      "sales": 4,
+      "hr": 4
+    }
+  },
+  "visual acuity": {
+    "total_jobs": 169,
+    "top_roles": {
+      "other": 120,
+      "nurse": 41,
+      "project_manager": 2,
+      "administrative": 2,
+      "sales": 1
+    }
+  },
+  "manual dexterity": {
+    "total_jobs": 169,
+    "top_roles": {
+      "other": 123,
+      "nurse": 39,
+      "customer_service": 3,
+      "administrative": 2,
+      "project_manager": 1
+    }
+  },
+  "vital signs": {
+    "total_jobs": 169,
+    "top_roles": {
+      "nurse": 99,
+      "other": 68,
+      "administrative": 2
+    }
+  },
+  "classroom management": {
+    "total_jobs": 169,
+    "top_roles": {
+      "other": 158,
+      "nurse": 11
+    }
+  },
+  "policies": {
+    "total_jobs": 167,
+    "top_roles": {
+      "other": 109,
+      "nurse": 37,
+      "project_manager": 5,
+      "hr": 4,
+      "administrative": 3
+    }
+  },
+  "cultural competence": {
+    "total_jobs": 167,
+    "top_roles": {
+      "other": 105,
+      "nurse": 59,
+      "customer_service": 1,
+      "administrative": 1,
+      "project_manager": 1
+    }
+  },
+  "critical thinking skills": {
+    "total_jobs": 166,
+    "top_roles": {
+      "nurse": 86,
+      "other": 69,
+      "sales": 4,
+      "customer_service": 2,
+      "devops_engineer": 1
+    }
+  },
+  "support": {
+    "total_jobs": 166,
+    "top_roles": {
+      "other": 124,
+      "nurse": 30,
+      "project_manager": 3,
+      "customer_service": 2,
+      "sales": 2
+    }
+  },
+  "safety standards": {
+    "total_jobs": 166,
+    "top_roles": {
+      "other": 137,
+      "nurse": 18,
+      "project_manager": 6,
+      "operations": 3,
+      "devops_engineer": 1
+    }
+  },
+  "data science": {
+    "total_jobs": 166,
+    "top_roles": {
+      "other": 83,
+      "data_scientist": 31,
+      "data_analyst": 15,
+      "data_engineer": 10,
+      "ml_engineer": 7
+    }
+  },
+  "team development": {
+    "total_jobs": 166,
+    "top_roles": {
+      "other": 136,
+      "operations": 8,
+      "sales": 6,
+      "nurse": 6,
+      "project_manager": 4
+    }
+  },
+  "information technology": {
+    "total_jobs": 166,
+    "top_roles": {
+      "other": 107,
+      "nurse": 17,
+      "project_manager": 10,
+      "software_engineer": 8,
+      "devops_engineer": 6
+    }
+  },
+  "cash handling procedures": {
+    "total_jobs": 165,
+    "top_roles": {
+      "other": 165
+    }
+  },
+  "cultural sensitivity": {
+    "total_jobs": 165,
+    "top_roles": {
+      "other": 88,
+      "nurse": 71,
+      "finance": 2,
+      "project_manager": 2,
+      "hr": 1
+    }
+  },
+  "service excellence": {
+    "total_jobs": 165,
+    "top_roles": {
+      "other": 108,
+      "nurse": 55,
+      "finance": 1,
+      "customer_service": 1
+    }
+  },
+  "electrical systems": {
+    "total_jobs": 165,
+    "top_roles": {
+      "other": 155,
+      "project_manager": 5,
+      "software_engineer": 2,
+      "nurse": 2,
+      "customer_service": 1
+    }
+  },
+  "cybersecurity": {
+    "total_jobs": 165,
+    "top_roles": {
+      "other": 134,
+      "sales": 8,
+      "software_engineer": 6,
+      "devops_engineer": 5,
+      "operations": 4
+    }
+  },
+  "cashiering": {
+    "total_jobs": 164,
+    "top_roles": {
+      "customer_service": 82,
+      "other": 76,
+      "administrative": 3,
+      "nurse": 3
+    }
+  },
+  "pharmacy": {
+    "total_jobs": 163,
+    "top_roles": {
+      "other": 137,
+      "nurse": 22,
+      "qa_engineer": 1,
+      "administrative": 1,
+      "project_manager": 1
+    }
+  },
+  "stocker": {
+    "total_jobs": 163,
+    "top_roles": {
+      "other": 163
+    }
+  },
+  "databases": {
+    "total_jobs": 163,
+    "top_roles": {
+      "other": 110,
+      "nurse": 14,
+      "data_analyst": 10,
+      "software_engineer": 7,
+      "administrative": 5
+    }
+  },
+  "purchasing": {
+    "total_jobs": 163,
+    "top_roles": {
+      "other": 140,
+      "operations": 11,
+      "administrative": 4,
+      "project_manager": 3,
+      "sales": 1
+    }
+  },
+  "c#": {
+    "total_jobs": 163,
+    "top_roles": {
+      "other": 77,
+      "software_engineer": 70,
+      "qa_engineer": 4,
+      "data_engineer": 4,
+      "data_analyst": 4
+    }
+  },
+  "crisis management": {
+    "total_jobs": 162,
+    "top_roles": {
+      "other": 126,
+      "nurse": 29,
+      "sales": 2,
+      "project_manager": 2,
+      "customer_service": 1
+    }
+  },
+  "direct deposit": {
+    "total_jobs": 162,
+    "top_roles": {
+      "other": 81,
+      "nurse": 78,
+      "sales": 2,
+      "customer_service": 1
+    }
+  },
+  "acute care": {
+    "total_jobs": 162,
+    "top_roles": {
+      "nurse": 138,
+      "other": 24
+    }
+  },
+  "credentials": {
+    "total_jobs": 162,
+    "top_roles": {
+      "other": 122,
+      "nurse": 40
+    }
+  },
+  "financial modeling": {
+    "total_jobs": 161,
+    "top_roles": {
+      "other": 99,
+      "finance": 48,
+      "data_analyst": 6,
+      "nurse": 4,
+      "sales": 3
+    }
+  },
+  "problem solving skills": {
+    "total_jobs": 161,
+    "top_roles": {
+      "other": 115,
+      "nurse": 15,
+      "project_manager": 5,
+      "operations": 5,
+      "customer_service": 4
+    }
+  },
+  "reports": {
+    "total_jobs": 161,
+    "top_roles": {
+      "other": 126,
+      "nurse": 11,
+      "project_manager": 5,
+      "data_analyst": 5,
+      "administrative": 4
+    }
+  },
+  "associate degree": {
+    "total_jobs": 161,
+    "top_roles": {
+      "other": 107,
+      "nurse": 46,
+      "operations": 3,
+      "customer_service": 2,
+      "administrative": 1
+    }
+  },
+  "accounts payable": {
+    "total_jobs": 161,
+    "top_roles": {
+      "finance": 75,
+      "other": 73,
+      "administrative": 5,
+      "sales": 2,
+      "hr": 2
+    }
+  },
+  "ms word": {
+    "total_jobs": 161,
+    "top_roles": {
+      "other": 121,
+      "nurse": 14,
+      "project_manager": 8,
+      "administrative": 6,
+      "finance": 3
+    }
+  },
+  "math": {
+    "total_jobs": 160,
+    "top_roles": {
+      "other": 132,
+      "nurse": 9,
+      "operations": 3,
+      "finance": 3,
+      "sales": 3
+    }
+  },
+  "database management": {
+    "total_jobs": 160,
+    "top_roles": {
+      "other": 124,
+      "administrative": 7,
+      "sales": 6,
+      "operations": 5,
+      "nurse": 4
+    }
+  },
+  "honesty": {
+    "total_jobs": 160,
+    "top_roles": {
+      "other": 116,
+      "nurse": 32,
+      "customer_service": 5,
+      "sales": 3,
+      "operations": 2
+    }
+  },
+  "policy development": {
+    "total_jobs": 160,
+    "top_roles": {
+      "other": 109,
+      "nurse": 35,
+      "hr": 8,
+      "operations": 2,
+      "finance": 2
+    }
+  },
+  "productivity": {
+    "total_jobs": 159,
+    "top_roles": {
+      "other": 128,
+      "nurse": 15,
+      "operations": 5,
+      "administrative": 3,
+      "sales": 2
+    }
+  },
+  "internal communication": {
+    "total_jobs": 159,
+    "top_roles": {
+      "other": 157,
+      "nurse": 1,
+      "sales": 1
+    }
+  },
+  "execution": {
+    "total_jobs": 158,
+    "top_roles": {
+      "other": 117,
+      "sales": 11,
+      "project_manager": 5,
+      "devops_engineer": 4,
+      "marketing": 4
+    }
+  },
+  "basic life support (bls)": {
+    "total_jobs": 158,
+    "top_roles": {
+      "nurse": 105,
+      "other": 52,
+      "customer_service": 1
+    }
+  },
+  "vacation": {
+    "total_jobs": 158,
+    "top_roles": {
+      "other": 128,
+      "nurse": 15,
+      "sales": 5,
+      "operations": 4,
+      "project_manager": 3
+    }
+  },
+  "electronic health records": {
+    "total_jobs": 158,
+    "top_roles": {
+      "other": 86,
+      "nurse": 71,
+      "operations": 1
+    }
+  },
+  "digital marketing": {
+    "total_jobs": 157,
+    "top_roles": {
+      "other": 79,
+      "marketing": 40,
+      "sales": 35,
+      "project_manager": 1,
+      "product_manager": 1
+    }
+  },
+  "401k plan": {
+    "total_jobs": 156,
+    "top_roles": {
+      "other": 106,
+      "nurse": 32,
+      "sales": 7,
+      "operations": 3,
+      "project_manager": 3
+    }
+  },
+  "everify": {
+    "total_jobs": 155,
+    "top_roles": {
+      "other": 113,
+      "nurse": 23,
+      "customer_service": 8,
+      "finance": 3,
+      "administrative": 2
+    }
+  },
+  "health promotion": {
+    "total_jobs": 155,
+    "top_roles": {
+      "nurse": 113,
+      "other": 42
+    }
+  },
+  "supervisory skills": {
+    "total_jobs": 155,
+    "top_roles": {
+      "other": 124,
+      "nurse": 18,
+      "operations": 5,
+      "finance": 2,
+      "hr": 2
+    }
+  },
+  "signon bonus": {
+    "total_jobs": 155,
+    "top_roles": {
+      "other": 107,
+      "nurse": 46,
+      "sales": 1,
+      "operations": 1
+    }
+  },
+  "security clearance": {
+    "total_jobs": 154,
+    "top_roles": {
+      "other": 114,
+      "nurse": 12,
+      "project_manager": 9,
+      "devops_engineer": 6,
+      "administrative": 4
+    }
+  },
+  "ct technologist": {
+    "total_jobs": 154,
+    "top_roles": {
+      "other": 154
+    }
+  },
+  "icu": {
+    "total_jobs": 154,
+    "top_roles": {
+      "nurse": 138,
+      "other": 16
+    }
+  },
+  "warehouse management": {
+    "total_jobs": 154,
+    "top_roles": {
+      "operations": 90,
+      "other": 58,
+      "customer_service": 4,
+      "sales": 1,
+      "nurse": 1
+    }
+  },
+  "taxfree stipend": {
+    "total_jobs": 154,
+    "top_roles": {
+      "other": 94,
+      "nurse": 60
+    }
+  },
+  "instrumentation": {
+    "total_jobs": 154,
+    "top_roles": {
+      "other": 138,
+      "nurse": 5,
+      "devops_engineer": 4,
+      "qa_engineer": 3,
+      "sales": 2
+    }
+  },
+  "project scheduling": {
+    "total_jobs": 153,
+    "top_roles": {
+      "other": 103,
+      "project_manager": 46,
+      "finance": 1,
+      "devops_engineer": 1,
+      "administrative": 1
+    }
+  },
+  "hygiene": {
+    "total_jobs": 152,
+    "top_roles": {
+      "other": 137,
+      "nurse": 13,
+      "operations": 1,
+      "sales": 1
+    }
+  },
+  "legal writing": {
+    "total_jobs": 152,
+    "top_roles": {
+      "nurse": 104,
+      "other": 45,
+      "devops_engineer": 1,
+      "operations": 1,
+      "customer_service": 1
+    }
+  },
+  "microsoft project": {
+    "total_jobs": 152,
+    "top_roles": {
+      "other": 84,
+      "project_manager": 58,
+      "finance": 3,
+      "nurse": 3,
+      "devops_engineer": 1
+    }
+  },
+  "medical equipment": {
+    "total_jobs": 152,
+    "top_roles": {
+      "nurse": 87,
+      "other": 62,
+      "sales": 3
+    }
+  },
+  "scrum": {
+    "total_jobs": 152,
+    "top_roles": {
+      "other": 75,
+      "software_engineer": 29,
+      "project_manager": 21,
+      "data_analyst": 9,
+      "devops_engineer": 6
+    }
+  },
+  "cad": {
+    "total_jobs": 152,
+    "top_roles": {
+      "other": 138,
+      "project_manager": 8,
+      "nurse": 3,
+      "operations": 1,
+      "sales": 1
+    }
+  },
+  "medical technology": {
+    "total_jobs": 151,
+    "top_roles": {
+      "other": 138,
+      "nurse": 11,
+      "qa_engineer": 1,
+      "project_manager": 1
+    }
+  },
+  "policies and procedures": {
+    "total_jobs": 151,
+    "top_roles": {
+      "other": 86,
+      "nurse": 50,
+      "hr": 8,
+      "customer_service": 2,
+      "devops_engineer": 2
+    }
+  },
+  "lesson planning": {
+    "total_jobs": 151,
+    "top_roles": {
+      "other": 138,
+      "nurse": 13
+    }
+  },
+  "agile development": {
+    "total_jobs": 151,
+    "top_roles": {
+      "other": 69,
+      "software_engineer": 34,
+      "data_analyst": 10,
+      "devops_engineer": 9,
+      "project_manager": 6
+    }
+  },
+  "radiography": {
+    "total_jobs": 150,
+    "top_roles": {
+      "other": 143,
+      "nurse": 7
+    }
+  },
+  "health savings account": {
+    "total_jobs": 149,
+    "top_roles": {
+      "other": 113,
+      "nurse": 18,
+      "project_manager": 6,
+      "sales": 5,
+      "administrative": 2
+    }
+  },
+  "urgent care": {
+    "total_jobs": 149,
+    "top_roles": {
+      "nurse": 82,
+      "other": 67
+    }
+  },
+  "research skills": {
+    "total_jobs": 149,
+    "top_roles": {
+      "other": 100,
+      "nurse": 25,
+      "finance": 5,
+      "sales": 5,
+      "customer_service": 3
+    }
+  },
+  "marriage and family therapy": {
+    "total_jobs": 149,
+    "top_roles": {
+      "other": 148,
+      "nurse": 1
+    }
+  },
+  "pain management": {
+    "total_jobs": 149,
+    "top_roles": {
+      "nurse": 109,
+      "other": 39,
+      "sales": 1
+    }
+  },
+  "servsafe certification": {
+    "total_jobs": 148,
+    "top_roles": {
+      "other": 144,
+      "nurse": 4
+    }
+  },
+  "quality food production": {
+    "total_jobs": 148,
+    "top_roles": {
+      "other": 146,
+      "nurse": 2
+    }
+  },
+  "structural engineering": {
+    "total_jobs": 148,
+    "top_roles": {
+      "other": 133,
+      "project_manager": 10,
+      "devops_engineer": 4,
+      "qa_engineer": 1
+    }
+  },
+  "creative thinking": {
+    "total_jobs": 147,
+    "top_roles": {
+      "other": 98,
+      "sales": 16,
+      "marketing": 8,
+      "administrative": 5,
+      "project_manager": 4
+    }
+  },
+  "certifications": {
+    "total_jobs": 146,
+    "top_roles": {
+      "other": 84,
+      "nurse": 55,
+      "sales": 2,
+      "project_manager": 2,
+      "data_analyst": 1
+    }
+  },
+  "consultation": {
+    "total_jobs": 146,
+    "top_roles": {
+      "other": 104,
+      "nurse": 36,
+      "project_manager": 3,
+      "sales": 2,
+      "customer_service": 1
+    }
+  },
+  "accounting software": {
+    "total_jobs": 146,
+    "top_roles": {
+      "finance": 68,
+      "other": 67,
+      "project_manager": 2,
+      "data_analyst": 2,
+      "operations": 2
+    }
+  },
+  "driving license": {
+    "total_jobs": 146,
+    "top_roles": {
+      "other": 115,
+      "sales": 14,
+      "nurse": 10,
+      "project_manager": 3,
+      "customer_service": 3
+    }
+  },
+  "recognition": {
+    "total_jobs": 146,
+    "top_roles": {
+      "other": 134,
+      "nurse": 9,
+      "qa_engineer": 1,
+      "project_manager": 1,
+      "sales": 1
+    }
+  },
+  "customer experience": {
+    "total_jobs": 145,
+    "top_roles": {
+      "other": 118,
+      "sales": 11,
+      "customer_service": 6,
+      "nurse": 3,
+      "project_manager": 2
+    }
+  },
+  "health benefits": {
+    "total_jobs": 145,
+    "top_roles": {
+      "other": 103,
+      "nurse": 29,
+      "sales": 7,
+      "customer_service": 2,
+      "operations": 2
+    }
+  },
+  "chemical engineering": {
+    "total_jobs": 145,
+    "top_roles": {
+      "other": 119,
+      "sales": 7,
+      "project_manager": 7,
+      "nurse": 5,
+      "qa_engineer": 3
+    }
+  },
+  "systems engineering": {
+    "total_jobs": 145,
+    "top_roles": {
+      "other": 66,
+      "devops_engineer": 59,
+      "software_engineer": 8,
+      "project_manager": 5,
+      "qa_engineer": 3
+    }
+  },
+  "program development": {
+    "total_jobs": 145,
+    "top_roles": {
+      "other": 112,
+      "nurse": 21,
+      "project_manager": 5,
+      "sales": 4,
+      "operations": 2
+    }
+  },
+  "audits": {
+    "total_jobs": 145,
+    "top_roles": {
+      "other": 95,
+      "finance": 20,
+      "nurse": 9,
+      "qa_engineer": 6,
+      "sales": 6
+    }
+  },
+  "google suite": {
+    "total_jobs": 144,
+    "top_roles": {
+      "other": 95,
+      "sales": 27,
+      "administrative": 7,
+      "nurse": 2,
+      "project_manager": 2
+    }
+  },
+  "willingness to learn": {
+    "total_jobs": 144,
+    "top_roles": {
+      "other": 103,
+      "customer_service": 26,
+      "nurse": 5,
+      "sales": 5,
+      "operations": 3
+    }
+  },
+  "invoicing": {
+    "total_jobs": 144,
+    "top_roles": {
+      "other": 82,
+      "operations": 18,
+      "finance": 13,
+      "administrative": 10,
+      "project_manager": 9
+    }
+  },
+  "enthusiasm": {
+    "total_jobs": 143,
+    "top_roles": {
+      "other": 118,
+      "nurse": 8,
+      "sales": 6,
+      "operations": 3,
+      "administrative": 2
+    }
+  },
+  "occupational therapy": {
+    "total_jobs": 143,
+    "top_roles": {
+      "other": 104,
+      "nurse": 39
+    }
+  },
+  "travel reimbursement": {
+    "total_jobs": 143,
+    "top_roles": {
+      "nurse": 87,
+      "other": 56
+    }
+  },
+  "cashier accountability": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 141,
+      "nurse": 1
+    }
+  },
+  "industry trends": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 88,
+      "sales": 23,
+      "nurse": 5,
+      "marketing": 5,
+      "software_engineer": 4
+    }
+  },
+  "deadlines": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 103,
+      "finance": 15,
+      "nurse": 7,
+      "project_manager": 4,
+      "hr": 3
+    }
+  },
+  "spreadsheets": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 98,
+      "nurse": 13,
+      "finance": 7,
+      "sales": 7,
+      "administrative": 6
+    }
+  },
+  "market analysis": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 79,
+      "sales": 46,
+      "product_manager": 5,
+      "marketing": 2,
+      "nurse": 2
+    }
+  },
+  "36 hours per week": {
+    "total_jobs": 142,
+    "top_roles": {
+      "nurse": 94,
+      "other": 48
+    }
+  },
+  "detail oriented": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 100,
+      "customer_service": 9,
+      "finance": 8,
+      "nurse": 8,
+      "operations": 5
+    }
+  },
+  "tuition assistance": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 78,
+      "nurse": 47,
+      "operations": 6,
+      "sales": 4,
+      "administrative": 2
+    }
+  },
+  "exceptional customer service": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 134,
+      "nurse": 3,
+      "sales": 3,
+      "customer_service": 1,
+      "project_manager": 1
+    }
+  },
+  "us citizenship": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 111,
+      "software_engineer": 9,
+      "nurse": 5,
+      "devops_engineer": 5,
+      "qa_engineer": 3
+    }
+  },
+  "standards": {
+    "total_jobs": 142,
+    "top_roles": {
+      "other": 103,
+      "nurse": 26,
+      "project_manager": 3,
+      "data_analyst": 3,
+      "operations": 3
+    }
+  },
+  "product management": {
+    "total_jobs": 141,
+    "top_roles": {
+      "other": 59,
+      "product_manager": 36,
+      "software_engineer": 14,
+      "sales": 12,
+      "project_manager": 7
+    }
+  },
+  "cost management": {
+    "total_jobs": 141,
+    "top_roles": {
+      "other": 93,
+      "project_manager": 28,
+      "nurse": 9,
+      "operations": 3,
+      "software_engineer": 2
+    }
+  },
+  "cold calling": {
+    "total_jobs": 141,
+    "top_roles": {
+      "sales": 73,
+      "other": 58,
+      "hr": 5,
+      "customer_service": 3,
+      "nurse": 1
+    }
+  },
+  "internet": {
+    "total_jobs": 141,
+    "top_roles": {
+      "other": 108,
+      "nurse": 12,
+      "customer_service": 8,
+      "administrative": 4,
+      "sales": 4
+    }
+  },
+  "benefits package": {
+    "total_jobs": 141,
+    "top_roles": {
+      "other": 96,
+      "nurse": 26,
+      "sales": 4,
+      "finance": 4,
+      "operations": 3
+    }
+  },
+  "experience": {
+    "total_jobs": 141,
+    "top_roles": {
+      "other": 91,
+      "nurse": 38,
+      "sales": 4,
+      "data_analyst": 3,
+      "administrative": 2
+    }
+  },
+  "cosmetology": {
+    "total_jobs": 141,
+    "top_roles": {
+      "other": 140,
+      "nurse": 1
+    }
+  },
+  "written skills": {
+    "total_jobs": 140,
+    "top_roles": {
+      "other": 126,
+      "nurse": 8,
+      "finance": 2,
+      "sales": 1,
+      "project_manager": 1
+    }
+  },
+  "telehealth": {
+    "total_jobs": 140,
+    "top_roles": {
+      "other": 87,
+      "nurse": 49,
+      "customer_service": 2,
+      "administrative": 1,
+      "sales": 1
+    }
+  },
+  "data mining": {
+    "total_jobs": 140,
+    "top_roles": {
+      "other": 82,
+      "data_analyst": 19,
+      "finance": 12,
+      "data_scientist": 10,
+      "operations": 4
+    }
+  },
+  "hematology": {
+    "total_jobs": 140,
+    "top_roles": {
+      "other": 117,
+      "nurse": 22,
+      "sales": 1
+    }
+  },
+  "cme": {
+    "total_jobs": 140,
+    "top_roles": {
+      "other": 107,
+      "nurse": 33
+    }
+  },
+  "dea license": {
+    "total_jobs": 140,
+    "top_roles": {
+      "other": 78,
+      "nurse": 62
+    }
+  },
+  "health care": {
+    "total_jobs": 139,
+    "top_roles": {
+      "other": 70,
+      "nurse": 63,
+      "data_analyst": 3,
+      "hr": 2,
+      "project_manager": 1
+    }
+  },
+  "quality standards": {
+    "total_jobs": 139,
+    "top_roles": {
+      "other": 120,
+      "nurse": 8,
+      "project_manager": 5,
+      "operations": 3,
+      "qa_engineer": 1
+    }
+  },
+  "equipment": {
+    "total_jobs": 139,
+    "top_roles": {
+      "other": 109,
+      "nurse": 22,
+      "project_manager": 3,
+      "sales": 2,
+      "operations": 2
+    }
+  },
+  "restaurant operations": {
+    "total_jobs": 139,
+    "top_roles": {
+      "other": 136,
+      "sales": 3
+    }
+  },
+  "solidworks": {
+    "total_jobs": 139,
+    "top_roles": {
+      "other": 132,
+      "project_manager": 5,
+      "devops_engineer": 1,
+      "nurse": 1
+    }
+  },
+  "nursing care": {
+    "total_jobs": 139,
+    "top_roles": {
+      "nurse": 127,
+      "other": 12
+    }
+  },
+  "email alerts": {
+    "total_jobs": 139,
+    "top_roles": {
+      "other": 107,
+      "nurse": 32
+    }
+  },
+  "restaurant experience": {
+    "total_jobs": 138,
+    "top_roles": {
+      "other": 132,
+      "nurse": 3,
+      "sales": 2,
+      "operations": 1
+    }
+  },
+  "patient monitoring": {
+    "total_jobs": 138,
+    "top_roles": {
+      "nurse": 94,
+      "other": 43,
+      "operations": 1
+    }
+  },
+  "react": {
+    "total_jobs": 138,
+    "top_roles": {
+      "software_engineer": 78,
+      "other": 57,
+      "ui_ux_designer": 2,
+      "qa_engineer": 1
+    }
+  },
+  "organizing": {
+    "total_jobs": 138,
+    "top_roles": {
+      "other": 116,
+      "nurse": 13,
+      "administrative": 3,
+      "sales": 2,
+      "operations": 2
+    }
+  },
+  "service": {
+    "total_jobs": 138,
+    "top_roles": {
+      "other": 117,
+      "nurse": 11,
+      "sales": 4,
+      "operations": 2,
+      "ui_ux_designer": 1
+    }
+  },
+  "state license": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 97,
+      "nurse": 39,
+      "devops_engineer": 1
+    }
+  },
+  "attendance": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 107,
+      "nurse": 18,
+      "customer_service": 4,
+      "sales": 2,
+      "operations": 2
+    }
+  },
+  "asset protection": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 131,
+      "nurse": 5,
+      "operations": 1
+    }
+  },
+  "stock management": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 120,
+      "nurse": 6,
+      "customer_service": 6,
+      "operations": 4,
+      "sales": 1
+    }
+  },
+  "vision coverage": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 108,
+      "nurse": 19,
+      "sales": 4,
+      "operations": 3,
+      "project_manager": 1
+    }
+  },
+  "neurology": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 107,
+      "nurse": 28,
+      "sales": 2
+    }
+  },
+  "project coordination": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 103,
+      "project_manager": 13,
+      "administrative": 8,
+      "sales": 4,
+      "data_analyst": 3
+    }
+  },
+  "robotics": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 111,
+      "software_engineer": 11,
+      "sales": 6,
+      "nurse": 4,
+      "devops_engineer": 3
+    }
+  },
+  "child development": {
+    "total_jobs": 137,
+    "top_roles": {
+      "other": 122,
+      "nurse": 14,
+      "project_manager": 1
+    }
+  },
+  "safety policies and practices": {
+    "total_jobs": 136,
+    "top_roles": {
+      "other": 136
+    }
+  },
+  "fulltime": {
+    "total_jobs": 136,
+    "top_roles": {
+      "other": 91,
+      "nurse": 39,
+      "sales": 2,
+      "project_manager": 1,
+      "qa_engineer": 1
+    }
+  },
+  "home health": {
+    "total_jobs": 136,
+    "top_roles": {
+      "nurse": 110,
+      "other": 21,
+      "sales": 5
+    }
+  },
+  "reading": {
+    "total_jobs": 136,
+    "top_roles": {
+      "other": 113,
+      "nurse": 17,
+      "sales": 2,
+      "operations": 1,
+      "administrative": 1
+    }
+  },
+  "distribution": {
+    "total_jobs": 135,
+    "top_roles": {
+      "other": 85,
+      "operations": 18,
+      "sales": 18,
+      "data_analyst": 5,
+      "nurse": 3
+    }
+  },
+  "community engagement": {
+    "total_jobs": 135,
+    "top_roles": {
+      "other": 103,
+      "nurse": 15,
+      "project_manager": 6,
+      "marketing": 6,
+      "administrative": 3
+    }
+  },
+  "tncc": {
+    "total_jobs": 135,
+    "top_roles": {
+      "nurse": 134,
+      "other": 1
+    }
+  },
+  "carpentry": {
+    "total_jobs": 135,
+    "top_roles": {
+      "other": 126,
+      "project_manager": 9
+    }
+  },
+  "accounts receivable": {
+    "total_jobs": 135,
+    "top_roles": {
+      "finance": 60,
+      "other": 57,
+      "administrative": 5,
+      "customer_service": 4,
+      "operations": 3
+    }
+  },
+  "requirements gathering": {
+    "total_jobs": 135,
+    "top_roles": {
+      "other": 71,
+      "data_analyst": 37,
+      "project_manager": 10,
+      "software_engineer": 5,
+      "devops_engineer": 3
+    }
+  },
+  "depth perception": {
+    "total_jobs": 135,
+    "top_roles": {
+      "other": 115,
+      "nurse": 15,
+      "operations": 2,
+      "data_analyst": 2,
+      "project_manager": 1
+    }
+  },
+  "drug screen": {
+    "total_jobs": 134,
+    "top_roles": {
+      "other": 85,
+      "nurse": 38,
+      "customer_service": 6,
+      "project_manager": 2,
+      "operations": 1
+    }
+  },
+  "guaranteed hours": {
+    "total_jobs": 134,
+    "top_roles": {
+      "other": 79,
+      "nurse": 55
+    }
+  },
+  "collaboration skills": {
+    "total_jobs": 134,
+    "top_roles": {
+      "other": 95,
+      "nurse": 16,
+      "devops_engineer": 3,
+      "operations": 3,
+      "administrative": 3
+    }
+  },
+  "ability to work flexible hours": {
+    "total_jobs": 134,
+    "top_roles": {
+      "other": 95,
+      "customer_service": 34,
+      "nurse": 3,
+      "finance": 1,
+      "data_analyst": 1
+    }
+  },
+  "paid training": {
+    "total_jobs": 133,
+    "top_roles": {
+      "other": 80,
+      "nurse": 38,
+      "sales": 5,
+      "operations": 4,
+      "customer_service": 3
+    }
+  },
+  "ibm cash register functions": {
+    "total_jobs": 133,
+    "top_roles": {
+      "other": 133
+    }
+  },
+  "healthcare staffing": {
+    "total_jobs": 133,
+    "top_roles": {
+      "nurse": 94,
+      "other": 37,
+      "sales": 1,
+      "hr": 1
+    }
+  },
+  "microbiology": {
+    "total_jobs": 133,
+    "top_roles": {
+      "other": 112,
+      "nurse": 11,
+      "sales": 3,
+      "data_scientist": 3,
+      "qa_engineer": 2
+    }
+  },
+  "ai": {
+    "total_jobs": 133,
+    "top_roles": {
+      "other": 80,
+      "nurse": 28,
+      "software_engineer": 7,
+      "ml_engineer": 3,
+      "sales": 3
+    }
+  },
+  "resource allocation": {
+    "total_jobs": 133,
+    "top_roles": {
+      "other": 94,
+      "project_manager": 21,
+      "nurse": 10,
+      "devops_engineer": 2,
+      "finance": 2
+    }
+  },
+  "surgical procedures": {
+    "total_jobs": 133,
+    "top_roles": {
+      "other": 84,
+      "nurse": 48,
+      "sales": 1
+    }
+  },
+  "dea": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 101,
+      "nurse": 31
+    }
+  },
+  "teaching experience": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 119,
+      "nurse": 13
+    }
+  },
+  "typescript": {
+    "total_jobs": 132,
+    "top_roles": {
+      "software_engineer": 89,
+      "other": 38,
+      "devops_engineer": 2,
+      "qa_engineer": 2,
+      "data_engineer": 1
+    }
+  },
+  "dental coverage": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 103,
+      "nurse": 17,
+      "operations": 4,
+      "sales": 3,
+      "devops_engineer": 2
+    }
+  },
+  "medical license": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 99,
+      "nurse": 33
+    }
+  },
+  "cover letter": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 118,
+      "nurse": 12,
+      "project_manager": 1,
+      "sales": 1
+    }
+  },
+  "welding": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 129,
+      "operations": 3
+    }
+  },
+  "longterm disability": {
+    "total_jobs": 132,
+    "top_roles": {
+      "other": 101,
+      "nurse": 25,
+      "devops_engineer": 2,
+      "finance": 2,
+      "software_engineer": 1
+    }
+  },
+  "commitment": {
+    "total_jobs": 131,
+    "top_roles": {
+      "other": 98,
+      "nurse": 17,
+      "operations": 4,
+      "customer_service": 3,
+      "sales": 3
+    }
+  },
+  "telemetry": {
+    "total_jobs": 131,
+    "top_roles": {
+      "nurse": 123,
+      "other": 6,
+      "software_engineer": 1,
+      "data_analyst": 1
+    }
+  },
+  "intervention": {
+    "total_jobs": 131,
+    "top_roles": {
+      "nurse": 89,
+      "other": 42
+    }
+  },
+  "overtime": {
+    "total_jobs": 131,
+    "top_roles": {
+      "other": 96,
+      "nurse": 23,
+      "project_manager": 3,
+      "qa_engineer": 2,
+      "operations": 2
+    }
+  },
+  "adoption assistance": {
+    "total_jobs": 131,
+    "top_roles": {
+      "other": 114,
+      "nurse": 13,
+      "hr": 1,
+      "customer_service": 1,
+      "data_scientist": 1
+    }
+  },
+  "business management": {
+    "total_jobs": 131,
+    "top_roles": {
+      "other": 102,
+      "finance": 5,
+      "sales": 5,
+      "nurse": 5,
+      "operations": 5
+    }
+  },
+  "job search": {
+    "total_jobs": 131,
+    "top_roles": {
+      "other": 102,
+      "nurse": 29
+    }
+  },
+  "blueprint reading": {
+    "total_jobs": 131,
+    "top_roles": {
+      "other": 122,
+      "sales": 3,
+      "project_manager": 3,
+      "nurse": 2,
+      "operations": 1
+    }
+  },
+  "blueprints": {
+    "total_jobs": 130,
+    "top_roles": {
+      "other": 118,
+      "sales": 4,
+      "project_manager": 3,
+      "operations": 1,
+      "finance": 1
+    }
+  },
+  "registered nurse (rn) license": {
+    "total_jobs": 130,
+    "top_roles": {
+      "nurse": 124,
+      "other": 6
+    }
+  },
+  "biology": {
+    "total_jobs": 130,
+    "top_roles": {
+      "other": 115,
+      "nurse": 5,
+      "sales": 3,
+      "customer_service": 2,
+      "qa_engineer": 2
+    }
+  },
+  "lean": {
+    "total_jobs": 130,
+    "top_roles": {
+      "other": 96,
+      "project_manager": 11,
+      "operations": 7,
+      "nurse": 5,
+      "data_analyst": 4
+    }
+  },
+  "radiation safety": {
+    "total_jobs": 130,
+    "top_roles": {
+      "other": 111,
+      "nurse": 18,
+      "sales": 1
+    }
+  },
+  "annual leave": {
+    "total_jobs": 130,
+    "top_roles": {
+      "other": 99,
+      "nurse": 19,
+      "sales": 5,
+      "finance": 4,
+      "customer_service": 1
+    }
+  },
+  "active directory": {
+    "total_jobs": 130,
+    "top_roles": {
+      "other": 104,
+      "devops_engineer": 13,
+      "customer_service": 5,
+      "operations": 3,
+      "software_engineer": 2
+    }
+  },
+  "microsoft suite": {
+    "total_jobs": 129,
+    "top_roles": {
+      "other": 87,
+      "administrative": 10,
+      "sales": 9,
+      "nurse": 7,
+      "finance": 5
+    }
+  },
+  "matlab": {
+    "total_jobs": 129,
+    "top_roles": {
+      "other": 96,
+      "devops_engineer": 10,
+      "data_scientist": 10,
+      "qa_engineer": 5,
+      "software_engineer": 4
+    }
+  },
+  "radiologic technology": {
+    "total_jobs": 129,
+    "top_roles": {
+      "other": 121,
+      "nurse": 8
+    }
+  },
+  "mri": {
+    "total_jobs": 129,
+    "top_roles": {
+      "other": 112,
+      "nurse": 14,
+      "finance": 3
+    }
+  },
+  "professional profile": {
+    "total_jobs": 129,
+    "top_roles": {
+      "other": 101,
+      "nurse": 28
+    }
+  },
+  "401(k) savings plan": {
+    "total_jobs": 128,
+    "top_roles": {
+      "other": 74,
+      "nurse": 49,
+      "operations": 1,
+      "sales": 1,
+      "customer_service": 1
+    }
+  },
+  "real estate": {
+    "total_jobs": 128,
+    "top_roles": {
+      "other": 87,
+      "nurse": 15,
+      "sales": 8,
+      "finance": 7,
+      "project_manager": 6
+    }
+  },
+  "medicine": {
+    "total_jobs": 128,
+    "top_roles": {
+      "other": 100,
+      "nurse": 28
+    }
+  },
+  "resume": {
+    "total_jobs": 128,
+    "top_roles": {
+      "other": 99,
+      "nurse": 24,
+      "project_manager": 1,
+      "administrative": 1,
+      "finance": 1
+    }
+  },
+  "career advancement": {
+    "total_jobs": 128,
+    "top_roles": {
+      "other": 83,
+      "nurse": 24,
+      "sales": 9,
+      "customer_service": 4,
+      "qa_engineer": 3
+    }
+  },
+  "talent acquisition": {
+    "total_jobs": 127,
+    "top_roles": {
+      "other": 56,
+      "hr": 55,
+      "nurse": 7,
+      "sales": 6,
+      "project_manager": 2
+    }
+  },
+  "interdisciplinary collaboration": {
+    "total_jobs": 127,
+    "top_roles": {
+      "nurse": 96,
+      "other": 30,
+      "operations": 1
+    }
+  },
+  "squatting": {
+    "total_jobs": 127,
+    "top_roles": {
+      "other": 97,
+      "nurse": 23,
+      "customer_service": 5,
+      "operations": 2
+    }
+  },
+  "staff supervision": {
+    "total_jobs": 127,
+    "top_roles": {
+      "other": 94,
+      "nurse": 28,
+      "finance": 2,
+      "project_manager": 1,
+      "hr": 1
+    }
+  },
+  "observation": {
+    "total_jobs": 127,
+    "top_roles": {
+      "other": 80,
+      "nurse": 44,
+      "operations": 1,
+      "customer_service": 1,
+      "product_manager": 1
+    }
+  },
+  "xray": {
+    "total_jobs": 127,
+    "top_roles": {
+      "other": 117,
+      "nurse": 9,
+      "sales": 1
+    }
+  },
+  "ms project": {
+    "total_jobs": 126,
+    "top_roles": {
+      "other": 77,
+      "project_manager": 40,
+      "operations": 4,
+      "data_analyst": 2,
+      "nurse": 1
+    }
+  },
+  "clinical supervision": {
+    "total_jobs": 126,
+    "top_roles": {
+      "other": 94,
+      "nurse": 30,
+      "project_manager": 1,
+      "customer_service": 1
+    }
+  },
+  "community involvement": {
+    "total_jobs": 126,
+    "top_roles": {
+      "other": 106,
+      "nurse": 15,
+      "finance": 2,
+      "operations": 1,
+      "sales": 1
+    }
+  },
+  "multidisciplinary team": {
+    "total_jobs": 126,
+    "top_roles": {
+      "other": 64,
+      "nurse": 57,
+      "software_engineer": 2,
+      "project_manager": 1,
+      "devops_engineer": 1
+    }
+  },
+  "customer service experience": {
+    "total_jobs": 126,
+    "top_roles": {
+      "other": 93,
+      "customer_service": 27,
+      "nurse": 2,
+      "sales": 2,
+      "administrative": 1
+    }
+  },
+  "go": {
+    "total_jobs": 125,
+    "top_roles": {
+      "software_engineer": 57,
+      "other": 45,
+      "devops_engineer": 19,
+      "ml_engineer": 2,
+      "nurse": 1
+    }
+  },
+  "grant writing": {
+    "total_jobs": 125,
+    "top_roles": {
+      "other": 111,
+      "nurse": 5,
+      "project_manager": 3,
+      "administrative": 2,
+      "data_scientist": 2
+    }
+  },
+  "judgment": {
+    "total_jobs": 125,
+    "top_roles": {
+      "other": 77,
+      "nurse": 17,
+      "administrative": 7,
+      "project_manager": 6,
+      "hr": 5
+    }
+  },
+  "sick leave": {
+    "total_jobs": 125,
+    "top_roles": {
+      "other": 90,
+      "nurse": 22,
+      "sales": 4,
+      "operations": 2,
+      "project_manager": 2
+    }
+  },
+  "menu planning": {
+    "total_jobs": 125,
+    "top_roles": {
+      "other": 122,
+      "nurse": 2,
+      "sales": 1
+    }
+  },
+  "crouching": {
+    "total_jobs": 125,
+    "top_roles": {
+      "other": 109,
+      "nurse": 13,
+      "customer_service": 2,
+      "sales": 1
+    }
+  },
+  "affirmative action": {
+    "total_jobs": 125,
+    "top_roles": {
+      "other": 77,
+      "nurse": 27,
+      "hr": 8,
+      "project_manager": 6,
+      "devops_engineer": 2
+    }
+  },
+  "inspections": {
+    "total_jobs": 124,
+    "top_roles": {
+      "other": 111,
+      "project_manager": 3,
+      "qa_engineer": 2,
+      "sales": 2,
+      "administrative": 2
+    }
+  },
+  "pals certification": {
+    "total_jobs": 124,
+    "top_roles": {
+      "nurse": 110,
+      "other": 14
+    }
+  },
+  "mba": {
+    "total_jobs": 124,
+    "top_roles": {
+      "other": 67,
+      "finance": 27,
+      "sales": 8,
+      "project_manager": 6,
+      "data_analyst": 5
+    }
+  },
+  "close vision": {
+    "total_jobs": 124,
+    "top_roles": {
+      "other": 105,
+      "nurse": 5,
+      "customer_service": 5,
+      "operations": 4,
+      "qa_engineer": 2
+    }
+  },
+  "economics": {
+    "total_jobs": 124,
+    "top_roles": {
+      "other": 78,
+      "finance": 18,
+      "data_analyst": 9,
+      "nurse": 9,
+      "sales": 2
+    }
+  },
+  "nrp": {
+    "total_jobs": 123,
+    "top_roles": {
+      "nurse": 109,
+      "other": 13,
+      "hr": 1
+    }
+  },
+  "accident insurance": {
+    "total_jobs": 123,
+    "top_roles": {
+      "other": 106,
+      "nurse": 13,
+      "customer_service": 1,
+      "hr": 1,
+      "operations": 1
+    }
+  },
+  "ability to follow instructions": {
+    "total_jobs": 123,
+    "top_roles": {
+      "other": 112,
+      "nurse": 5,
+      "customer_service": 4,
+      "operations": 1,
+      "devops_engineer": 1
+    }
+  },
+  "unit testing": {
+    "total_jobs": 123,
+    "top_roles": {
+      "software_engineer": 53,
+      "other": 53,
+      "data_analyst": 5,
+      "qa_engineer": 4,
+      "data_engineer": 3
+    }
+  },
+  "reading comprehension": {
+    "total_jobs": 123,
+    "top_roles": {
+      "other": 103,
+      "nurse": 17,
+      "operations": 2,
+      "data_analyst": 1
+    }
+  },
+  "variance analysis": {
+    "total_jobs": 123,
+    "top_roles": {
+      "finance": 70,
+      "other": 47,
+      "data_analyst": 2,
+      "operations": 2,
+      "project_manager": 1
+    }
+  },
+  "building codes": {
+    "total_jobs": 123,
+    "top_roles": {
+      "other": 102,
+      "project_manager": 19,
+      "devops_engineer": 1,
+      "sales": 1
+    }
+  },
+  "ability to stand for long periods of time": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 109,
+      "nurse": 11,
+      "sales": 1,
+      "customer_service": 1
+    }
+  },
+  "obstetrics": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 77,
+      "nurse": 45
+    }
+  },
+  "continuous learning": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 83,
+      "nurse": 19,
+      "project_manager": 4,
+      "software_engineer": 3,
+      "finance": 3
+    }
+  },
+  "painting": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 120,
+      "project_manager": 1,
+      "nurse": 1
+    }
+  },
+  "clinical care": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 64,
+      "nurse": 58
+    }
+  },
+  "quickbooks": {
+    "total_jobs": 122,
+    "top_roles": {
+      "finance": 63,
+      "other": 40,
+      "administrative": 8,
+      "customer_service": 4,
+      "nurse": 3
+    }
+  },
+  "diplomacy": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 85,
+      "nurse": 9,
+      "administrative": 8,
+      "customer_service": 6,
+      "project_manager": 6
+    }
+  },
+  "sops": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 106,
+      "qa_engineer": 6,
+      "nurse": 5,
+      "operations": 2,
+      "finance": 2
+    }
+  },
+  "haccp": {
+    "total_jobs": 122,
+    "top_roles": {
+      "other": 96,
+      "qa_engineer": 17,
+      "nurse": 5,
+      "operations": 2,
+      "project_manager": 1
+    }
+  },
+  "hospital": {
+    "total_jobs": 121,
+    "top_roles": {
+      "nurse": 60,
+      "other": 59,
+      "sales": 1,
+      "project_manager": 1
+    }
+  },
+  "early childhood education": {
+    "total_jobs": 121,
+    "top_roles": {
+      "other": 113,
+      "nurse": 8
+    }
+  },
+  "disability": {
+    "total_jobs": 121,
+    "top_roles": {
+      "other": 88,
+      "nurse": 23,
+      "sales": 4,
+      "hr": 2,
+      "administrative": 1
+    }
+  },
+  "menu knowledge": {
+    "total_jobs": 120,
+    "top_roles": {
+      "other": 120
+    }
+  },
+  "imaging": {
+    "total_jobs": 120,
+    "top_roles": {
+      "other": 103,
+      "nurse": 16,
+      "devops_engineer": 1
+    }
+  },
+  "saas": {
+    "total_jobs": 120,
+    "top_roles": {
+      "other": 62,
+      "sales": 45,
+      "devops_engineer": 3,
+      "software_engineer": 3,
+      "project_manager": 2
+    }
+  },
+  "ability to multitask": {
+    "total_jobs": 120,
+    "top_roles": {
+      "other": 96,
+      "customer_service": 9,
+      "sales": 5,
+      "nurse": 4,
+      "finance": 2
+    }
+  },
+  "material handling": {
+    "total_jobs": 120,
+    "top_roles": {
+      "other": 88,
+      "operations": 24,
+      "nurse": 4,
+      "sales": 4
+    }
+  },
+  "identity theft protection": {
+    "total_jobs": 120,
+    "top_roles": {
+      "other": 110,
+      "nurse": 7,
+      "sales": 2,
+      "operations": 1
+    }
+  },
+  "allied health": {
+    "total_jobs": 119,
+    "top_roles": {
+      "other": 100,
+      "nurse": 19
+    }
+  },
+  "40 hours per week": {
+    "total_jobs": 119,
+    "top_roles": {
+      "other": 98,
+      "nurse": 21
+    }
+  },
+  "contract administration": {
+    "total_jobs": 119,
+    "top_roles": {
+      "other": 79,
+      "project_manager": 30,
+      "nurse": 3,
+      "operations": 2,
+      "finance": 2
+    }
+  },
+  "licensing": {
+    "total_jobs": 119,
+    "top_roles": {
+      "other": 88,
+      "nurse": 21,
+      "sales": 4,
+      "customer_service": 2,
+      "qa_engineer": 1
+    }
+  },
+  "microstation": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 99,
+      "project_manager": 17,
+      "devops_engineer": 1,
+      "nurse": 1
+    }
+  },
+  "dexterity": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 93,
+      "nurse": 18,
+      "customer_service": 4,
+      "project_manager": 2,
+      "hr": 1
+    }
+  },
+  "physics": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 90,
+      "data_scientist": 9,
+      "nurse": 5,
+      "qa_engineer": 5,
+      "project_manager": 3
+    }
+  },
+  "filing": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 75,
+      "administrative": 21,
+      "customer_service": 11,
+      "finance": 5,
+      "nurse": 4
+    }
+  },
+  "procore": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 77,
+      "project_manager": 38,
+      "finance": 2,
+      "nurse": 1
+    }
+  },
+  "microservices": {
+    "total_jobs": 118,
+    "top_roles": {
+      "software_engineer": 55,
+      "other": 51,
+      "devops_engineer": 4,
+      "data_engineer": 3,
+      "sales": 2
+    }
+  },
+  "surgical technologist": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 104,
+      "nurse": 14
+    }
+  },
+  "emotional intelligence": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 74,
+      "nurse": 22,
+      "sales": 9,
+      "project_manager": 4,
+      "administrative": 3
+    }
+  },
+  "performance reviews": {
+    "total_jobs": 118,
+    "top_roles": {
+      "other": 93,
+      "operations": 9,
+      "hr": 8,
+      "nurse": 2,
+      "administrative": 2
+    }
+  },
+  "jenkins": {
+    "total_jobs": 117,
+    "top_roles": {
+      "other": 55,
+      "software_engineer": 33,
+      "devops_engineer": 20,
+      "qa_engineer": 6,
+      "data_engineer": 2
+    }
+  },
+  "hardware": {
+    "total_jobs": 117,
+    "top_roles": {
+      "other": 91,
+      "nurse": 6,
+      "sales": 5,
+      "devops_engineer": 4,
+      "project_manager": 3
+    }
+  },
+  "equal opportunity": {
+    "total_jobs": 117,
+    "top_roles": {
+      "other": 81,
+      "nurse": 21,
+      "sales": 5,
+      "project_manager": 3,
+      "devops_engineer": 2
+    }
+  },
+  "hospice care": {
+    "total_jobs": 117,
+    "top_roles": {
+      "nurse": 59,
+      "other": 58
+    }
+  },
+  "journal entries": {
+    "total_jobs": 117,
+    "top_roles": {
+      "finance": 87,
+      "other": 27,
+      "administrative": 2,
+      "nurse": 1
+    }
+  },
+  "nursing experience": {
+    "total_jobs": 117,
+    "top_roles": {
+      "nurse": 113,
+      "other": 4
+    }
+  },
+  "discipline": {
+    "total_jobs": 117,
+    "top_roles": {
+      "other": 103,
+      "nurse": 6,
+      "operations": 4,
+      "finance": 1,
+      "qa_engineer": 1
+    }
+  },
+  "deposit control": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 116
+    }
+  },
+  "color vision": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 99,
+      "nurse": 15,
+      "operations": 2
+    }
+  },
+  "personnel management": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 88,
+      "nurse": 14,
+      "project_manager": 7,
+      "operations": 4,
+      "administrative": 2
+    }
+  },
+  "401k retirement savings plan": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 113,
+      "sales": 2,
+      "project_manager": 1
+    }
+  },
+  "editing": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 94,
+      "administrative": 8,
+      "marketing": 5,
+      "nurse": 3,
+      "sales": 3
+    }
+  },
+  "triage": {
+    "total_jobs": 116,
+    "top_roles": {
+      "nurse": 81,
+      "other": 31,
+      "customer_service": 1,
+      "qa_engineer": 1,
+      "administrative": 1
+    }
+  },
+  "food production": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 113,
+      "nurse": 3
+    }
+  },
+  "subcontractor management": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 89,
+      "project_manager": 24,
+      "operations": 2,
+      "administrative": 1
+    }
+  },
+  "data modeling": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 68,
+      "data_engineer": 18,
+      "data_analyst": 12,
+      "operations": 6,
+      "software_engineer": 4
+    }
+  },
+  "scripting": {
+    "total_jobs": 116,
+    "top_roles": {
+      "other": 99,
+      "devops_engineer": 9,
+      "software_engineer": 2,
+      "qa_engineer": 2,
+      "product_manager": 1
+    }
+  },
+  "general ledger": {
+    "total_jobs": 115,
+    "top_roles": {
+      "finance": 79,
+      "other": 33,
+      "data_analyst": 2,
+      "sales": 1
+    }
+  },
+  "background investigation": {
+    "total_jobs": 115,
+    "top_roles": {
+      "other": 95,
+      "nurse": 15,
+      "project_manager": 2,
+      "customer_service": 2,
+      "qa_engineer": 1
+    }
+  },
+  "internal controls": {
+    "total_jobs": 115,
+    "top_roles": {
+      "other": 63,
+      "finance": 44,
+      "nurse": 5,
+      "qa_engineer": 1,
+      "administrative": 1
+    }
+  },
+  "project execution": {
+    "total_jobs": 115,
+    "top_roles": {
+      "other": 72,
+      "project_manager": 34,
+      "data_analyst": 3,
+      "sales": 2,
+      "operations": 2
+    }
+  },
+  "gis": {
+    "total_jobs": 115,
+    "top_roles": {
+      "other": 98,
+      "project_manager": 13,
+      "nurse": 3,
+      "operations": 1
+    }
+  },
+  "planograms": {
+    "total_jobs": 114,
+    "top_roles": {
+      "other": 113,
+      "product_manager": 1
+    }
+  },
+  "talent management": {
+    "total_jobs": 114,
+    "top_roles": {
+      "other": 58,
+      "hr": 43,
+      "nurse": 4,
+      "operations": 4,
+      "sales": 2
+    }
+  },
+  "accounting principles": {
+    "total_jobs": 114,
+    "top_roles": {
+      "other": 58,
+      "finance": 50,
+      "data_analyst": 3,
+      "nurse": 3
+    }
+  },
+  "telemedicine": {
+    "total_jobs": 114,
+    "top_roles": {
+      "other": 78,
+      "nurse": 34,
+      "operations": 1,
+      "software_engineer": 1
+    }
+  },
+  "medical care": {
+    "total_jobs": 114,
+    "top_roles": {
+      "nurse": 68,
+      "other": 46
+    }
+  },
+  "referrals": {
+    "total_jobs": 114,
+    "top_roles": {
+      "other": 73,
+      "nurse": 36,
+      "sales": 3,
+      "customer_service": 1,
+      "project_manager": 1
+    }
+  },
+  "emotional support": {
+    "total_jobs": 114,
+    "top_roles": {
+      "other": 69,
+      "nurse": 45
+    }
+  },
+  "inventory": {
+    "total_jobs": 113,
+    "top_roles": {
+      "other": 96,
+      "finance": 6,
+      "operations": 4,
+      "nurse": 4,
+      "sales": 1
+    }
+  },
+  "learning": {
+    "total_jobs": 113,
+    "top_roles": {
+      "other": 74,
+      "nurse": 14,
+      "software_engineer": 7,
+      "sales": 5,
+      "customer_service": 4
+    }
+  },
+  "anesthesia": {
+    "total_jobs": 113,
+    "top_roles": {
+      "nurse": 62,
+      "other": 50,
+      "sales": 1
+    }
+  },
+  "license and certification reimbursement": {
+    "total_jobs": 112,
+    "top_roles": {
+      "other": 59,
+      "nurse": 53
+    }
+  },
+  "integration": {
+    "total_jobs": 112,
+    "top_roles": {
+      "other": 76,
+      "devops_engineer": 13,
+      "project_manager": 6,
+      "data_analyst": 6,
+      "software_engineer": 5
+    }
+  },
+  "strong organizational skills": {
+    "total_jobs": 112,
+    "top_roles": {
+      "other": 71,
+      "customer_service": 13,
+      "nurse": 8,
+      "administrative": 7,
+      "finance": 4
+    }
+  },
+  "reasonable accommodation": {
+    "total_jobs": 112,
+    "top_roles": {
+      "other": 65,
+      "nurse": 32,
+      "sales": 4,
+      "software_engineer": 3,
+      "administrative": 2
+    }
+  },
+  "gcp": {
+    "total_jobs": 112,
+    "top_roles": {
+      "other": 57,
+      "software_engineer": 32,
+      "devops_engineer": 6,
+      "nurse": 4,
+      "ml_engineer": 3
+    }
+  },
+  "french": {
+    "total_jobs": 112,
+    "top_roles": {
+      "other": 91,
+      "nurse": 6,
+      "sales": 3,
+      "data_analyst": 3,
+      "project_manager": 2
+    }
+  },
+  "health education": {
+    "total_jobs": 111,
+    "top_roles": {
+      "nurse": 85,
+      "other": 26
+    }
+  },
+  "computers": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 89,
+      "nurse": 13,
+      "customer_service": 3,
+      "sales": 3,
+      "administrative": 1
+    }
+  },
+  "sales techniques": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 91,
+      "sales": 19,
+      "hr": 1
+    }
+  },
+  "energy": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 91,
+      "sales": 9,
+      "operations": 4,
+      "marketing": 2,
+      "project_manager": 2
+    }
+  },
+  "ci/cd": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 54,
+      "software_engineer": 34,
+      "devops_engineer": 14,
+      "data_engineer": 5,
+      "qa_engineer": 3
+    }
+  },
+  "retirement plans": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 95,
+      "nurse": 12,
+      "sales": 2,
+      "finance": 2
+    }
+  },
+  "supply chain": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 73,
+      "operations": 21,
+      "data_analyst": 4,
+      "project_manager": 4,
+      "sales": 3
+    }
+  },
+  "cost analysis": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 81,
+      "finance": 20,
+      "operations": 4,
+      "project_manager": 4,
+      "data_analyst": 1
+    }
+  },
+  "contracts": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 76,
+      "project_manager": 13,
+      "nurse": 12,
+      "sales": 5,
+      "data_analyst": 1
+    }
+  },
+  "administrative tasks": {
+    "total_jobs": 111,
+    "top_roles": {
+      "other": 94,
+      "administrative": 5,
+      "nurse": 4,
+      "sales": 4,
+      "operations": 2
+    }
+  },
+  "safety training": {
+    "total_jobs": 110,
+    "top_roles": {
+      "other": 98,
+      "nurse": 6,
+      "operations": 2,
+      "project_manager": 2,
+      "sales": 1
+    }
+  },
+  "customer relationship management (crm)": {
+    "total_jobs": 110,
+    "top_roles": {
+      "other": 56,
+      "sales": 38,
+      "customer_service": 5,
+      "nurse": 4,
+      "administrative": 3
+    }
+  },
+  "listening skills": {
+    "total_jobs": 110,
+    "top_roles": {
+      "other": 80,
+      "sales": 14,
+      "nurse": 6,
+      "customer_service": 5,
+      "finance": 1
+    }
+  },
+  "employee benefits": {
+    "total_jobs": 110,
+    "top_roles": {
+      "other": 69,
+      "nurse": 11,
+      "sales": 9,
+      "hr": 9,
+      "customer_service": 4
+    }
+  },
+  "due diligence": {
+    "total_jobs": 110,
+    "top_roles": {
+      "other": 78,
+      "nurse": 19,
+      "project_manager": 5,
+      "finance": 4,
+      "sales": 3
+    }
+  },
+  "debugging": {
+    "total_jobs": 110,
+    "top_roles": {
+      "other": 71,
+      "software_engineer": 19,
+      "data_scientist": 8,
+      "qa_engineer": 6,
+      "devops_engineer": 5
+    }
+  },
+  "shipping": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 49,
+      "operations": 47,
+      "nurse": 8,
+      "customer_service": 2,
+      "data_scientist": 1
+    }
+  },
+  "medicare": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 59,
+      "nurse": 46,
+      "data_analyst": 1,
+      "hr": 1,
+      "sales": 1
+    }
+  },
+  "talent development": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 88,
+      "hr": 9,
+      "operations": 5,
+      "customer_service": 4,
+      "qa_engineer": 2
+    }
+  },
+  "powershell": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 83,
+      "devops_engineer": 18,
+      "software_engineer": 6,
+      "data_engineer": 1,
+      "data_analyst": 1
+    }
+  },
+  "drafting": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 69,
+      "nurse": 28,
+      "administrative": 6,
+      "project_manager": 5,
+      "finance": 1
+    }
+  },
+  "power tools": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 104,
+      "nurse": 5
+    }
+  },
+  "employee development": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 90,
+      "hr": 5,
+      "nurse": 4,
+      "operations": 3,
+      "sales": 3
+    }
+  },
+  "manufacturing experience": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 85,
+      "finance": 10,
+      "qa_engineer": 3,
+      "hr": 3,
+      "software_engineer": 2
+    }
+  },
+  "ability to work in a team environment": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 94,
+      "nurse": 8,
+      "sales": 3,
+      "customer_service": 2,
+      "project_manager": 1
+    }
+  },
+  "sql server": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 63,
+      "software_engineer": 27,
+      "data_engineer": 9,
+      "data_analyst": 3,
+      "nurse": 1
+    }
+  },
+  "ordering": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 102,
+      "sales": 2,
+      "customer_service": 2,
+      "nurse": 2,
+      "data_scientist": 1
+    }
+  },
+  "basic math": {
+    "total_jobs": 109,
+    "top_roles": {
+      "other": 96,
+      "nurse": 4,
+      "operations": 4,
+      "customer_service": 3,
+      "qa_engineer": 1
+    }
+  },
+  "optimization": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 69,
+      "data_scientist": 10,
+      "software_engineer": 8,
+      "marketing": 6,
+      "devops_engineer": 4
+    }
+  },
+  "emergency care": {
+    "total_jobs": 108,
+    "top_roles": {
+      "nurse": 63,
+      "other": 45
+    }
+  },
+  "content creation": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 54,
+      "marketing": 39,
+      "nurse": 8,
+      "sales": 4,
+      "operations": 1
+    }
+  },
+  "passion": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 89,
+      "nurse": 8,
+      "sales": 3,
+      "hr": 2,
+      "customer_service": 2
+    }
+  },
+  "ppe": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 87,
+      "nurse": 15,
+      "operations": 4,
+      "customer_service": 1,
+      "sales": 1
+    }
+  },
+  "h&r block income tax course": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 108
+    }
+  },
+  "computer": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 85,
+      "nurse": 10,
+      "customer_service": 6,
+      "operations": 2,
+      "sales": 2
+    }
+  },
+  "gmp": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 85,
+      "qa_engineer": 13,
+      "operations": 3,
+      "project_manager": 3,
+      "sales": 2
+    }
+  },
+  "fundraising": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 103,
+      "nurse": 2,
+      "marketing": 1,
+      "customer_service": 1,
+      "administrative": 1
+    }
+  },
+  "merchandise handling": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 92,
+      "customer_service": 14,
+      "operations": 2
+    }
+  },
+  "angular": {
+    "total_jobs": 108,
+    "top_roles": {
+      "software_engineer": 68,
+      "other": 35,
+      "qa_engineer": 2,
+      "devops_engineer": 1,
+      "project_manager": 1
+    }
+  },
+  "clinical documentation": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 56,
+      "nurse": 51,
+      "sales": 1
+    }
+  },
+  "social media marketing": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 61,
+      "marketing": 32,
+      "sales": 10,
+      "hr": 2,
+      "nurse": 2
+    }
+  },
+  "technical documentation": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 96,
+      "software_engineer": 4,
+      "devops_engineer": 4,
+      "project_manager": 1,
+      "product_manager": 1
+    }
+  },
+  "regular attendance": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 94,
+      "nurse": 3,
+      "devops_engineer": 3,
+      "finance": 2,
+      "project_manager": 2
+    }
+  },
+  "technical expertise": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 84,
+      "sales": 8,
+      "software_engineer": 5,
+      "project_manager": 4,
+      "nurse": 3
+    }
+  },
+  "leasing": {
+    "total_jobs": 108,
+    "top_roles": {
+      "other": 102,
+      "sales": 2,
+      "nurse": 2,
+      "marketing": 1,
+      "operations": 1
+    }
+  },
+  "pto program": {
+    "total_jobs": 107,
+    "top_roles": {
+      "nurse": 106,
+      "other": 1
+    }
+  },
+  "extra shift bonuses": {
+    "total_jobs": 107,
+    "top_roles": {
+      "nurse": 107
+    }
+  },
+  "public health": {
+    "total_jobs": 107,
+    "top_roles": {
+      "other": 71,
+      "nurse": 31,
+      "project_manager": 3,
+      "sales": 1,
+      "data_analyst": 1
+    }
+  },
+  "selfmotivated": {
+    "total_jobs": 107,
+    "top_roles": {
+      "other": 69,
+      "sales": 16,
+      "nurse": 6,
+      "customer_service": 4,
+      "finance": 4
+    }
+  },
+  "growth opportunities": {
+    "total_jobs": 107,
+    "top_roles": {
+      "other": 81,
+      "nurse": 13,
+      "sales": 5,
+      "project_manager": 2,
+      "customer_service": 1
+    }
+  },
+  "it": {
+    "total_jobs": 106,
+    "top_roles": {
+      "other": 64,
+      "sales": 12,
+      "data_analyst": 7,
+      "project_manager": 5,
+      "nurse": 4
+    }
+  },
+  "commissioning": {
+    "total_jobs": 106,
+    "top_roles": {
+      "other": 95,
+      "project_manager": 9,
+      "qa_engineer": 1,
+      "sales": 1
+    }
+  },
+  "geriatrics": {
+    "total_jobs": 106,
+    "top_roles": {
+      "nurse": 61,
+      "other": 45
+    }
+  },
+  "excellence": {
+    "total_jobs": 106,
+    "top_roles": {
+      "other": 61,
+      "nurse": 44,
+      "operations": 1
+    }
+  },
+  "adobe creative suite": {
+    "total_jobs": 106,
+    "top_roles": {
+      "other": 87,
+      "marketing": 7,
+      "ui_ux_designer": 3,
+      "nurse": 2,
+      "project_manager": 2
+    }
+  },
+  "nosql": {
+    "total_jobs": 106,
+    "top_roles": {
+      "other": 54,
+      "software_engineer": 34,
+      "data_engineer": 11,
+      "data_analyst": 2,
+      "devops_engineer": 2
+    }
+  },
+  "flexible spending account": {
+    "total_jobs": 106,
+    "top_roles": {
+      "other": 75,
+      "nurse": 18,
+      "sales": 7,
+      "hr": 2,
+      "administrative": 1
+    }
+  },
+  "dialysis": {
+    "total_jobs": 105,
+    "top_roles": {
+      "nurse": 101,
+      "other": 4
+    }
+  },
+  "assessments": {
+    "total_jobs": 105,
+    "top_roles": {
+      "other": 58,
+      "nurse": 43,
+      "project_manager": 2,
+      "finance": 1,
+      "data_analyst": 1
+    }
+  },
+  "production planning": {
+    "total_jobs": 105,
+    "top_roles": {
+      "other": 92,
+      "operations": 11,
+      "project_manager": 2
+    }
+  },
+  "arrt certification": {
+    "total_jobs": 105,
+    "top_roles": {
+      "other": 96,
+      "nurse": 8,
+      "project_manager": 1
+    }
+  },
+  "cost accounting": {
+    "total_jobs": 105,
+    "top_roles": {
+      "finance": 70,
+      "other": 33,
+      "project_manager": 1,
+      "hr": 1
+    }
+  },
+  "office management": {
+    "total_jobs": 105,
+    "top_roles": {
+      "administrative": 58,
+      "other": 34,
+      "hr": 4,
+      "customer_service": 3,
+      "nurse": 2
+    }
+  },
+  "incident reporting": {
+    "total_jobs": 105,
+    "top_roles": {
+      "other": 84,
+      "nurse": 19,
+      "operations": 2
+    }
+  },
+  "community outreach": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 82,
+      "nurse": 11,
+      "hr": 3,
+      "administrative": 2,
+      "operations": 2
+    }
+  },
+  "malpractice coverage": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 68,
+      "nurse": 36
+    }
+  },
+  "sick pay": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 67,
+      "nurse": 35,
+      "administrative": 1,
+      "sales": 1
+    }
+  },
+  "listening": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 84,
+      "customer_service": 7,
+      "nurse": 4,
+      "sales": 4,
+      "hr": 2
+    }
+  },
+  "asset management": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 83,
+      "project_manager": 8,
+      "finance": 6,
+      "ui_ux_designer": 1,
+      "data_analyst": 1
+    }
+  },
+  "persuasion": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 59,
+      "sales": 23,
+      "nurse": 9,
+      "hr": 6,
+      "project_manager": 3
+    }
+  },
+  "crossselling": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 61,
+      "sales": 29,
+      "customer_service": 7,
+      "nurse": 4,
+      "project_manager": 2
+    }
+  },
+  "lifting heavy objects": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 93,
+      "customer_service": 5,
+      "nurse": 3,
+      "operations": 3
+    }
+  },
+  "volunteerism": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 95,
+      "nurse": 5,
+      "marketing": 2,
+      "sales": 1,
+      "administrative": 1
+    }
+  },
+  "lcsw": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 100,
+      "nurse": 4
+    }
+  },
+  "discounts": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 90,
+      "nurse": 5,
+      "sales": 4,
+      "customer_service": 1,
+      "finance": 1
+    }
+  },
+  "network security": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 93,
+      "nurse": 3,
+      "sales": 2,
+      "devops_engineer": 2,
+      "operations": 2
+    }
+  },
+  "information systems": {
+    "total_jobs": 104,
+    "top_roles": {
+      "other": 74,
+      "nurse": 6,
+      "project_manager": 4,
+      "data_analyst": 4,
+      "qa_engineer": 4
+    }
+  },
+  "ability to work as part of a team": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 83,
+      "customer_service": 6,
+      "nurse": 6,
+      "sales": 4,
+      "hr": 2
+    }
+  },
+  "event management": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 83,
+      "sales": 11,
+      "nurse": 4,
+      "administrative": 2,
+      "marketing": 2
+    }
+  },
+  "mechanical": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 88,
+      "project_manager": 6,
+      "devops_engineer": 3,
+      "sales": 2,
+      "nurse": 2
+    }
+  },
+  "assembly": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 92,
+      "operations": 4,
+      "nurse": 2,
+      "qa_engineer": 2,
+      "devops_engineer": 1
+    }
+  },
+  "diagnostics": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 89,
+      "nurse": 12,
+      "sales": 1,
+      "software_engineer": 1
+    }
+  },
+  "data security": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 75,
+      "nurse": 11,
+      "data_engineer": 3,
+      "software_engineer": 3,
+      "project_manager": 2
+    }
+  },
+  "ability to work in a team": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 89,
+      "project_manager": 3,
+      "nurse": 3,
+      "customer_service": 3,
+      "administrative": 2
+    }
+  },
+  "project management software": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 63,
+      "project_manager": 29,
+      "sales": 5,
+      "finance": 2,
+      "nurse": 2
+    }
+  },
+  "tax compliance": {
+    "total_jobs": 103,
+    "top_roles": {
+      "other": 78,
+      "finance": 20,
+      "nurse": 3,
+      "customer_service": 2
+    }
+  },
+  "pmp certification": {
+    "total_jobs": 103,
+    "top_roles": {
+      "project_manager": 56,
+      "other": 42,
+      "data_analyst": 2,
+      "finance": 1,
+      "nurse": 1
+    }
+  },
+  "schematics": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 99,
+      "customer_service": 2,
+      "software_engineer": 1
+    }
+  },
+  "retention": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 72,
+      "nurse": 11,
+      "hr": 9,
+      "sales": 4,
+      "administrative": 2
+    }
+  },
+  "drugfree workplace": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 66,
+      "nurse": 32,
+      "project_manager": 2,
+      "customer_service": 2
+    }
+  },
+  "caseload management": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 76,
+      "nurse": 26
+    }
+  },
+  "consultative selling": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 59,
+      "sales": 43
+    }
+  },
+  "nutrition": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 84,
+      "nurse": 17,
+      "project_manager": 1
+    }
+  },
+  "career growth": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 78,
+      "nurse": 10,
+      "project_manager": 5,
+      "sales": 3,
+      "operations": 1
+    }
+  },
+  "sales forecasting": {
+    "total_jobs": 102,
+    "top_roles": {
+      "sales": 59,
+      "other": 39,
+      "project_manager": 1,
+      "marketing": 1,
+      "customer_service": 1
+    }
+  },
+  "clinical": {
+    "total_jobs": 102,
+    "top_roles": {
+      "nurse": 60,
+      "other": 40,
+      "sales": 2
+    }
+  },
+  "liaison": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 74,
+      "nurse": 16,
+      "project_manager": 3,
+      "administrative": 3,
+      "data_analyst": 2
+    }
+  },
+  "associates degree": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 73,
+      "nurse": 19,
+      "administrative": 3,
+      "customer_service": 2,
+      "operations": 2
+    }
+  },
+  "underwriting": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 73,
+      "sales": 19,
+      "customer_service": 4,
+      "nurse": 3,
+      "data_analyst": 1
+    }
+  },
+  "oral and written communication": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 81,
+      "nurse": 10,
+      "project_manager": 5,
+      "sales": 3,
+      "operations": 2
+    }
+  },
+  "noise": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 88,
+      "nurse": 8,
+      "qa_engineer": 2,
+      "operations": 1,
+      "finance": 1
+    }
+  },
+  "tools": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 81,
+      "nurse": 7,
+      "sales": 3,
+      "data_analyst": 3,
+      "devops_engineer": 2
+    }
+  },
+  "corrective action": {
+    "total_jobs": 102,
+    "top_roles": {
+      "other": 83,
+      "qa_engineer": 8,
+      "nurse": 4,
+      "customer_service": 3,
+      "finance": 1
+    }
+  },
+  "cost reduction": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 79,
+      "operations": 8,
+      "project_manager": 4,
+      "finance": 4,
+      "sales": 3
+    }
+  },
+  "clinical judgment": {
+    "total_jobs": 101,
+    "top_roles": {
+      "nurse": 85,
+      "other": 16
+    }
+  },
+  "clinical practice": {
+    "total_jobs": 101,
+    "top_roles": {
+      "nurse": 55,
+      "other": 46
+    }
+  },
+  "bank deposits": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 93,
+      "customer_service": 2,
+      "operations": 2,
+      "finance": 2,
+      "sales": 1
+    }
+  },
+  "fabrication": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 94,
+      "project_manager": 2,
+      "sales": 2,
+      "qa_engineer": 1,
+      "nurse": 1
+    }
+  },
+  "ansible": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 66,
+      "devops_engineer": 25,
+      "software_engineer": 9,
+      "nurse": 1
+    }
+  },
+  ".net": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 53,
+      "software_engineer": 39,
+      "data_analyst": 4,
+      "devops_engineer": 3,
+      "project_manager": 1
+    }
+  },
+  "medical dental and vision insurance": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 69,
+      "nurse": 22,
+      "sales": 3,
+      "customer_service": 2,
+      "hr": 1
+    }
+  },
+  "safety awareness": {
+    "total_jobs": 101,
+    "top_roles": {
+      "other": 86,
+      "nurse": 9,
+      "operations": 2,
+      "customer_service": 2,
+      "finance": 1
+    }
+  },
+  "care management": {
+    "total_jobs": 101,
+    "top_roles": {
+      "nurse": 75,
+      "other": 26
+    }
+  }
+}

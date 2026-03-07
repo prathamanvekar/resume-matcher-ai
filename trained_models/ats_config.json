@@ -1,0 +1,23 @@
+{
+  "feature_columns": [
+    "length_score",
+    "skill_score",
+    "section_score",
+    "contact_score",
+    "density_score",
+    "action_score"
+  ],
+  "weights": {
+    "length_score": 0.1,
+    "skill_score": 0.3,
+    "section_score": 0.2,
+    "contact_score": 0.1,
+    "density_score": 0.15,
+    "action_score": 0.15
+  },
+  "pass_threshold": 60,
+  "score_range": {
+    "min": 0,
+    "max": 100
+  }
+}

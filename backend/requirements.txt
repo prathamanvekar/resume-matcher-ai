@@ -1,0 +1,42 @@
+# backend/requirements.txt
+
+# FastAPI & Server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+aiosqlite
+
+# Authentication
+python-jose[cryptography]
+passlib[bcrypt]==1.7.4
+bcrypt==3.2.2
+
+# ML & Data Processing
+numpy
+pandas
+scikit-learn
+sentence-transformers
+faiss-cpu
+xgboost
+
+# NLP
+spacy
+
+# LLM & Agents
+langchain
+langchain-groq
+groq
+
+# Document Processing
+python-docx
+PyPDF2
+pdfplumber
+
+# Utilities
+python-dotenv
+pydantic
+pydantic-settings
+pydantic[email]

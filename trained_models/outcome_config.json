@@ -1,0 +1,38 @@
+{
+  "feature_columns": [
+    "skill_count",
+    "role_encoded",
+    "seniority_num",
+    "is_remote",
+    "is_tech_hub"
+  ],
+  "threshold": 0.55,
+  "role_encoder_classes": [
+    "administrative",
+    "customer_service",
+    "data_analyst",
+    "data_engineer",
+    "data_scientist",
+    "devops_engineer",
+    "finance",
+    "hr",
+    "marketing",
+    "ml_engineer",
+    "nurse",
+    "operations",
+    "other",
+    "product_manager",
+    "project_manager",
+    "qa_engineer",
+    "sales",
+    "software_engineer",
+    "ui_ux_designer"
+  ],
+  "seniority_map": {
+    "intern": 0,
+    "entry": 1,
+    "mid": 2,
+    "senior": 3,
+    "executive": 4
+  }
+}

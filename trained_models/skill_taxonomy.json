@@ -1,0 +1,4271 @@
+{
+  "sales": {
+    "frequency": 1311,
+    "categories": [
+      "SALES",
+      "BUSINESS-DEVELOPMENT",
+      "APPAREL",
+      "BANKING",
+      "FITNESS",
+      "FINANCE",
+      "ACCOUNTANT",
+      "DIGITAL-MEDIA",
+      "CHEF",
+      "CONSULTANT",
+      "PUBLIC-RELATIONS",
+      "ADVOCATE",
+      "DESIGNER",
+      "HEALTHCARE",
+      "ARTS",
+      "HR",
+      "AVIATION",
+      "CONSTRUCTION",
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "TEACHER",
+      "AUTOMOBILE",
+      "AGRICULTURE",
+      "BPO"
+    ],
+    "category_counts": {
+      "SALES": 116,
+      "BUSINESS-DEVELOPMENT": 111,
+      "APPAREL": 85,
+      "BANKING": 85,
+      "FITNESS": 78,
+      "FINANCE": 74,
+      "ACCOUNTANT": 66,
+      "DIGITAL-MEDIA": 63,
+      "CHEF": 63,
+      "CONSULTANT": 62,
+      "PUBLIC-RELATIONS": 60,
+      "ADVOCATE": 57,
+      "DESIGNER": 52,
+      "HEALTHCARE": 51,
+      "ARTS": 50,
+      "HR": 43,
+      "AVIATION": 34,
+      "CONSTRUCTION": 32,
+      "INFORMATION-TECHNOLOGY": 27,
+      "ENGINEERING": 26,
+      "TEACHER": 24,
+      "AUTOMOBILE": 21,
+      "AGRICULTURE": 17,
+      "BPO": 14
+    }
+  },
+  "communication": {
+    "frequency": 1297,
+    "categories": [
+      "PUBLIC-RELATIONS",
+      "SALES",
+      "ADVOCATE",
+      "HEALTHCARE",
+      "FITNESS",
+      "CONSTRUCTION",
+      "HR",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "BANKING",
+      "BUSINESS-DEVELOPMENT",
+      "ENGINEERING",
+      "APPAREL",
+      "CONSULTANT",
+      "AVIATION",
+      "FINANCE",
+      "ARTS",
+      "ACCOUNTANT",
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "CHEF",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "BPO"
+    ],
+    "category_counts": {
+      "PUBLIC-RELATIONS": 82,
+      "SALES": 75,
+      "ADVOCATE": 70,
+      "HEALTHCARE": 68,
+      "FITNESS": 65,
+      "CONSTRUCTION": 65,
+      "HR": 65,
+      "INFORMATION-TECHNOLOGY": 65,
+      "TEACHER": 61,
+      "BANKING": 58,
+      "BUSINESS-DEVELOPMENT": 56,
+      "ENGINEERING": 55,
+      "APPAREL": 53,
+      "CONSULTANT": 53,
+      "AVIATION": 52,
+      "FINANCE": 52,
+      "ARTS": 51,
+      "ACCOUNTANT": 51,
+      "DIGITAL-MEDIA": 50,
+      "DESIGNER": 45,
+      "CHEF": 43,
+      "AGRICULTURE": 36,
+      "AUTOMOBILE": 18,
+      "BPO": 8
+    }
+  },
+  "leadership": {
+    "frequency": 1026,
+    "categories": [
+      "BUSINESS-DEVELOPMENT",
+      "HEALTHCARE",
+      "BANKING",
+      "PUBLIC-RELATIONS",
+      "FITNESS",
+      "HR",
+      "INFORMATION-TECHNOLOGY",
+      "FINANCE",
+      "ADVOCATE",
+      "AVIATION",
+      "CHEF",
+      "ENGINEERING",
+      "CONSULTANT",
+      "CONSTRUCTION",
+      "ARTS",
+      "SALES",
+      "TEACHER",
+      "DIGITAL-MEDIA",
+      "APPAREL",
+      "DESIGNER",
+      "AGRICULTURE",
+      "ACCOUNTANT",
+      "AUTOMOBILE",
+      "BPO"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 66,
+      "HEALTHCARE": 57,
+      "BANKING": 57,
+      "PUBLIC-RELATIONS": 57,
+      "FITNESS": 56,
+      "HR": 53,
+      "INFORMATION-TECHNOLOGY": 53,
+      "FINANCE": 51,
+      "ADVOCATE": 48,
+      "AVIATION": 48,
+      "CHEF": 46,
+      "ENGINEERING": 44,
+      "CONSULTANT": 44,
+      "CONSTRUCTION": 44,
+      "ARTS": 43,
+      "SALES": 41,
+      "TEACHER": 39,
+      "DIGITAL-MEDIA": 35,
+      "APPAREL": 34,
+      "DESIGNER": 31,
+      "AGRICULTURE": 31,
+      "ACCOUNTANT": 24,
+      "AUTOMOBILE": 12,
+      "BPO": 12
+    }
+  },
+  "customer service": {
+    "frequency": 974,
+    "categories": [
+      "SALES",
+      "ADVOCATE",
+      "FITNESS",
+      "APPAREL",
+      "HEALTHCARE",
+      "CHEF",
+      "BANKING",
+      "BUSINESS-DEVELOPMENT",
+      "ARTS",
+      "HR",
+      "AVIATION",
+      "PUBLIC-RELATIONS",
+      "DESIGNER",
+      "FINANCE",
+      "CONSULTANT",
+      "CONSTRUCTION",
+      "INFORMATION-TECHNOLOGY",
+      "ACCOUNTANT",
+      "TEACHER",
+      "DIGITAL-MEDIA",
+      "AUTOMOBILE",
+      "ENGINEERING",
+      "AGRICULTURE",
+      "BPO"
+    ],
+    "category_counts": {
+      "SALES": 87,
+      "ADVOCATE": 67,
+      "FITNESS": 65,
+      "APPAREL": 56,
+      "HEALTHCARE": 54,
+      "CHEF": 54,
+      "BANKING": 53,
+      "BUSINESS-DEVELOPMENT": 49,
+      "ARTS": 47,
+      "HR": 46,
+      "AVIATION": 45,
+      "PUBLIC-RELATIONS": 39,
+      "DESIGNER": 34,
+      "FINANCE": 34,
+      "CONSULTANT": 33,
+      "CONSTRUCTION": 32,
+      "INFORMATION-TECHNOLOGY": 30,
+      "ACCOUNTANT": 29,
+      "TEACHER": 26,
+      "DIGITAL-MEDIA": 24,
+      "AUTOMOBILE": 22,
+      "ENGINEERING": 22,
+      "AGRICULTURE": 16,
+      "BPO": 10
+    }
+  },
+  "excel": {
+    "frequency": 960,
+    "categories": [
+      "ACCOUNTANT",
+      "HR",
+      "FINANCE",
+      "BANKING",
+      "ADVOCATE",
+      "AVIATION",
+      "CONSULTANT",
+      "PUBLIC-RELATIONS",
+      "CONSTRUCTION",
+      "HEALTHCARE",
+      "APPAREL",
+      "ENGINEERING",
+      "DESIGNER",
+      "CHEF",
+      "SALES",
+      "BUSINESS-DEVELOPMENT",
+      "FITNESS",
+      "DIGITAL-MEDIA",
+      "INFORMATION-TECHNOLOGY",
+      "ARTS",
+      "TEACHER",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "BPO"
+    ],
+    "category_counts": {
+      "ACCOUNTANT": 84,
+      "HR": 64,
+      "FINANCE": 62,
+      "BANKING": 57,
+      "ADVOCATE": 53,
+      "AVIATION": 47,
+      "CONSULTANT": 44,
+      "PUBLIC-RELATIONS": 44,
+      "CONSTRUCTION": 43,
+      "HEALTHCARE": 42,
+      "APPAREL": 42,
+      "ENGINEERING": 39,
+      "DESIGNER": 37,
+      "CHEF": 35,
+      "SALES": 35,
+      "BUSINESS-DEVELOPMENT": 32,
+      "FITNESS": 32,
+      "DIGITAL-MEDIA": 32,
+      "INFORMATION-TECHNOLOGY": 30,
+      "ARTS": 29,
+      "TEACHER": 28,
+      "AGRICULTURE": 27,
+      "AUTOMOBILE": 14,
+      "BPO": 8
+    }
+  },
+  "marketing": {
+    "frequency": 870,
+    "categories": [
+      "BUSINESS-DEVELOPMENT",
+      "PUBLIC-RELATIONS",
+      "DIGITAL-MEDIA",
+      "SALES",
+      "BANKING",
+      "CONSULTANT",
+      "FITNESS",
+      "FINANCE",
+      "APPAREL",
+      "HEALTHCARE",
+      "DESIGNER",
+      "CHEF",
+      "ARTS",
+      "CONSTRUCTION",
+      "HR",
+      "INFORMATION-TECHNOLOGY",
+      "ADVOCATE",
+      "ACCOUNTANT",
+      "ENGINEERING",
+      "AGRICULTURE",
+      "AVIATION",
+      "TEACHER",
+      "BPO",
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 98,
+      "PUBLIC-RELATIONS": 91,
+      "DIGITAL-MEDIA": 75,
+      "SALES": 52,
+      "BANKING": 49,
+      "CONSULTANT": 43,
+      "FITNESS": 42,
+      "FINANCE": 41,
+      "APPAREL": 39,
+      "HEALTHCARE": 39,
+      "DESIGNER": 38,
+      "CHEF": 33,
+      "ARTS": 33,
+      "CONSTRUCTION": 28,
+      "HR": 28,
+      "INFORMATION-TECHNOLOGY": 26,
+      "ADVOCATE": 26,
+      "ACCOUNTANT": 18,
+      "ENGINEERING": 16,
+      "AGRICULTURE": 16,
+      "AVIATION": 13,
+      "TEACHER": 11,
+      "BPO": 9,
+      "AUTOMOBILE": 6
+    }
+  },
+  "compliance": {
+    "frequency": 772,
+    "categories": [
+      "BANKING",
+      "HR",
+      "ACCOUNTANT",
+      "HEALTHCARE",
+      "FINANCE",
+      "CONSTRUCTION",
+      "AVIATION",
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "ADVOCATE",
+      "ENGINEERING",
+      "BUSINESS-DEVELOPMENT",
+      "APPAREL",
+      "CHEF",
+      "FITNESS",
+      "DESIGNER",
+      "SALES",
+      "AGRICULTURE",
+      "TEACHER",
+      "PUBLIC-RELATIONS",
+      "AUTOMOBILE",
+      "DIGITAL-MEDIA",
+      "ARTS",
+      "BPO"
+    ],
+    "category_counts": {
+      "BANKING": 66,
+      "HR": 65,
+      "ACCOUNTANT": 61,
+      "HEALTHCARE": 56,
+      "FINANCE": 54,
+      "CONSTRUCTION": 52,
+      "AVIATION": 43,
+      "INFORMATION-TECHNOLOGY": 42,
+      "CONSULTANT": 38,
+      "ADVOCATE": 32,
+      "ENGINEERING": 30,
+      "BUSINESS-DEVELOPMENT": 27,
+      "APPAREL": 26,
+      "CHEF": 25,
+      "FITNESS": 24,
+      "DESIGNER": 21,
+      "SALES": 20,
+      "AGRICULTURE": 17,
+      "TEACHER": 15,
+      "PUBLIC-RELATIONS": 15,
+      "AUTOMOBILE": 13,
+      "DIGITAL-MEDIA": 12,
+      "ARTS": 11,
+      "BPO": 7
+    }
+  },
+  "accounting": {
+    "frequency": 560,
+    "categories": [
+      "ACCOUNTANT",
+      "FINANCE",
+      "BANKING",
+      "CONSULTANT",
+      "HEALTHCARE",
+      "AVIATION",
+      "BUSINESS-DEVELOPMENT",
+      "HR",
+      "FITNESS",
+      "CHEF",
+      "ADVOCATE",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "SALES",
+      "PUBLIC-RELATIONS",
+      "CONSTRUCTION",
+      "APPAREL",
+      "AGRICULTURE",
+      "ARTS",
+      "TEACHER",
+      "ENGINEERING",
+      "DESIGNER",
+      "AUTOMOBILE",
+      "BPO"
+    ],
+    "category_counts": {
+      "ACCOUNTANT": 114,
+      "FINANCE": 98,
+      "BANKING": 36,
+      "CONSULTANT": 35,
+      "HEALTHCARE": 26,
+      "AVIATION": 22,
+      "BUSINESS-DEVELOPMENT": 20,
+      "HR": 20,
+      "FITNESS": 19,
+      "CHEF": 19,
+      "ADVOCATE": 16,
+      "INFORMATION-TECHNOLOGY": 15,
+      "DIGITAL-MEDIA": 15,
+      "SALES": 14,
+      "PUBLIC-RELATIONS": 13,
+      "CONSTRUCTION": 13,
+      "APPAREL": 13,
+      "AGRICULTURE": 11,
+      "ARTS": 10,
+      "TEACHER": 8,
+      "ENGINEERING": 8,
+      "DESIGNER": 7,
+      "AUTOMOBILE": 6,
+      "BPO": 2
+    }
+  },
+  "project management": {
+    "frequency": 556,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "CONSTRUCTION",
+      "ENGINEERING",
+      "PUBLIC-RELATIONS",
+      "HR",
+      "BUSINESS-DEVELOPMENT",
+      "BANKING",
+      "DIGITAL-MEDIA",
+      "FINANCE",
+      "HEALTHCARE",
+      "DESIGNER",
+      "AVIATION",
+      "SALES",
+      "ADVOCATE",
+      "ARTS",
+      "AGRICULTURE",
+      "FITNESS",
+      "APPAREL",
+      "CHEF",
+      "ACCOUNTANT",
+      "AUTOMOBILE",
+      "BPO",
+      "TEACHER"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 59,
+      "CONSULTANT": 47,
+      "CONSTRUCTION": 46,
+      "ENGINEERING": 40,
+      "PUBLIC-RELATIONS": 36,
+      "HR": 32,
+      "BUSINESS-DEVELOPMENT": 29,
+      "BANKING": 29,
+      "DIGITAL-MEDIA": 28,
+      "FINANCE": 27,
+      "HEALTHCARE": 23,
+      "DESIGNER": 22,
+      "AVIATION": 20,
+      "SALES": 17,
+      "ADVOCATE": 14,
+      "ARTS": 14,
+      "AGRICULTURE": 14,
+      "FITNESS": 13,
+      "APPAREL": 12,
+      "CHEF": 12,
+      "ACCOUNTANT": 8,
+      "AUTOMOBILE": 7,
+      "BPO": 4,
+      "TEACHER": 3
+    }
+  },
+  "engineering": {
+    "frequency": 437,
+    "categories": [
+      "ENGINEERING",
+      "CONSTRUCTION",
+      "INFORMATION-TECHNOLOGY",
+      "AVIATION",
+      "DESIGNER",
+      "CONSULTANT",
+      "FINANCE",
+      "BUSINESS-DEVELOPMENT",
+      "AGRICULTURE",
+      "APPAREL",
+      "BANKING",
+      "DIGITAL-MEDIA",
+      "HR",
+      "PUBLIC-RELATIONS",
+      "HEALTHCARE",
+      "AUTOMOBILE",
+      "ARTS",
+      "SALES",
+      "FITNESS",
+      "BPO",
+      "CHEF",
+      "ADVOCATE",
+      "ACCOUNTANT",
+      "TEACHER"
+    ],
+    "category_counts": {
+      "ENGINEERING": 118,
+      "CONSTRUCTION": 50,
+      "INFORMATION-TECHNOLOGY": 39,
+      "AVIATION": 35,
+      "DESIGNER": 30,
+      "CONSULTANT": 27,
+      "FINANCE": 17,
+      "BUSINESS-DEVELOPMENT": 16,
+      "AGRICULTURE": 13,
+      "APPAREL": 13,
+      "BANKING": 10,
+      "DIGITAL-MEDIA": 9,
+      "HR": 7,
+      "PUBLIC-RELATIONS": 7,
+      "HEALTHCARE": 7,
+      "AUTOMOBILE": 6,
+      "ARTS": 5,
+      "SALES": 5,
+      "FITNESS": 5,
+      "BPO": 5,
+      "CHEF": 4,
+      "ADVOCATE": 4,
+      "ACCOUNTANT": 3,
+      "TEACHER": 2
+    }
+  },
+  "problem solving": {
+    "frequency": 426,
+    "categories": [
+      "ADVOCATE",
+      "BANKING",
+      "ACCOUNTANT",
+      "INFORMATION-TECHNOLOGY",
+      "BUSINESS-DEVELOPMENT",
+      "CONSTRUCTION",
+      "HEALTHCARE",
+      "SALES",
+      "ENGINEERING",
+      "AVIATION",
+      "TEACHER",
+      "APPAREL",
+      "ARTS",
+      "FINANCE",
+      "FITNESS",
+      "CONSULTANT",
+      "HR",
+      "DESIGNER",
+      "CHEF",
+      "PUBLIC-RELATIONS",
+      "DIGITAL-MEDIA",
+      "BPO",
+      "AUTOMOBILE",
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "ADVOCATE": 29,
+      "BANKING": 25,
+      "ACCOUNTANT": 24,
+      "INFORMATION-TECHNOLOGY": 24,
+      "BUSINESS-DEVELOPMENT": 23,
+      "CONSTRUCTION": 23,
+      "HEALTHCARE": 22,
+      "SALES": 21,
+      "ENGINEERING": 20,
+      "AVIATION": 20,
+      "TEACHER": 20,
+      "APPAREL": 18,
+      "ARTS": 17,
+      "FINANCE": 17,
+      "FITNESS": 17,
+      "CONSULTANT": 17,
+      "HR": 16,
+      "DESIGNER": 14,
+      "CHEF": 14,
+      "PUBLIC-RELATIONS": 13,
+      "DIGITAL-MEDIA": 10,
+      "BPO": 8,
+      "AUTOMOBILE": 8,
+      "AGRICULTURE": 6
+    }
+  },
+  "contract": {
+    "frequency": 395,
+    "categories": [
+      "CONSTRUCTION",
+      "BUSINESS-DEVELOPMENT",
+      "FINANCE",
+      "HEALTHCARE",
+      "ACCOUNTANT",
+      "INFORMATION-TECHNOLOGY",
+      "AVIATION",
+      "HR",
+      "DIGITAL-MEDIA",
+      "CONSULTANT",
+      "SALES",
+      "APPAREL",
+      "PUBLIC-RELATIONS",
+      "FITNESS",
+      "ENGINEERING",
+      "ADVOCATE",
+      "BANKING",
+      "DESIGNER",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "CHEF",
+      "ARTS",
+      "BPO",
+      "TEACHER"
+    ],
+    "category_counts": {
+      "CONSTRUCTION": 51,
+      "BUSINESS-DEVELOPMENT": 41,
+      "FINANCE": 34,
+      "HEALTHCARE": 26,
+      "ACCOUNTANT": 26,
+      "INFORMATION-TECHNOLOGY": 21,
+      "AVIATION": 18,
+      "HR": 16,
+      "DIGITAL-MEDIA": 16,
+      "CONSULTANT": 16,
+      "SALES": 15,
+      "APPAREL": 13,
+      "PUBLIC-RELATIONS": 12,
+      "FITNESS": 12,
+      "ENGINEERING": 11,
+      "ADVOCATE": 10,
+      "BANKING": 10,
+      "DESIGNER": 9,
+      "AGRICULTURE": 9,
+      "AUTOMOBILE": 8,
+      "CHEF": 7,
+      "ARTS": 6,
+      "BPO": 5,
+      "TEACHER": 3
+    }
+  },
+  "time management": {
+    "frequency": 377,
+    "categories": [
+      "SALES",
+      "FINANCE",
+      "ACCOUNTANT",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "CONSTRUCTION",
+      "TEACHER",
+      "FITNESS",
+      "CHEF",
+      "AVIATION",
+      "DESIGNER",
+      "HR",
+      "BANKING",
+      "ARTS",
+      "APPAREL",
+      "CONSULTANT",
+      "ENGINEERING",
+      "BUSINESS-DEVELOPMENT",
+      "PUBLIC-RELATIONS",
+      "DIGITAL-MEDIA",
+      "AUTOMOBILE",
+      "INFORMATION-TECHNOLOGY",
+      "AGRICULTURE",
+      "BPO"
+    ],
+    "category_counts": {
+      "SALES": 32,
+      "FINANCE": 27,
+      "ACCOUNTANT": 24,
+      "HEALTHCARE": 22,
+      "ADVOCATE": 21,
+      "CONSTRUCTION": 19,
+      "TEACHER": 18,
+      "FITNESS": 18,
+      "CHEF": 18,
+      "AVIATION": 16,
+      "DESIGNER": 16,
+      "HR": 16,
+      "BANKING": 15,
+      "ARTS": 15,
+      "APPAREL": 15,
+      "CONSULTANT": 13,
+      "ENGINEERING": 13,
+      "BUSINESS-DEVELOPMENT": 12,
+      "PUBLIC-RELATIONS": 11,
+      "DIGITAL-MEDIA": 10,
+      "AUTOMOBILE": 9,
+      "INFORMATION-TECHNOLOGY": 8,
+      "AGRICULTURE": 6,
+      "BPO": 3
+    }
+  },
+  "presentation": {
+    "frequency": 353,
+    "categories": [
+      "CHEF",
+      "PUBLIC-RELATIONS",
+      "DESIGNER",
+      "BUSINESS-DEVELOPMENT",
+      "HR",
+      "BANKING",
+      "CONSULTANT",
+      "FINANCE",
+      "SALES",
+      "APPAREL",
+      "ADVOCATE",
+      "ARTS",
+      "ACCOUNTANT",
+      "AGRICULTURE",
+      "FITNESS",
+      "DIGITAL-MEDIA",
+      "HEALTHCARE",
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "CONSTRUCTION",
+      "AVIATION",
+      "AUTOMOBILE",
+      "BPO"
+    ],
+    "category_counts": {
+      "CHEF": 46,
+      "PUBLIC-RELATIONS": 26,
+      "DESIGNER": 24,
+      "BUSINESS-DEVELOPMENT": 20,
+      "HR": 19,
+      "BANKING": 17,
+      "CONSULTANT": 17,
+      "FINANCE": 16,
+      "SALES": 16,
+      "APPAREL": 16,
+      "ADVOCATE": 15,
+      "ARTS": 15,
+      "ACCOUNTANT": 13,
+      "AGRICULTURE": 13,
+      "FITNESS": 13,
+      "DIGITAL-MEDIA": 12,
+      "HEALTHCARE": 10,
+      "ENGINEERING": 10,
+      "INFORMATION-TECHNOLOGY": 8,
+      "TEACHER": 8,
+      "CONSTRUCTION": 8,
+      "AVIATION": 7,
+      "AUTOMOBILE": 3,
+      "BPO": 1
+    }
+  },
+  "budgeting": {
+    "frequency": 305,
+    "categories": [
+      "FINANCE",
+      "ACCOUNTANT",
+      "CONSTRUCTION",
+      "INFORMATION-TECHNOLOGY",
+      "CHEF",
+      "BUSINESS-DEVELOPMENT",
+      "HEALTHCARE",
+      "CONSULTANT",
+      "PUBLIC-RELATIONS",
+      "DIGITAL-MEDIA",
+      "BANKING",
+      "APPAREL",
+      "FITNESS",
+      "ENGINEERING",
+      "AVIATION",
+      "AGRICULTURE",
+      "ADVOCATE",
+      "TEACHER",
+      "HR",
+      "DESIGNER",
+      "ARTS",
+      "SALES",
+      "AUTOMOBILE",
+      "BPO"
+    ],
+    "category_counts": {
+      "FINANCE": 49,
+      "ACCOUNTANT": 33,
+      "CONSTRUCTION": 29,
+      "INFORMATION-TECHNOLOGY": 23,
+      "CHEF": 22,
+      "BUSINESS-DEVELOPMENT": 21,
+      "HEALTHCARE": 14,
+      "CONSULTANT": 13,
+      "PUBLIC-RELATIONS": 12,
+      "DIGITAL-MEDIA": 11,
+      "BANKING": 9,
+      "APPAREL": 9,
+      "FITNESS": 8,
+      "ENGINEERING": 8,
+      "AVIATION": 8,
+      "AGRICULTURE": 7,
+      "ADVOCATE": 6,
+      "TEACHER": 6,
+      "HR": 5,
+      "DESIGNER": 4,
+      "ARTS": 3,
+      "SALES": 2,
+      "AUTOMOBILE": 2,
+      "BPO": 1
+    }
+  },
+  "social media": {
+    "frequency": 292,
+    "categories": [
+      "PUBLIC-RELATIONS",
+      "DIGITAL-MEDIA",
+      "BUSINESS-DEVELOPMENT",
+      "ARTS",
+      "FITNESS",
+      "CONSULTANT",
+      "SALES",
+      "APPAREL",
+      "HEALTHCARE",
+      "DESIGNER",
+      "HR",
+      "TEACHER",
+      "CHEF",
+      "BANKING",
+      "ADVOCATE",
+      "AGRICULTURE",
+      "FINANCE",
+      "INFORMATION-TECHNOLOGY",
+      "BPO",
+      "AVIATION",
+      "CONSTRUCTION",
+      "AUTOMOBILE",
+      "ACCOUNTANT"
+    ],
+    "category_counts": {
+      "PUBLIC-RELATIONS": 67,
+      "DIGITAL-MEDIA": 53,
+      "BUSINESS-DEVELOPMENT": 24,
+      "ARTS": 17,
+      "FITNESS": 15,
+      "CONSULTANT": 15,
+      "SALES": 12,
+      "APPAREL": 11,
+      "HEALTHCARE": 10,
+      "DESIGNER": 10,
+      "HR": 9,
+      "TEACHER": 8,
+      "CHEF": 7,
+      "BANKING": 7,
+      "ADVOCATE": 5,
+      "AGRICULTURE": 5,
+      "FINANCE": 5,
+      "INFORMATION-TECHNOLOGY": 3,
+      "BPO": 3,
+      "AVIATION": 2,
+      "CONSTRUCTION": 2,
+      "AUTOMOBILE": 1,
+      "ACCOUNTANT": 1
+    }
+  },
+  "legal": {
+    "frequency": 287,
+    "categories": [
+      "HR",
+      "ADVOCATE",
+      "BANKING",
+      "FINANCE",
+      "HEALTHCARE",
+      "ACCOUNTANT",
+      "PUBLIC-RELATIONS",
+      "BUSINESS-DEVELOPMENT",
+      "CONSULTANT",
+      "CONSTRUCTION",
+      "APPAREL",
+      "INFORMATION-TECHNOLOGY",
+      "ARTS",
+      "AGRICULTURE",
+      "TEACHER",
+      "SALES",
+      "AVIATION",
+      "AUTOMOBILE",
+      "DIGITAL-MEDIA",
+      "FITNESS",
+      "CHEF",
+      "ENGINEERING",
+      "DESIGNER",
+      "BPO"
+    ],
+    "category_counts": {
+      "HR": 34,
+      "ADVOCATE": 25,
+      "BANKING": 23,
+      "FINANCE": 23,
+      "HEALTHCARE": 17,
+      "ACCOUNTANT": 17,
+      "PUBLIC-RELATIONS": 15,
+      "BUSINESS-DEVELOPMENT": 14,
+      "CONSULTANT": 14,
+      "CONSTRUCTION": 12,
+      "APPAREL": 10,
+      "INFORMATION-TECHNOLOGY": 8,
+      "ARTS": 8,
+      "AGRICULTURE": 8,
+      "TEACHER": 7,
+      "SALES": 7,
+      "AVIATION": 7,
+      "AUTOMOBILE": 7,
+      "DIGITAL-MEDIA": 6,
+      "FITNESS": 6,
+      "CHEF": 6,
+      "ENGINEERING": 5,
+      "DESIGNER": 4,
+      "BPO": 4
+    }
+  },
+  "healthcare": {
+    "frequency": 282,
+    "categories": [
+      "HEALTHCARE",
+      "ADVOCATE",
+      "CONSULTANT",
+      "PUBLIC-RELATIONS",
+      "BUSINESS-DEVELOPMENT",
+      "HR",
+      "INFORMATION-TECHNOLOGY",
+      "FITNESS",
+      "BANKING",
+      "DIGITAL-MEDIA",
+      "ARTS",
+      "DESIGNER",
+      "FINANCE",
+      "CONSTRUCTION",
+      "AGRICULTURE",
+      "SALES",
+      "ENGINEERING",
+      "CHEF",
+      "BPO",
+      "AUTOMOBILE",
+      "ACCOUNTANT",
+      "TEACHER",
+      "APPAREL",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 115,
+      "ADVOCATE": 24,
+      "CONSULTANT": 21,
+      "PUBLIC-RELATIONS": 16,
+      "BUSINESS-DEVELOPMENT": 13,
+      "HR": 10,
+      "INFORMATION-TECHNOLOGY": 10,
+      "FITNESS": 9,
+      "BANKING": 9,
+      "DIGITAL-MEDIA": 6,
+      "ARTS": 6,
+      "DESIGNER": 5,
+      "FINANCE": 5,
+      "CONSTRUCTION": 5,
+      "AGRICULTURE": 5,
+      "SALES": 4,
+      "ENGINEERING": 3,
+      "CHEF": 3,
+      "BPO": 3,
+      "AUTOMOBILE": 3,
+      "ACCOUNTANT": 3,
+      "TEACHER": 2,
+      "APPAREL": 1,
+      "AVIATION": 1
+    }
+  },
+  "forecasting": {
+    "frequency": 233,
+    "categories": [
+      "FINANCE",
+      "BUSINESS-DEVELOPMENT",
+      "ACCOUNTANT",
+      "BANKING",
+      "CONSULTANT",
+      "CHEF",
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "APPAREL",
+      "HEALTHCARE",
+      "SALES",
+      "AVIATION",
+      "DIGITAL-MEDIA",
+      "ADVOCATE",
+      "PUBLIC-RELATIONS",
+      "CONSTRUCTION",
+      "HR",
+      "FITNESS",
+      "BPO",
+      "AGRICULTURE",
+      "ARTS",
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "FINANCE": 52,
+      "BUSINESS-DEVELOPMENT": 32,
+      "ACCOUNTANT": 28,
+      "BANKING": 19,
+      "CONSULTANT": 14,
+      "CHEF": 10,
+      "ENGINEERING": 9,
+      "INFORMATION-TECHNOLOGY": 8,
+      "APPAREL": 8,
+      "HEALTHCARE": 8,
+      "SALES": 8,
+      "AVIATION": 6,
+      "DIGITAL-MEDIA": 6,
+      "ADVOCATE": 5,
+      "PUBLIC-RELATIONS": 4,
+      "CONSTRUCTION": 4,
+      "HR": 3,
+      "FITNESS": 2,
+      "BPO": 2,
+      "AGRICULTURE": 2,
+      "ARTS": 2,
+      "AUTOMOBILE": 1
+    }
+  },
+  "regulatory": {
+    "frequency": 217,
+    "categories": [
+      "HEALTHCARE",
+      "BANKING",
+      "FINANCE",
+      "ACCOUNTANT",
+      "CONSULTANT",
+      "AVIATION",
+      "CONSTRUCTION",
+      "HR",
+      "ENGINEERING",
+      "FITNESS",
+      "DESIGNER",
+      "BUSINESS-DEVELOPMENT",
+      "ADVOCATE",
+      "INFORMATION-TECHNOLOGY",
+      "PUBLIC-RELATIONS",
+      "AGRICULTURE",
+      "SALES",
+      "APPAREL",
+      "ARTS",
+      "CHEF",
+      "AUTOMOBILE",
+      "TEACHER"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 25,
+      "BANKING": 24,
+      "FINANCE": 20,
+      "ACCOUNTANT": 17,
+      "CONSULTANT": 16,
+      "AVIATION": 15,
+      "CONSTRUCTION": 15,
+      "HR": 14,
+      "ENGINEERING": 10,
+      "FITNESS": 7,
+      "DESIGNER": 6,
+      "BUSINESS-DEVELOPMENT": 6,
+      "ADVOCATE": 6,
+      "INFORMATION-TECHNOLOGY": 6,
+      "PUBLIC-RELATIONS": 6,
+      "AGRICULTURE": 5,
+      "SALES": 5,
+      "APPAREL": 4,
+      "ARTS": 4,
+      "CHEF": 3,
+      "AUTOMOBILE": 2,
+      "TEACHER": 1
+    }
+  },
+  "r": {
+    "frequency": 199,
+    "categories": [
+      "ENGINEERING",
+      "ACCOUNTANT",
+      "FINANCE",
+      "PUBLIC-RELATIONS",
+      "BANKING",
+      "CHEF",
+      "INFORMATION-TECHNOLOGY",
+      "APPAREL",
+      "BUSINESS-DEVELOPMENT",
+      "AVIATION",
+      "CONSULTANT",
+      "AGRICULTURE",
+      "DESIGNER",
+      "SALES",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "ARTS",
+      "FITNESS",
+      "TEACHER",
+      "HR",
+      "AUTOMOBILE",
+      "DIGITAL-MEDIA",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "ENGINEERING": 24,
+      "ACCOUNTANT": 21,
+      "FINANCE": 12,
+      "PUBLIC-RELATIONS": 12,
+      "BANKING": 10,
+      "CHEF": 10,
+      "INFORMATION-TECHNOLOGY": 9,
+      "APPAREL": 9,
+      "BUSINESS-DEVELOPMENT": 9,
+      "AVIATION": 9,
+      "CONSULTANT": 8,
+      "AGRICULTURE": 8,
+      "DESIGNER": 7,
+      "SALES": 7,
+      "HEALTHCARE": 7,
+      "ADVOCATE": 6,
+      "ARTS": 6,
+      "FITNESS": 5,
+      "TEACHER": 5,
+      "HR": 4,
+      "AUTOMOBILE": 4,
+      "DIGITAL-MEDIA": 4,
+      "CONSTRUCTION": 3
+    }
+  },
+  "sap": {
+    "frequency": 189,
+    "categories": [
+      "ACCOUNTANT",
+      "HR",
+      "FINANCE",
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "BANKING",
+      "BPO",
+      "DIGITAL-MEDIA",
+      "AVIATION",
+      "APPAREL",
+      "DESIGNER",
+      "ARTS",
+      "CONSTRUCTION",
+      "SALES",
+      "AGRICULTURE",
+      "TEACHER",
+      "HEALTHCARE",
+      "FITNESS",
+      "ADVOCATE",
+      "AUTOMOBILE",
+      "CHEF",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "ACCOUNTANT": 33,
+      "HR": 25,
+      "FINANCE": 24,
+      "INFORMATION-TECHNOLOGY": 15,
+      "ENGINEERING": 11,
+      "CONSULTANT": 10,
+      "BUSINESS-DEVELOPMENT": 10,
+      "BANKING": 7,
+      "BPO": 6,
+      "DIGITAL-MEDIA": 6,
+      "AVIATION": 5,
+      "APPAREL": 5,
+      "DESIGNER": 5,
+      "ARTS": 5,
+      "CONSTRUCTION": 4,
+      "SALES": 4,
+      "AGRICULTURE": 3,
+      "TEACHER": 3,
+      "HEALTHCARE": 2,
+      "FITNESS": 2,
+      "ADVOCATE": 1,
+      "AUTOMOBILE": 1,
+      "CHEF": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "clinical": {
+    "frequency": 188,
+    "categories": [
+      "HEALTHCARE",
+      "ADVOCATE",
+      "CONSULTANT",
+      "FITNESS",
+      "PUBLIC-RELATIONS",
+      "ARTS",
+      "BUSINESS-DEVELOPMENT",
+      "DESIGNER",
+      "AVIATION",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "ENGINEERING",
+      "AUTOMOBILE",
+      "SALES",
+      "AGRICULTURE",
+      "FINANCE",
+      "HR",
+      "BPO",
+      "CHEF",
+      "BANKING",
+      "ACCOUNTANT",
+      "DIGITAL-MEDIA",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 55,
+      "ADVOCATE": 26,
+      "CONSULTANT": 16,
+      "FITNESS": 11,
+      "PUBLIC-RELATIONS": 7,
+      "ARTS": 7,
+      "BUSINESS-DEVELOPMENT": 7,
+      "DESIGNER": 6,
+      "AVIATION": 5,
+      "INFORMATION-TECHNOLOGY": 5,
+      "TEACHER": 5,
+      "ENGINEERING": 4,
+      "AUTOMOBILE": 4,
+      "SALES": 4,
+      "AGRICULTURE": 4,
+      "FINANCE": 4,
+      "HR": 3,
+      "BPO": 3,
+      "CHEF": 3,
+      "BANKING": 3,
+      "ACCOUNTANT": 3,
+      "DIGITAL-MEDIA": 2,
+      "CONSTRUCTION": 1
+    }
+  },
+  "electrical": {
+    "frequency": 181,
+    "categories": [
+      "ENGINEERING",
+      "CONSTRUCTION",
+      "AVIATION",
+      "DESIGNER",
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "SALES",
+      "ARTS",
+      "ADVOCATE",
+      "APPAREL",
+      "HEALTHCARE",
+      "TEACHER",
+      "HR",
+      "CHEF",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "DIGITAL-MEDIA",
+      "FINANCE",
+      "FITNESS",
+      "BUSINESS-DEVELOPMENT",
+      "BPO",
+      "ACCOUNTANT",
+      "BANKING",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "ENGINEERING": 51,
+      "CONSTRUCTION": 31,
+      "AVIATION": 30,
+      "DESIGNER": 9,
+      "INFORMATION-TECHNOLOGY": 9,
+      "CONSULTANT": 6,
+      "SALES": 5,
+      "ARTS": 5,
+      "ADVOCATE": 4,
+      "APPAREL": 3,
+      "HEALTHCARE": 3,
+      "TEACHER": 3,
+      "HR": 3,
+      "CHEF": 3,
+      "AGRICULTURE": 3,
+      "AUTOMOBILE": 3,
+      "DIGITAL-MEDIA": 2,
+      "FINANCE": 2,
+      "FITNESS": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "BPO": 1,
+      "ACCOUNTANT": 1,
+      "BANKING": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "sql": {
+    "frequency": 178,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "BANKING",
+      "ENGINEERING",
+      "DESIGNER",
+      "FINANCE",
+      "DIGITAL-MEDIA",
+      "HEALTHCARE",
+      "ACCOUNTANT",
+      "AUTOMOBILE",
+      "SALES",
+      "BUSINESS-DEVELOPMENT",
+      "HR",
+      "ADVOCATE",
+      "AVIATION",
+      "AGRICULTURE",
+      "BPO",
+      "CONSTRUCTION",
+      "PUBLIC-RELATIONS",
+      "FITNESS",
+      "APPAREL"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 49,
+      "CONSULTANT": 30,
+      "BANKING": 16,
+      "ENGINEERING": 15,
+      "DESIGNER": 8,
+      "FINANCE": 7,
+      "DIGITAL-MEDIA": 7,
+      "HEALTHCARE": 6,
+      "ACCOUNTANT": 6,
+      "AUTOMOBILE": 5,
+      "SALES": 4,
+      "BUSINESS-DEVELOPMENT": 4,
+      "HR": 3,
+      "ADVOCATE": 3,
+      "AVIATION": 3,
+      "AGRICULTURE": 3,
+      "BPO": 3,
+      "CONSTRUCTION": 2,
+      "PUBLIC-RELATIONS": 2,
+      "FITNESS": 1,
+      "APPAREL": 1
+    }
+  },
+  "negotiation": {
+    "frequency": 176,
+    "categories": [
+      "BUSINESS-DEVELOPMENT",
+      "CONSTRUCTION",
+      "BANKING",
+      "FINANCE",
+      "SALES",
+      "AVIATION",
+      "ADVOCATE",
+      "INFORMATION-TECHNOLOGY",
+      "HEALTHCARE",
+      "APPAREL",
+      "DIGITAL-MEDIA",
+      "HR",
+      "PUBLIC-RELATIONS",
+      "CHEF",
+      "CONSULTANT",
+      "FITNESS",
+      "ARTS",
+      "AUTOMOBILE",
+      "BPO",
+      "DESIGNER",
+      "ACCOUNTANT",
+      "AGRICULTURE",
+      "TEACHER",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 24,
+      "CONSTRUCTION": 17,
+      "BANKING": 14,
+      "FINANCE": 12,
+      "SALES": 11,
+      "AVIATION": 10,
+      "ADVOCATE": 8,
+      "INFORMATION-TECHNOLOGY": 8,
+      "HEALTHCARE": 8,
+      "APPAREL": 7,
+      "DIGITAL-MEDIA": 7,
+      "HR": 6,
+      "PUBLIC-RELATIONS": 6,
+      "CHEF": 6,
+      "CONSULTANT": 6,
+      "FITNESS": 5,
+      "ARTS": 5,
+      "AUTOMOBILE": 4,
+      "BPO": 3,
+      "DESIGNER": 3,
+      "ACCOUNTANT": 2,
+      "AGRICULTURE": 2,
+      "TEACHER": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "oracle": {
+    "frequency": 171,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "FINANCE",
+      "CONSULTANT",
+      "ACCOUNTANT",
+      "BANKING",
+      "ENGINEERING",
+      "HR",
+      "BUSINESS-DEVELOPMENT",
+      "AUTOMOBILE",
+      "DESIGNER",
+      "ADVOCATE",
+      "PUBLIC-RELATIONS",
+      "HEALTHCARE",
+      "DIGITAL-MEDIA",
+      "FITNESS",
+      "AVIATION",
+      "AGRICULTURE",
+      "BPO",
+      "SALES",
+      "ARTS",
+      "APPAREL",
+      "CHEF",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 27,
+      "FINANCE": 23,
+      "CONSULTANT": 18,
+      "ACCOUNTANT": 15,
+      "BANKING": 13,
+      "ENGINEERING": 12,
+      "HR": 10,
+      "BUSINESS-DEVELOPMENT": 7,
+      "AUTOMOBILE": 5,
+      "DESIGNER": 5,
+      "ADVOCATE": 4,
+      "PUBLIC-RELATIONS": 4,
+      "HEALTHCARE": 4,
+      "DIGITAL-MEDIA": 4,
+      "FITNESS": 3,
+      "AVIATION": 3,
+      "AGRICULTURE": 3,
+      "BPO": 3,
+      "SALES": 2,
+      "ARTS": 2,
+      "APPAREL": 2,
+      "CHEF": 1,
+      "CONSTRUCTION": 1
+    }
+  },
+  "critical thinking": {
+    "frequency": 160,
+    "categories": [
+      "TEACHER",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "AVIATION",
+      "PUBLIC-RELATIONS",
+      "SALES",
+      "FINANCE",
+      "ACCOUNTANT",
+      "ENGINEERING",
+      "ARTS",
+      "HR",
+      "BUSINESS-DEVELOPMENT",
+      "FITNESS",
+      "INFORMATION-TECHNOLOGY",
+      "AGRICULTURE",
+      "CHEF",
+      "DESIGNER",
+      "APPAREL",
+      "CONSULTANT",
+      "AUTOMOBILE",
+      "CONSTRUCTION",
+      "DIGITAL-MEDIA",
+      "BPO",
+      "BANKING"
+    ],
+    "category_counts": {
+      "TEACHER": 14,
+      "HEALTHCARE": 14,
+      "ADVOCATE": 12,
+      "AVIATION": 12,
+      "PUBLIC-RELATIONS": 11,
+      "SALES": 10,
+      "FINANCE": 9,
+      "ACCOUNTANT": 9,
+      "ENGINEERING": 9,
+      "ARTS": 8,
+      "HR": 7,
+      "BUSINESS-DEVELOPMENT": 7,
+      "FITNESS": 6,
+      "INFORMATION-TECHNOLOGY": 5,
+      "AGRICULTURE": 4,
+      "CHEF": 4,
+      "DESIGNER": 3,
+      "APPAREL": 3,
+      "CONSULTANT": 3,
+      "AUTOMOBILE": 3,
+      "CONSTRUCTION": 3,
+      "DIGITAL-MEDIA": 2,
+      "BPO": 1,
+      "BANKING": 1
+    }
+  },
+  "mechanical": {
+    "frequency": 158,
+    "categories": [
+      "ENGINEERING",
+      "AVIATION",
+      "CONSTRUCTION",
+      "DESIGNER",
+      "AGRICULTURE",
+      "INFORMATION-TECHNOLOGY",
+      "AUTOMOBILE",
+      "APPAREL",
+      "HEALTHCARE",
+      "TEACHER",
+      "ARTS",
+      "SALES",
+      "CONSULTANT",
+      "FITNESS",
+      "BUSINESS-DEVELOPMENT",
+      "ADVOCATE",
+      "HR",
+      "FINANCE",
+      "CHEF",
+      "DIGITAL-MEDIA",
+      "ACCOUNTANT",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 49,
+      "AVIATION": 24,
+      "CONSTRUCTION": 17,
+      "DESIGNER": 16,
+      "AGRICULTURE": 6,
+      "INFORMATION-TECHNOLOGY": 6,
+      "AUTOMOBILE": 5,
+      "APPAREL": 4,
+      "HEALTHCARE": 4,
+      "TEACHER": 3,
+      "ARTS": 3,
+      "SALES": 3,
+      "CONSULTANT": 3,
+      "FITNESS": 3,
+      "BUSINESS-DEVELOPMENT": 2,
+      "ADVOCATE": 2,
+      "HR": 2,
+      "FINANCE": 2,
+      "CHEF": 1,
+      "DIGITAL-MEDIA": 1,
+      "ACCOUNTANT": 1,
+      "BANKING": 1
+    }
+  },
+  "html": {
+    "frequency": 143,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "CONSULTANT",
+      "AVIATION",
+      "ENGINEERING",
+      "ARTS",
+      "BANKING",
+      "SALES",
+      "ADVOCATE",
+      "HEALTHCARE",
+      "PUBLIC-RELATIONS",
+      "APPAREL",
+      "BUSINESS-DEVELOPMENT",
+      "TEACHER",
+      "CHEF",
+      "AGRICULTURE",
+      "FINANCE",
+      "HR",
+      "AUTOMOBILE",
+      "BPO",
+      "CONSTRUCTION",
+      "ACCOUNTANT"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 22,
+      "DIGITAL-MEDIA": 22,
+      "DESIGNER": 21,
+      "CONSULTANT": 16,
+      "AVIATION": 7,
+      "ENGINEERING": 7,
+      "ARTS": 6,
+      "BANKING": 6,
+      "SALES": 5,
+      "ADVOCATE": 4,
+      "HEALTHCARE": 4,
+      "PUBLIC-RELATIONS": 4,
+      "APPAREL": 3,
+      "BUSINESS-DEVELOPMENT": 3,
+      "TEACHER": 2,
+      "CHEF": 2,
+      "AGRICULTURE": 2,
+      "FINANCE": 2,
+      "HR": 1,
+      "AUTOMOBILE": 1,
+      "BPO": 1,
+      "CONSTRUCTION": 1,
+      "ACCOUNTANT": 1
+    }
+  },
+  "statistics": {
+    "frequency": 138,
+    "categories": [
+      "ENGINEERING",
+      "HEALTHCARE",
+      "INFORMATION-TECHNOLOGY",
+      "FITNESS",
+      "AVIATION",
+      "FINANCE",
+      "BANKING",
+      "BUSINESS-DEVELOPMENT",
+      "ACCOUNTANT",
+      "AGRICULTURE",
+      "CONSULTANT",
+      "ADVOCATE",
+      "HR",
+      "APPAREL",
+      "AUTOMOBILE",
+      "PUBLIC-RELATIONS",
+      "ARTS",
+      "TEACHER",
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "BPO",
+      "SALES",
+      "CONSTRUCTION",
+      "CHEF"
+    ],
+    "category_counts": {
+      "ENGINEERING": 14,
+      "HEALTHCARE": 13,
+      "INFORMATION-TECHNOLOGY": 10,
+      "FITNESS": 9,
+      "AVIATION": 9,
+      "FINANCE": 8,
+      "BANKING": 7,
+      "BUSINESS-DEVELOPMENT": 7,
+      "ACCOUNTANT": 7,
+      "AGRICULTURE": 6,
+      "CONSULTANT": 6,
+      "ADVOCATE": 6,
+      "HR": 5,
+      "APPAREL": 5,
+      "AUTOMOBILE": 4,
+      "PUBLIC-RELATIONS": 4,
+      "ARTS": 3,
+      "TEACHER": 3,
+      "DIGITAL-MEDIA": 3,
+      "DESIGNER": 2,
+      "BPO": 2,
+      "SALES": 2,
+      "CONSTRUCTION": 2,
+      "CHEF": 1
+    }
+  },
+  "data analysis": {
+    "frequency": 126,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "HEALTHCARE",
+      "ENGINEERING",
+      "HR",
+      "CONSULTANT",
+      "FINANCE",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "BANKING",
+      "ARTS",
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "PUBLIC-RELATIONS",
+      "AVIATION",
+      "ACCOUNTANT",
+      "BUSINESS-DEVELOPMENT",
+      "SALES",
+      "FITNESS",
+      "TEACHER",
+      "ADVOCATE",
+      "CHEF",
+      "BPO",
+      "APPAREL",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 14,
+      "HEALTHCARE": 11,
+      "ENGINEERING": 9,
+      "HR": 8,
+      "CONSULTANT": 8,
+      "FINANCE": 8,
+      "AGRICULTURE": 7,
+      "AUTOMOBILE": 6,
+      "BANKING": 6,
+      "ARTS": 6,
+      "DIGITAL-MEDIA": 6,
+      "DESIGNER": 5,
+      "PUBLIC-RELATIONS": 4,
+      "AVIATION": 4,
+      "ACCOUNTANT": 4,
+      "BUSINESS-DEVELOPMENT": 4,
+      "SALES": 3,
+      "FITNESS": 2,
+      "TEACHER": 2,
+      "ADVOCATE": 2,
+      "CHEF": 2,
+      "BPO": 2,
+      "APPAREL": 2,
+      "CONSTRUCTION": 1
+    }
+  },
+  "go": {
+    "frequency": 126,
+    "categories": [
+      "CONSULTANT",
+      "SALES",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "CONSTRUCTION",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "CHEF",
+      "FINANCE",
+      "BUSINESS-DEVELOPMENT",
+      "HR",
+      "DESIGNER",
+      "APPAREL",
+      "PUBLIC-RELATIONS",
+      "AVIATION",
+      "FITNESS",
+      "AGRICULTURE",
+      "ACCOUNTANT",
+      "BANKING",
+      "TEACHER",
+      "AUTOMOBILE",
+      "ARTS"
+    ],
+    "category_counts": {
+      "CONSULTANT": 13,
+      "SALES": 10,
+      "DIGITAL-MEDIA": 10,
+      "ENGINEERING": 9,
+      "INFORMATION-TECHNOLOGY": 8,
+      "CONSTRUCTION": 8,
+      "HEALTHCARE": 7,
+      "ADVOCATE": 6,
+      "CHEF": 6,
+      "FINANCE": 6,
+      "BUSINESS-DEVELOPMENT": 6,
+      "HR": 5,
+      "DESIGNER": 5,
+      "APPAREL": 5,
+      "PUBLIC-RELATIONS": 3,
+      "AVIATION": 3,
+      "FITNESS": 3,
+      "AGRICULTURE": 3,
+      "ACCOUNTANT": 3,
+      "BANKING": 3,
+      "TEACHER": 2,
+      "AUTOMOBILE": 1,
+      "ARTS": 1
+    }
+  },
+  "crm": {
+    "frequency": 122,
+    "categories": [
+      "BUSINESS-DEVELOPMENT",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "CONSULTANT",
+      "HEALTHCARE",
+      "BANKING",
+      "SALES",
+      "ADVOCATE",
+      "PUBLIC-RELATIONS",
+      "AVIATION",
+      "FINANCE",
+      "ACCOUNTANT",
+      "ENGINEERING",
+      "APPAREL",
+      "ARTS",
+      "BPO",
+      "FITNESS",
+      "DESIGNER",
+      "HR",
+      "AUTOMOBILE",
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 30,
+      "INFORMATION-TECHNOLOGY": 18,
+      "DIGITAL-MEDIA": 10,
+      "CONSULTANT": 9,
+      "HEALTHCARE": 8,
+      "BANKING": 8,
+      "SALES": 6,
+      "ADVOCATE": 6,
+      "PUBLIC-RELATIONS": 4,
+      "AVIATION": 4,
+      "FINANCE": 3,
+      "ACCOUNTANT": 2,
+      "ENGINEERING": 2,
+      "APPAREL": 2,
+      "ARTS": 2,
+      "BPO": 2,
+      "FITNESS": 2,
+      "DESIGNER": 1,
+      "HR": 1,
+      "AUTOMOBILE": 1,
+      "AGRICULTURE": 1
+    }
+  },
+  "lean": {
+    "frequency": 115,
+    "categories": [
+      "ENGINEERING",
+      "AVIATION",
+      "HEALTHCARE",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "FINANCE",
+      "CONSTRUCTION",
+      "INFORMATION-TECHNOLOGY",
+      "ADVOCATE",
+      "APPAREL",
+      "ACCOUNTANT",
+      "FITNESS",
+      "HR",
+      "DESIGNER",
+      "AGRICULTURE",
+      "DIGITAL-MEDIA",
+      "AUTOMOBILE",
+      "CHEF",
+      "BPO",
+      "SALES",
+      "ARTS"
+    ],
+    "category_counts": {
+      "ENGINEERING": 27,
+      "AVIATION": 20,
+      "HEALTHCARE": 10,
+      "CONSULTANT": 8,
+      "BUSINESS-DEVELOPMENT": 6,
+      "FINANCE": 6,
+      "CONSTRUCTION": 5,
+      "INFORMATION-TECHNOLOGY": 5,
+      "ADVOCATE": 4,
+      "APPAREL": 3,
+      "ACCOUNTANT": 3,
+      "FITNESS": 3,
+      "HR": 2,
+      "DESIGNER": 2,
+      "AGRICULTURE": 2,
+      "DIGITAL-MEDIA": 2,
+      "AUTOMOBILE": 2,
+      "CHEF": 2,
+      "BPO": 1,
+      "SALES": 1,
+      "ARTS": 1
+    }
+  },
+  "teamwork": {
+    "frequency": 105,
+    "categories": [
+      "HR",
+      "FITNESS",
+      "BUSINESS-DEVELOPMENT",
+      "APPAREL",
+      "DIGITAL-MEDIA",
+      "SALES",
+      "ADVOCATE",
+      "BANKING",
+      "HEALTHCARE",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "ARTS",
+      "ACCOUNTANT",
+      "ENGINEERING",
+      "AGRICULTURE",
+      "DESIGNER",
+      "CONSTRUCTION",
+      "PUBLIC-RELATIONS",
+      "FINANCE",
+      "CHEF",
+      "AVIATION",
+      "AUTOMOBILE",
+      "CONSULTANT"
+    ],
+    "category_counts": {
+      "HR": 10,
+      "FITNESS": 9,
+      "BUSINESS-DEVELOPMENT": 7,
+      "APPAREL": 6,
+      "DIGITAL-MEDIA": 6,
+      "SALES": 6,
+      "ADVOCATE": 6,
+      "BANKING": 5,
+      "HEALTHCARE": 5,
+      "INFORMATION-TECHNOLOGY": 5,
+      "TEACHER": 5,
+      "ARTS": 5,
+      "ACCOUNTANT": 4,
+      "ENGINEERING": 4,
+      "AGRICULTURE": 4,
+      "DESIGNER": 3,
+      "CONSTRUCTION": 3,
+      "PUBLIC-RELATIONS": 3,
+      "FINANCE": 3,
+      "CHEF": 2,
+      "AVIATION": 2,
+      "AUTOMOBILE": 1,
+      "CONSULTANT": 1
+    }
+  },
+  "autocad": {
+    "frequency": 103,
+    "categories": [
+      "ENGINEERING",
+      "DESIGNER",
+      "CONSTRUCTION",
+      "AVIATION",
+      "BUSINESS-DEVELOPMENT",
+      "AUTOMOBILE",
+      "CONSULTANT",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "FITNESS",
+      "AGRICULTURE",
+      "CHEF",
+      "FINANCE"
+    ],
+    "category_counts": {
+      "ENGINEERING": 35,
+      "DESIGNER": 27,
+      "CONSTRUCTION": 21,
+      "AVIATION": 6,
+      "BUSINESS-DEVELOPMENT": 3,
+      "AUTOMOBILE": 2,
+      "CONSULTANT": 2,
+      "INFORMATION-TECHNOLOGY": 2,
+      "TEACHER": 1,
+      "FITNESS": 1,
+      "AGRICULTURE": 1,
+      "CHEF": 1,
+      "FINANCE": 1
+    }
+  },
+  "salesforce": {
+    "frequency": 99,
+    "categories": [
+      "BUSINESS-DEVELOPMENT",
+      "DIGITAL-MEDIA",
+      "SALES",
+      "CONSULTANT",
+      "FINANCE",
+      "PUBLIC-RELATIONS",
+      "INFORMATION-TECHNOLOGY",
+      "BANKING",
+      "ADVOCATE",
+      "HEALTHCARE",
+      "ARTS",
+      "DESIGNER",
+      "FITNESS",
+      "CHEF",
+      "TEACHER",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "APPAREL",
+      "CONSTRUCTION",
+      "ACCOUNTANT",
+      "ENGINEERING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 20,
+      "DIGITAL-MEDIA": 14,
+      "SALES": 8,
+      "CONSULTANT": 7,
+      "FINANCE": 6,
+      "PUBLIC-RELATIONS": 6,
+      "INFORMATION-TECHNOLOGY": 5,
+      "BANKING": 5,
+      "ADVOCATE": 5,
+      "HEALTHCARE": 4,
+      "ARTS": 4,
+      "DESIGNER": 3,
+      "FITNESS": 2,
+      "CHEF": 2,
+      "TEACHER": 1,
+      "AGRICULTURE": 1,
+      "AUTOMOBILE": 1,
+      "APPAREL": 1,
+      "CONSTRUCTION": 1,
+      "ACCOUNTANT": 1,
+      "ENGINEERING": 1,
+      "AVIATION": 1
+    }
+  },
+  "financial analysis": {
+    "frequency": 96,
+    "categories": [
+      "FINANCE",
+      "ACCOUNTANT",
+      "BANKING",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "PUBLIC-RELATIONS",
+      "CHEF",
+      "AVIATION",
+      "FITNESS",
+      "AGRICULTURE",
+      "ADVOCATE",
+      "TEACHER",
+      "SALES"
+    ],
+    "category_counts": {
+      "FINANCE": 27,
+      "ACCOUNTANT": 24,
+      "BANKING": 17,
+      "CONSULTANT": 9,
+      "BUSINESS-DEVELOPMENT": 7,
+      "PUBLIC-RELATIONS": 2,
+      "CHEF": 2,
+      "AVIATION": 2,
+      "FITNESS": 2,
+      "AGRICULTURE": 1,
+      "ADVOCATE": 1,
+      "TEACHER": 1,
+      "SALES": 1
+    }
+  },
+  "patient care": {
+    "frequency": 94,
+    "categories": [
+      "HEALTHCARE",
+      "ADVOCATE",
+      "FITNESS",
+      "CHEF",
+      "SALES",
+      "PUBLIC-RELATIONS",
+      "INFORMATION-TECHNOLOGY",
+      "DESIGNER",
+      "AVIATION",
+      "AGRICULTURE",
+      "ARTS",
+      "TEACHER",
+      "CONSULTANT",
+      "HR",
+      "BUSINESS-DEVELOPMENT",
+      "FINANCE",
+      "CONSTRUCTION",
+      "ACCOUNTANT",
+      "APPAREL",
+      "BANKING"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 33,
+      "ADVOCATE": 16,
+      "FITNESS": 6,
+      "CHEF": 5,
+      "SALES": 4,
+      "PUBLIC-RELATIONS": 4,
+      "INFORMATION-TECHNOLOGY": 3,
+      "DESIGNER": 3,
+      "AVIATION": 3,
+      "AGRICULTURE": 3,
+      "ARTS": 3,
+      "TEACHER": 2,
+      "CONSULTANT": 2,
+      "HR": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "FINANCE": 1,
+      "CONSTRUCTION": 1,
+      "ACCOUNTANT": 1,
+      "APPAREL": 1,
+      "BANKING": 1
+    }
+  },
+  "linux": {
+    "frequency": 87,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "CONSULTANT",
+      "AVIATION",
+      "BANKING",
+      "DESIGNER",
+      "ADVOCATE",
+      "HEALTHCARE",
+      "HR",
+      "BUSINESS-DEVELOPMENT",
+      "SALES",
+      "BPO",
+      "AGRICULTURE",
+      "FITNESS",
+      "CONSTRUCTION",
+      "DIGITAL-MEDIA",
+      "PUBLIC-RELATIONS",
+      "ARTS"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 33,
+      "ENGINEERING": 14,
+      "CONSULTANT": 11,
+      "AVIATION": 5,
+      "BANKING": 4,
+      "DESIGNER": 4,
+      "ADVOCATE": 4,
+      "HEALTHCARE": 2,
+      "HR": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "SALES": 1,
+      "BPO": 1,
+      "AGRICULTURE": 1,
+      "FITNESS": 1,
+      "CONSTRUCTION": 1,
+      "DIGITAL-MEDIA": 1,
+      "PUBLIC-RELATIONS": 1,
+      "ARTS": 1
+    }
+  },
+  "spring": {
+    "frequency": 86,
+    "categories": [
+      "PUBLIC-RELATIONS",
+      "TEACHER",
+      "FITNESS",
+      "INFORMATION-TECHNOLOGY",
+      "DESIGNER",
+      "APPAREL",
+      "ENGINEERING",
+      "CHEF",
+      "DIGITAL-MEDIA",
+      "HEALTHCARE",
+      "ARTS",
+      "FINANCE",
+      "BUSINESS-DEVELOPMENT",
+      "CONSULTANT",
+      "AGRICULTURE",
+      "BANKING",
+      "CONSTRUCTION",
+      "HR",
+      "AVIATION",
+      "ACCOUNTANT",
+      "ADVOCATE",
+      "SALES"
+    ],
+    "category_counts": {
+      "PUBLIC-RELATIONS": 11,
+      "TEACHER": 8,
+      "FITNESS": 6,
+      "INFORMATION-TECHNOLOGY": 6,
+      "DESIGNER": 5,
+      "APPAREL": 5,
+      "ENGINEERING": 5,
+      "CHEF": 4,
+      "DIGITAL-MEDIA": 4,
+      "HEALTHCARE": 4,
+      "ARTS": 3,
+      "FINANCE": 3,
+      "BUSINESS-DEVELOPMENT": 3,
+      "CONSULTANT": 3,
+      "AGRICULTURE": 3,
+      "BANKING": 3,
+      "CONSTRUCTION": 2,
+      "HR": 2,
+      "AVIATION": 2,
+      "ACCOUNTANT": 2,
+      "ADVOCATE": 1,
+      "SALES": 1
+    }
+  },
+  "cad": {
+    "frequency": 77,
+    "categories": [
+      "DESIGNER",
+      "ENGINEERING",
+      "CONSTRUCTION",
+      "APPAREL",
+      "AVIATION",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "AGRICULTURE",
+      "FITNESS",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "SALES",
+      "AUTOMOBILE",
+      "PUBLIC-RELATIONS",
+      "ARTS"
+    ],
+    "category_counts": {
+      "DESIGNER": 25,
+      "ENGINEERING": 25,
+      "CONSTRUCTION": 8,
+      "APPAREL": 6,
+      "AVIATION": 3,
+      "INFORMATION-TECHNOLOGY": 1,
+      "TEACHER": 1,
+      "AGRICULTURE": 1,
+      "FITNESS": 1,
+      "HEALTHCARE": 1,
+      "ADVOCATE": 1,
+      "SALES": 1,
+      "AUTOMOBILE": 1,
+      "PUBLIC-RELATIONS": 1,
+      "ARTS": 1
+    }
+  },
+  "civil": {
+    "frequency": 76,
+    "categories": [
+      "CONSTRUCTION",
+      "ENGINEERING",
+      "DESIGNER",
+      "CONSULTANT",
+      "PUBLIC-RELATIONS",
+      "ACCOUNTANT",
+      "HR",
+      "ADVOCATE",
+      "AGRICULTURE",
+      "AVIATION",
+      "BUSINESS-DEVELOPMENT",
+      "TEACHER",
+      "ARTS",
+      "BANKING",
+      "FINANCE",
+      "INFORMATION-TECHNOLOGY",
+      "CHEF",
+      "AUTOMOBILE",
+      "SALES",
+      "APPAREL"
+    ],
+    "category_counts": {
+      "CONSTRUCTION": 24,
+      "ENGINEERING": 9,
+      "DESIGNER": 6,
+      "CONSULTANT": 4,
+      "PUBLIC-RELATIONS": 3,
+      "ACCOUNTANT": 3,
+      "HR": 3,
+      "ADVOCATE": 3,
+      "AGRICULTURE": 3,
+      "AVIATION": 3,
+      "BUSINESS-DEVELOPMENT": 2,
+      "TEACHER": 2,
+      "ARTS": 2,
+      "BANKING": 2,
+      "FINANCE": 2,
+      "INFORMATION-TECHNOLOGY": 1,
+      "CHEF": 1,
+      "AUTOMOBILE": 1,
+      "SALES": 1,
+      "APPAREL": 1
+    }
+  },
+  "structural": {
+    "frequency": 68,
+    "categories": [
+      "CONSTRUCTION",
+      "AVIATION",
+      "DESIGNER",
+      "ENGINEERING",
+      "AUTOMOBILE",
+      "TEACHER",
+      "ADVOCATE",
+      "CHEF",
+      "ACCOUNTANT",
+      "SALES",
+      "FITNESS",
+      "BUSINESS-DEVELOPMENT",
+      "INFORMATION-TECHNOLOGY",
+      "AGRICULTURE",
+      "FINANCE",
+      "CONSULTANT"
+    ],
+    "category_counts": {
+      "CONSTRUCTION": 18,
+      "AVIATION": 12,
+      "DESIGNER": 11,
+      "ENGINEERING": 10,
+      "AUTOMOBILE": 2,
+      "TEACHER": 2,
+      "ADVOCATE": 2,
+      "CHEF": 2,
+      "ACCOUNTANT": 2,
+      "SALES": 1,
+      "FITNESS": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "INFORMATION-TECHNOLOGY": 1,
+      "AGRICULTURE": 1,
+      "FINANCE": 1,
+      "CONSULTANT": 1
+    }
+  },
+  "agile": {
+    "frequency": 67,
+    "categories": [
+      "CONSULTANT",
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "BANKING",
+      "AGRICULTURE",
+      "FITNESS",
+      "APPAREL",
+      "FINANCE",
+      "HEALTHCARE",
+      "SALES",
+      "PUBLIC-RELATIONS",
+      "ADVOCATE",
+      "BPO",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "CONSULTANT": 12,
+      "ENGINEERING": 10,
+      "INFORMATION-TECHNOLOGY": 9,
+      "DIGITAL-MEDIA": 8,
+      "DESIGNER": 5,
+      "BANKING": 4,
+      "AGRICULTURE": 3,
+      "FITNESS": 3,
+      "APPAREL": 2,
+      "FINANCE": 2,
+      "HEALTHCARE": 2,
+      "SALES": 2,
+      "PUBLIC-RELATIONS": 2,
+      "ADVOCATE": 1,
+      "BPO": 1,
+      "AVIATION": 1
+    }
+  },
+  "java": {
+    "frequency": 67,
+    "categories": [
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "HEALTHCARE",
+      "BANKING",
+      "AVIATION",
+      "DESIGNER",
+      "HR",
+      "BPO",
+      "BUSINESS-DEVELOPMENT",
+      "ARTS",
+      "AUTOMOBILE",
+      "ADVOCATE",
+      "AGRICULTURE",
+      "DIGITAL-MEDIA",
+      "CHEF",
+      "FINANCE",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "ENGINEERING": 15,
+      "INFORMATION-TECHNOLOGY": 13,
+      "CONSULTANT": 10,
+      "HEALTHCARE": 4,
+      "BANKING": 4,
+      "AVIATION": 3,
+      "DESIGNER": 2,
+      "HR": 2,
+      "BPO": 2,
+      "BUSINESS-DEVELOPMENT": 2,
+      "ARTS": 2,
+      "AUTOMOBILE": 2,
+      "ADVOCATE": 1,
+      "AGRICULTURE": 1,
+      "DIGITAL-MEDIA": 1,
+      "CHEF": 1,
+      "FINANCE": 1,
+      "CONSTRUCTION": 1
+    }
+  },
+  "hipaa": {
+    "frequency": 67,
+    "categories": [
+      "HEALTHCARE",
+      "INFORMATION-TECHNOLOGY",
+      "ADVOCATE",
+      "ARTS",
+      "ACCOUNTANT",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "HR",
+      "DESIGNER",
+      "TEACHER",
+      "DIGITAL-MEDIA",
+      "APPAREL",
+      "SALES",
+      "FITNESS",
+      "CHEF",
+      "AUTOMOBILE",
+      "CONSTRUCTION",
+      "BANKING"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 19,
+      "INFORMATION-TECHNOLOGY": 10,
+      "ADVOCATE": 7,
+      "ARTS": 4,
+      "ACCOUNTANT": 4,
+      "CONSULTANT": 4,
+      "BUSINESS-DEVELOPMENT": 3,
+      "HR": 2,
+      "DESIGNER": 2,
+      "TEACHER": 2,
+      "DIGITAL-MEDIA": 2,
+      "APPAREL": 2,
+      "SALES": 1,
+      "FITNESS": 1,
+      "CHEF": 1,
+      "AUTOMOBILE": 1,
+      "CONSTRUCTION": 1,
+      "BANKING": 1
+    }
+  },
+  "seo": {
+    "frequency": 66,
+    "categories": [
+      "DIGITAL-MEDIA",
+      "PUBLIC-RELATIONS",
+      "BUSINESS-DEVELOPMENT",
+      "CONSULTANT",
+      "CHEF",
+      "APPAREL",
+      "DESIGNER",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "INFORMATION-TECHNOLOGY",
+      "TEACHER",
+      "SALES",
+      "FINANCE",
+      "BANKING"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 28,
+      "PUBLIC-RELATIONS": 10,
+      "BUSINESS-DEVELOPMENT": 5,
+      "CONSULTANT": 5,
+      "CHEF": 3,
+      "APPAREL": 3,
+      "DESIGNER": 2,
+      "HEALTHCARE": 2,
+      "ADVOCATE": 2,
+      "INFORMATION-TECHNOLOGY": 2,
+      "TEACHER": 1,
+      "SALES": 1,
+      "FINANCE": 1,
+      "BANKING": 1
+    }
+  },
+  "css": {
+    "frequency": 65,
+    "categories": [
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "CONSULTANT",
+      "AVIATION",
+      "HEALTHCARE",
+      "APPAREL",
+      "HR",
+      "AGRICULTURE",
+      "BPO",
+      "SALES",
+      "TEACHER",
+      "CHEF",
+      "AUTOMOBILE",
+      "CONSTRUCTION",
+      "PUBLIC-RELATIONS",
+      "BANKING"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 13,
+      "DESIGNER": 12,
+      "INFORMATION-TECHNOLOGY": 12,
+      "ENGINEERING": 6,
+      "CONSULTANT": 5,
+      "AVIATION": 3,
+      "HEALTHCARE": 2,
+      "APPAREL": 2,
+      "HR": 1,
+      "AGRICULTURE": 1,
+      "BPO": 1,
+      "SALES": 1,
+      "TEACHER": 1,
+      "CHEF": 1,
+      "AUTOMOBILE": 1,
+      "CONSTRUCTION": 1,
+      "PUBLIC-RELATIONS": 1,
+      "BANKING": 1
+    }
+  },
+  "unix": {
+    "frequency": 63,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "ENGINEERING",
+      "BANKING",
+      "AVIATION",
+      "AUTOMOBILE",
+      "DESIGNER",
+      "ADVOCATE",
+      "APPAREL",
+      "HEALTHCARE",
+      "HR",
+      "BUSINESS-DEVELOPMENT",
+      "DIGITAL-MEDIA",
+      "FINANCE",
+      "PUBLIC-RELATIONS",
+      "ARTS"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 19,
+      "CONSULTANT": 10,
+      "ENGINEERING": 6,
+      "BANKING": 5,
+      "AVIATION": 5,
+      "AUTOMOBILE": 3,
+      "DESIGNER": 3,
+      "ADVOCATE": 2,
+      "APPAREL": 2,
+      "HEALTHCARE": 2,
+      "HR": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "DIGITAL-MEDIA": 1,
+      "FINANCE": 1,
+      "PUBLIC-RELATIONS": 1,
+      "ARTS": 1
+    }
+  },
+  "express": {
+    "frequency": 61,
+    "categories": [
+      "BUSINESS-DEVELOPMENT",
+      "DESIGNER",
+      "TEACHER",
+      "INFORMATION-TECHNOLOGY",
+      "ACCOUNTANT",
+      "AVIATION",
+      "CONSULTANT",
+      "ADVOCATE",
+      "PUBLIC-RELATIONS",
+      "ENGINEERING",
+      "APPAREL",
+      "DIGITAL-MEDIA",
+      "FINANCE",
+      "HR",
+      "CHEF",
+      "AUTOMOBILE",
+      "AGRICULTURE",
+      "SALES",
+      "FITNESS",
+      "HEALTHCARE",
+      "CONSTRUCTION",
+      "BANKING"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 6,
+      "DESIGNER": 5,
+      "TEACHER": 5,
+      "INFORMATION-TECHNOLOGY": 5,
+      "ACCOUNTANT": 5,
+      "AVIATION": 5,
+      "CONSULTANT": 4,
+      "ADVOCATE": 4,
+      "PUBLIC-RELATIONS": 4,
+      "ENGINEERING": 3,
+      "APPAREL": 2,
+      "DIGITAL-MEDIA": 2,
+      "FINANCE": 2,
+      "HR": 1,
+      "CHEF": 1,
+      "AUTOMOBILE": 1,
+      "AGRICULTURE": 1,
+      "SALES": 1,
+      "FITNESS": 1,
+      "HEALTHCARE": 1,
+      "CONSTRUCTION": 1,
+      "BANKING": 1
+    }
+  },
+  "javascript": {
+    "frequency": 56,
+    "categories": [
+      "CONSULTANT",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "BANKING",
+      "HEALTHCARE",
+      "AGRICULTURE",
+      "DESIGNER",
+      "HR",
+      "SALES",
+      "BPO",
+      "ADVOCATE",
+      "AUTOMOBILE",
+      "CHEF",
+      "CONSTRUCTION",
+      "ARTS",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "CONSULTANT": 11,
+      "INFORMATION-TECHNOLOGY": 10,
+      "DIGITAL-MEDIA": 9,
+      "ENGINEERING": 8,
+      "BANKING": 3,
+      "HEALTHCARE": 2,
+      "AGRICULTURE": 2,
+      "DESIGNER": 2,
+      "HR": 1,
+      "SALES": 1,
+      "BPO": 1,
+      "ADVOCATE": 1,
+      "AUTOMOBILE": 1,
+      "CHEF": 1,
+      "CONSTRUCTION": 1,
+      "ARTS": 1,
+      "AVIATION": 1
+    }
+  },
+  "google analytics": {
+    "frequency": 52,
+    "categories": [
+      "DIGITAL-MEDIA",
+      "PUBLIC-RELATIONS",
+      "APPAREL",
+      "BUSINESS-DEVELOPMENT",
+      "CONSULTANT",
+      "SALES",
+      "ADVOCATE",
+      "DESIGNER",
+      "HEALTHCARE",
+      "FITNESS",
+      "FINANCE",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 27,
+      "PUBLIC-RELATIONS": 6,
+      "APPAREL": 4,
+      "BUSINESS-DEVELOPMENT": 3,
+      "CONSULTANT": 3,
+      "SALES": 2,
+      "ADVOCATE": 2,
+      "DESIGNER": 1,
+      "HEALTHCARE": 1,
+      "FITNESS": 1,
+      "FINANCE": 1,
+      "AVIATION": 1
+    }
+  },
+  "sql server": {
+    "frequency": 52,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "BANKING",
+      "ENGINEERING",
+      "AUTOMOBILE",
+      "HEALTHCARE",
+      "DESIGNER",
+      "BPO",
+      "ADVOCATE",
+      "HR",
+      "SALES",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 16,
+      "CONSULTANT": 12,
+      "BANKING": 4,
+      "ENGINEERING": 4,
+      "AUTOMOBILE": 4,
+      "HEALTHCARE": 3,
+      "DESIGNER": 3,
+      "BPO": 2,
+      "ADVOCATE": 1,
+      "HR": 1,
+      "SALES": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "content management": {
+    "frequency": 47,
+    "categories": [
+      "DIGITAL-MEDIA",
+      "PUBLIC-RELATIONS",
+      "INFORMATION-TECHNOLOGY",
+      "AGRICULTURE",
+      "HEALTHCARE",
+      "BUSINESS-DEVELOPMENT",
+      "ENGINEERING",
+      "ADVOCATE",
+      "HR",
+      "DESIGNER",
+      "CONSULTANT",
+      "SALES",
+      "BANKING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 14,
+      "PUBLIC-RELATIONS": 8,
+      "INFORMATION-TECHNOLOGY": 6,
+      "AGRICULTURE": 4,
+      "HEALTHCARE": 3,
+      "BUSINESS-DEVELOPMENT": 3,
+      "ENGINEERING": 2,
+      "ADVOCATE": 1,
+      "HR": 1,
+      "DESIGNER": 1,
+      "CONSULTANT": 1,
+      "SALES": 1,
+      "BANKING": 1,
+      "AVIATION": 1
+    }
+  },
+  "php": {
+    "frequency": 44,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "DESIGNER",
+      "AGRICULTURE",
+      "TEACHER",
+      "ADVOCATE",
+      "CHEF",
+      "FINANCE",
+      "APPAREL",
+      "CONSTRUCTION",
+      "PUBLIC-RELATIONS",
+      "BANKING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 12,
+      "CONSULTANT": 8,
+      "DIGITAL-MEDIA": 7,
+      "ENGINEERING": 5,
+      "DESIGNER": 2,
+      "AGRICULTURE": 1,
+      "TEACHER": 1,
+      "ADVOCATE": 1,
+      "CHEF": 1,
+      "FINANCE": 1,
+      "APPAREL": 1,
+      "CONSTRUCTION": 1,
+      "PUBLIC-RELATIONS": 1,
+      "BANKING": 1,
+      "AVIATION": 1
+    }
+  },
+  "product management": {
+    "frequency": 44,
+    "categories": [
+      "BANKING",
+      "FINANCE",
+      "DIGITAL-MEDIA",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "ENGINEERING",
+      "HEALTHCARE",
+      "PUBLIC-RELATIONS",
+      "APPAREL",
+      "ADVOCATE",
+      "CHEF",
+      "SALES",
+      "AGRICULTURE",
+      "FITNESS",
+      "DESIGNER"
+    ],
+    "category_counts": {
+      "BANKING": 5,
+      "FINANCE": 5,
+      "DIGITAL-MEDIA": 5,
+      "CONSULTANT": 4,
+      "BUSINESS-DEVELOPMENT": 4,
+      "ENGINEERING": 4,
+      "HEALTHCARE": 3,
+      "PUBLIC-RELATIONS": 3,
+      "APPAREL": 3,
+      "ADVOCATE": 2,
+      "CHEF": 2,
+      "SALES": 1,
+      "AGRICULTURE": 1,
+      "FITNESS": 1,
+      "DESIGNER": 1
+    }
+  },
+  "python": {
+    "frequency": 40,
+    "categories": [
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "AVIATION",
+      "BANKING",
+      "AUTOMOBILE",
+      "DESIGNER",
+      "AGRICULTURE",
+      "FITNESS",
+      "ADVOCATE",
+      "DIGITAL-MEDIA",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "ENGINEERING": 11,
+      "INFORMATION-TECHNOLOGY": 7,
+      "CONSULTANT": 4,
+      "BUSINESS-DEVELOPMENT": 3,
+      "AVIATION": 3,
+      "BANKING": 2,
+      "AUTOMOBILE": 2,
+      "DESIGNER": 2,
+      "AGRICULTURE": 2,
+      "FITNESS": 1,
+      "ADVOCATE": 1,
+      "DIGITAL-MEDIA": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "mysql": {
+    "frequency": 39,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "DESIGNER",
+      "ADVOCATE",
+      "SALES",
+      "AUTOMOBILE",
+      "CONSTRUCTION",
+      "BANKING",
+      "ARTS",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 11,
+      "CONSULTANT": 10,
+      "DIGITAL-MEDIA": 4,
+      "ENGINEERING": 4,
+      "DESIGNER": 3,
+      "ADVOCATE": 1,
+      "SALES": 1,
+      "AUTOMOBILE": 1,
+      "CONSTRUCTION": 1,
+      "BANKING": 1,
+      "ARTS": 1,
+      "AVIATION": 1
+    }
+  },
+  "scrum": {
+    "frequency": 39,
+    "categories": [
+      "ENGINEERING",
+      "CONSULTANT",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "HEALTHCARE",
+      "BANKING",
+      "FITNESS",
+      "SALES",
+      "AUTOMOBILE",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "ENGINEERING": 11,
+      "CONSULTANT": 8,
+      "INFORMATION-TECHNOLOGY": 7,
+      "DIGITAL-MEDIA": 3,
+      "DESIGNER": 2,
+      "HEALTHCARE": 2,
+      "BANKING": 2,
+      "FITNESS": 1,
+      "SALES": 1,
+      "AUTOMOBILE": 1,
+      "AVIATION": 1
+    }
+  },
+  "classification": {
+    "frequency": 36,
+    "categories": [
+      "AVIATION",
+      "HR",
+      "ACCOUNTANT",
+      "CONSULTANT",
+      "APPAREL",
+      "INFORMATION-TECHNOLOGY",
+      "HEALTHCARE",
+      "BANKING",
+      "AUTOMOBILE",
+      "TEACHER",
+      "ADVOCATE",
+      "BPO",
+      "FINANCE",
+      "CONSTRUCTION",
+      "ARTS"
+    ],
+    "category_counts": {
+      "AVIATION": 7,
+      "HR": 6,
+      "ACCOUNTANT": 5,
+      "CONSULTANT": 2,
+      "APPAREL": 2,
+      "INFORMATION-TECHNOLOGY": 2,
+      "HEALTHCARE": 2,
+      "BANKING": 2,
+      "AUTOMOBILE": 2,
+      "TEACHER": 1,
+      "ADVOCATE": 1,
+      "BPO": 1,
+      "FINANCE": 1,
+      "CONSTRUCTION": 1,
+      "ARTS": 1
+    }
+  },
+  "matlab": {
+    "frequency": 35,
+    "categories": [
+      "ENGINEERING",
+      "AVIATION",
+      "DESIGNER",
+      "CONSTRUCTION",
+      "AUTOMOBILE",
+      "AGRICULTURE",
+      "INFORMATION-TECHNOLOGY",
+      "FITNESS",
+      "APPAREL",
+      "CONSULTANT",
+      "BANKING",
+      "ARTS"
+    ],
+    "category_counts": {
+      "ENGINEERING": 16,
+      "AVIATION": 6,
+      "DESIGNER": 2,
+      "CONSTRUCTION": 2,
+      "AUTOMOBILE": 2,
+      "AGRICULTURE": 1,
+      "INFORMATION-TECHNOLOGY": 1,
+      "FITNESS": 1,
+      "APPAREL": 1,
+      "CONSULTANT": 1,
+      "BANKING": 1,
+      "ARTS": 1
+    }
+  },
+  "regression": {
+    "frequency": 33,
+    "categories": [
+      "ENGINEERING",
+      "BANKING",
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "BUSINESS-DEVELOPMENT",
+      "ACCOUNTANT",
+      "AUTOMOBILE",
+      "DESIGNER",
+      "HEALTHCARE",
+      "BPO",
+      "DIGITAL-MEDIA",
+      "APPAREL",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "ENGINEERING": 10,
+      "BANKING": 4,
+      "INFORMATION-TECHNOLOGY": 4,
+      "CONSULTANT": 3,
+      "BUSINESS-DEVELOPMENT": 2,
+      "ACCOUNTANT": 2,
+      "AUTOMOBILE": 2,
+      "DESIGNER": 1,
+      "HEALTHCARE": 1,
+      "BPO": 1,
+      "DIGITAL-MEDIA": 1,
+      "APPAREL": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "solidworks": {
+    "frequency": 32,
+    "categories": [
+      "ENGINEERING",
+      "DESIGNER",
+      "INFORMATION-TECHNOLOGY",
+      "AVIATION",
+      "TEACHER",
+      "FITNESS",
+      "HEALTHCARE",
+      "AUTOMOBILE",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "ENGINEERING": 15,
+      "DESIGNER": 8,
+      "INFORMATION-TECHNOLOGY": 2,
+      "AVIATION": 2,
+      "TEACHER": 1,
+      "FITNESS": 1,
+      "HEALTHCARE": 1,
+      "AUTOMOBILE": 1,
+      "CONSTRUCTION": 1
+    }
+  },
+  "jira": {
+    "frequency": 32,
+    "categories": [
+      "ENGINEERING",
+      "DIGITAL-MEDIA",
+      "BANKING",
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "BPO",
+      "HEALTHCARE",
+      "BUSINESS-DEVELOPMENT",
+      "DESIGNER",
+      "AGRICULTURE",
+      "SALES",
+      "APPAREL",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "ENGINEERING": 7,
+      "DIGITAL-MEDIA": 5,
+      "BANKING": 4,
+      "INFORMATION-TECHNOLOGY": 4,
+      "CONSULTANT": 3,
+      "BPO": 2,
+      "HEALTHCARE": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "DESIGNER": 1,
+      "AGRICULTURE": 1,
+      "SALES": 1,
+      "APPAREL": 1,
+      "AVIATION": 1
+    }
+  },
+  "spss": {
+    "frequency": 29,
+    "categories": [
+      "CONSULTANT",
+      "AGRICULTURE",
+      "BANKING",
+      "HEALTHCARE",
+      "HR",
+      "ADVOCATE",
+      "ENGINEERING",
+      "PUBLIC-RELATIONS",
+      "AUTOMOBILE",
+      "INFORMATION-TECHNOLOGY",
+      "FITNESS",
+      "BUSINESS-DEVELOPMENT",
+      "ARTS",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "CONSULTANT": 5,
+      "AGRICULTURE": 4,
+      "BANKING": 3,
+      "HEALTHCARE": 2,
+      "HR": 2,
+      "ADVOCATE": 2,
+      "ENGINEERING": 2,
+      "PUBLIC-RELATIONS": 2,
+      "AUTOMOBILE": 2,
+      "INFORMATION-TECHNOLOGY": 1,
+      "FITNESS": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "ARTS": 1,
+      "AVIATION": 1
+    }
+  },
+  "sas": {
+    "frequency": 29,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "FINANCE",
+      "CONSULTANT",
+      "HEALTHCARE",
+      "APPAREL",
+      "AGRICULTURE",
+      "BUSINESS-DEVELOPMENT",
+      "SALES",
+      "TEACHER",
+      "ADVOCATE",
+      "AUTOMOBILE",
+      "DIGITAL-MEDIA",
+      "ACCOUNTANT",
+      "CONSTRUCTION",
+      "BANKING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 4,
+      "ENGINEERING": 4,
+      "FINANCE": 3,
+      "CONSULTANT": 3,
+      "HEALTHCARE": 2,
+      "APPAREL": 2,
+      "AGRICULTURE": 2,
+      "BUSINESS-DEVELOPMENT": 1,
+      "SALES": 1,
+      "TEACHER": 1,
+      "ADVOCATE": 1,
+      "AUTOMOBILE": 1,
+      "DIGITAL-MEDIA": 1,
+      "ACCOUNTANT": 1,
+      "CONSTRUCTION": 1,
+      "BANKING": 1
+    }
+  },
+  "tableau": {
+    "frequency": 26,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "HEALTHCARE",
+      "BUSINESS-DEVELOPMENT",
+      "FINANCE",
+      "SALES",
+      "HR",
+      "ADVOCATE",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "APPAREL",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 3,
+      "CONSULTANT": 3,
+      "DIGITAL-MEDIA": 3,
+      "ENGINEERING": 3,
+      "HEALTHCARE": 2,
+      "BUSINESS-DEVELOPMENT": 2,
+      "FINANCE": 2,
+      "SALES": 2,
+      "HR": 1,
+      "ADVOCATE": 1,
+      "AGRICULTURE": 1,
+      "AUTOMOBILE": 1,
+      "APPAREL": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "data warehouse": {
+    "frequency": 25,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "FINANCE",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "SALES",
+      "BPO",
+      "DIGITAL-MEDIA",
+      "AUTOMOBILE",
+      "ENGINEERING",
+      "BANKING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 8,
+      "CONSULTANT": 6,
+      "FINANCE": 3,
+      "HEALTHCARE": 1,
+      "ADVOCATE": 1,
+      "SALES": 1,
+      "BPO": 1,
+      "DIGITAL-MEDIA": 1,
+      "AUTOMOBILE": 1,
+      "ENGINEERING": 1,
+      "BANKING": 1
+    }
+  },
+  "vba": {
+    "frequency": 23,
+    "categories": [
+      "FINANCE",
+      "CONSULTANT",
+      "BANKING",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "FITNESS",
+      "HEALTHCARE",
+      "DESIGNER",
+      "HR",
+      "AGRICULTURE",
+      "ENGINEERING",
+      "ACCOUNTANT",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "FINANCE": 4,
+      "CONSULTANT": 3,
+      "BANKING": 3,
+      "INFORMATION-TECHNOLOGY": 3,
+      "DIGITAL-MEDIA": 2,
+      "FITNESS": 1,
+      "HEALTHCARE": 1,
+      "DESIGNER": 1,
+      "HR": 1,
+      "AGRICULTURE": 1,
+      "ENGINEERING": 1,
+      "ACCOUNTANT": 1,
+      "AVIATION": 1
+    }
+  },
+  "aws": {
+    "frequency": 22,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "DESIGNER",
+      "ADVOCATE",
+      "ENGINEERING",
+      "CONSTRUCTION",
+      "AGRICULTURE",
+      "DIGITAL-MEDIA",
+      "BANKING",
+      "ARTS",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 5,
+      "CONSULTANT": 4,
+      "DESIGNER": 2,
+      "ADVOCATE": 2,
+      "ENGINEERING": 2,
+      "CONSTRUCTION": 2,
+      "AGRICULTURE": 1,
+      "DIGITAL-MEDIA": 1,
+      "BANKING": 1,
+      "ARTS": 1,
+      "AVIATION": 1
+    }
+  },
+  "shell": {
+    "frequency": 22,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "AUTOMOBILE",
+      "CONSTRUCTION",
+      "DESIGNER",
+      "ENGINEERING",
+      "ADVOCATE",
+      "FITNESS",
+      "HEALTHCARE",
+      "ARTS",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 7,
+      "AUTOMOBILE": 3,
+      "CONSTRUCTION": 3,
+      "DESIGNER": 2,
+      "ENGINEERING": 2,
+      "ADVOCATE": 1,
+      "FITNESS": 1,
+      "HEALTHCARE": 1,
+      "ARTS": 1,
+      "AVIATION": 1
+    }
+  },
+  "asp.net": {
+    "frequency": 21,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "CONSULTANT",
+      "DESIGNER",
+      "HEALTHCARE",
+      "CONSTRUCTION",
+      "BANKING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 8,
+      "ENGINEERING": 4,
+      "CONSULTANT": 4,
+      "DESIGNER": 2,
+      "HEALTHCARE": 1,
+      "CONSTRUCTION": 1,
+      "BANKING": 1
+    }
+  },
+  "waterfall": {
+    "frequency": 19,
+    "categories": [
+      "CONSULTANT",
+      "BANKING",
+      "DESIGNER",
+      "INFORMATION-TECHNOLOGY",
+      "HEALTHCARE",
+      "FINANCE",
+      "ENGINEERING",
+      "AGRICULTURE",
+      "ADVOCATE"
+    ],
+    "category_counts": {
+      "CONSULTANT": 4,
+      "BANKING": 3,
+      "DESIGNER": 2,
+      "INFORMATION-TECHNOLOGY": 2,
+      "HEALTHCARE": 2,
+      "FINANCE": 2,
+      "ENGINEERING": 2,
+      "AGRICULTURE": 1,
+      "ADVOCATE": 1
+    }
+  },
+  "apache": {
+    "frequency": 18,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "AUTOMOBILE",
+      "ENGINEERING",
+      "HEALTHCARE",
+      "ADVOCATE",
+      "DESIGNER",
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 6,
+      "CONSULTANT": 4,
+      "AUTOMOBILE": 2,
+      "ENGINEERING": 2,
+      "HEALTHCARE": 1,
+      "ADVOCATE": 1,
+      "DESIGNER": 1,
+      "AGRICULTURE": 1
+    }
+  },
+  "kanban": {
+    "frequency": 17,
+    "categories": [
+      "ENGINEERING",
+      "CONSULTANT",
+      "HEALTHCARE",
+      "INFORMATION-TECHNOLOGY",
+      "FITNESS",
+      "AUTOMOBILE",
+      "BANKING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "ENGINEERING": 6,
+      "CONSULTANT": 3,
+      "HEALTHCARE": 2,
+      "INFORMATION-TECHNOLOGY": 2,
+      "FITNESS": 1,
+      "AUTOMOBILE": 1,
+      "BANKING": 1,
+      "AVIATION": 1
+    }
+  },
+  "swift": {
+    "frequency": 16,
+    "categories": [
+      "BANKING",
+      "HR",
+      "INFORMATION-TECHNOLOGY",
+      "DESIGNER",
+      "HEALTHCARE",
+      "CONSULTANT",
+      "FINANCE",
+      "DIGITAL-MEDIA",
+      "APPAREL",
+      "CONSTRUCTION",
+      "PUBLIC-RELATIONS",
+      "ARTS"
+    ],
+    "category_counts": {
+      "BANKING": 4,
+      "HR": 2,
+      "INFORMATION-TECHNOLOGY": 1,
+      "DESIGNER": 1,
+      "HEALTHCARE": 1,
+      "CONSULTANT": 1,
+      "FINANCE": 1,
+      "DIGITAL-MEDIA": 1,
+      "APPAREL": 1,
+      "CONSTRUCTION": 1,
+      "PUBLIC-RELATIONS": 1,
+      "ARTS": 1
+    }
+  },
+  "jquery": {
+    "frequency": 16,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "DESIGNER",
+      "DIGITAL-MEDIA",
+      "CONSULTANT",
+      "ENGINEERING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 5,
+      "DESIGNER": 3,
+      "DIGITAL-MEDIA": 3,
+      "CONSULTANT": 2,
+      "ENGINEERING": 2,
+      "AVIATION": 1
+    }
+  },
+  "bash": {
+    "frequency": 14,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "DESIGNER",
+      "ADVOCATE",
+      "HEALTHCARE",
+      "AGRICULTURE",
+      "SALES",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 4,
+      "ENGINEERING": 3,
+      "DESIGNER": 2,
+      "ADVOCATE": 1,
+      "HEALTHCARE": 1,
+      "AGRICULTURE": 1,
+      "SALES": 1,
+      "AVIATION": 1
+    }
+  },
+  "perl": {
+    "frequency": 13,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "CONSULTANT",
+      "AVIATION",
+      "DESIGNER",
+      "ADVOCATE",
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 3,
+      "ENGINEERING": 3,
+      "CONSULTANT": 2,
+      "AVIATION": 2,
+      "DESIGNER": 1,
+      "ADVOCATE": 1,
+      "DIGITAL-MEDIA": 1
+    }
+  },
+  "machine learning": {
+    "frequency": 12,
+    "categories": [
+      "ENGINEERING",
+      "CONSULTANT",
+      "SALES",
+      "DIGITAL-MEDIA",
+      "AUTOMOBILE",
+      "PUBLIC-RELATIONS",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 5,
+      "CONSULTANT": 2,
+      "SALES": 1,
+      "DIGITAL-MEDIA": 1,
+      "AUTOMOBILE": 1,
+      "PUBLIC-RELATIONS": 1,
+      "BANKING": 1
+    }
+  },
+  "data mining": {
+    "frequency": 12,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "ACCOUNTANT",
+      "TEACHER",
+      "BUSINESS-DEVELOPMENT",
+      "CONSULTANT",
+      "SALES",
+      "APPAREL",
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 2,
+      "ENGINEERING": 2,
+      "ACCOUNTANT": 2,
+      "TEACHER": 1,
+      "BUSINESS-DEVELOPMENT": 1,
+      "CONSULTANT": 1,
+      "SALES": 1,
+      "APPAREL": 1,
+      "DIGITAL-MEDIA": 1
+    }
+  },
+  "bootstrap": {
+    "frequency": 11,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "ENGINEERING",
+      "DESIGNER",
+      "CONSULTANT",
+      "DIGITAL-MEDIA",
+      "CHEF",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 4,
+      "ENGINEERING": 2,
+      "DESIGNER": 1,
+      "CONSULTANT": 1,
+      "DIGITAL-MEDIA": 1,
+      "CHEF": 1,
+      "AVIATION": 1
+    }
+  },
+  "spark": {
+    "frequency": 11,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "BUSINESS-DEVELOPMENT",
+      "ARTS",
+      "TEACHER",
+      "FITNESS",
+      "SALES",
+      "AUTOMOBILE",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 2,
+      "BUSINESS-DEVELOPMENT": 2,
+      "ARTS": 2,
+      "TEACHER": 1,
+      "FITNESS": 1,
+      "SALES": 1,
+      "AUTOMOBILE": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "azure": {
+    "frequency": 11,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "BANKING",
+      "DIGITAL-MEDIA",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 5,
+      "CONSULTANT": 2,
+      "BANKING": 2,
+      "DIGITAL-MEDIA": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "data visualization": {
+    "frequency": 10,
+    "categories": [
+      "DIGITAL-MEDIA",
+      "DESIGNER",
+      "AGRICULTURE",
+      "HEALTHCARE",
+      "CONSULTANT",
+      "AUTOMOBILE",
+      "ENGINEERING",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 3,
+      "DESIGNER": 1,
+      "AGRICULTURE": 1,
+      "HEALTHCARE": 1,
+      "CONSULTANT": 1,
+      "AUTOMOBILE": 1,
+      "ENGINEERING": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "etl": {
+    "frequency": 10,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT",
+      "ENGINEERING",
+      "DIGITAL-MEDIA",
+      "AUTOMOBILE",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 3,
+      "CONSULTANT": 2,
+      "ENGINEERING": 2,
+      "DIGITAL-MEDIA": 1,
+      "AUTOMOBILE": 1,
+      "AVIATION": 1
+    }
+  },
+  "git": {
+    "frequency": 10,
+    "categories": [
+      "ENGINEERING",
+      "AVIATION",
+      "DESIGNER",
+      "CONSULTANT",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 3,
+      "AVIATION": 2,
+      "DESIGNER": 1,
+      "CONSULTANT": 1,
+      "INFORMATION-TECHNOLOGY": 1,
+      "DIGITAL-MEDIA": 1,
+      "BANKING": 1
+    }
+  },
+  "jenkins": {
+    "frequency": 10,
+    "categories": [
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 7,
+      "INFORMATION-TECHNOLOGY": 1,
+      "DIGITAL-MEDIA": 1,
+      "BANKING": 1
+    }
+  },
+  "github": {
+    "frequency": 9,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "HR",
+      "CONSULTANT",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 4,
+      "DIGITAL-MEDIA": 2,
+      "HR": 1,
+      "CONSULTANT": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "confluence": {
+    "frequency": 8,
+    "categories": [
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "DESIGNER",
+      "HEALTHCARE",
+      "CONSULTANT",
+      "DIGITAL-MEDIA",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 2,
+      "INFORMATION-TECHNOLOGY": 1,
+      "DESIGNER": 1,
+      "HEALTHCARE": 1,
+      "CONSULTANT": 1,
+      "DIGITAL-MEDIA": 1,
+      "BANKING": 1
+    }
+  },
+  "powershell": {
+    "frequency": 7,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "BPO",
+      "CONSULTANT",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 4,
+      "BPO": 1,
+      "CONSULTANT": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "clustering": {
+    "frequency": 7,
+    "categories": [
+      "ADVOCATE",
+      "HEALTHCARE",
+      "CONSULTANT",
+      "AUTOMOBILE",
+      "ENGINEERING",
+      "BANKING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "ADVOCATE": 1,
+      "HEALTHCARE": 1,
+      "CONSULTANT": 1,
+      "AUTOMOBILE": 1,
+      "ENGINEERING": 1,
+      "BANKING": 1,
+      "AVIATION": 1
+    }
+  },
+  "trello": {
+    "frequency": 6,
+    "categories": [
+      "CONSULTANT",
+      "INFORMATION-TECHNOLOGY",
+      "DIGITAL-MEDIA",
+      "ENGINEERING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "CONSULTANT": 2,
+      "INFORMATION-TECHNOLOGY": 1,
+      "DIGITAL-MEDIA": 1,
+      "ENGINEERING": 1,
+      "AVIATION": 1
+    }
+  },
+  "rest api": {
+    "frequency": 5,
+    "categories": [
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 5
+    }
+  },
+  "pandas": {
+    "frequency": 5,
+    "categories": [
+      "AGRICULTURE",
+      "ENGINEERING",
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 2,
+      "ENGINEERING": 2,
+      "AUTOMOBILE": 1
+    }
+  },
+  "neural network": {
+    "frequency": 5,
+    "categories": [
+      "ENGINEERING",
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 2,
+      "AGRICULTURE": 1,
+      "AUTOMOBILE": 1,
+      "BANKING": 1
+    }
+  },
+  "time series": {
+    "frequency": 4,
+    "categories": [
+      "BANKING",
+      "AGRICULTURE",
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "BANKING": 2,
+      "AGRICULTURE": 1,
+      "AUTOMOBILE": 1
+    }
+  },
+  "react": {
+    "frequency": 4,
+    "categories": [
+      "ADVOCATE",
+      "CHEF",
+      "APPAREL",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "ADVOCATE": 1,
+      "CHEF": 1,
+      "APPAREL": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "mongodb": {
+    "frequency": 4,
+    "categories": [
+      "ENGINEERING",
+      "INFORMATION-TECHNOLOGY",
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "ENGINEERING": 2,
+      "INFORMATION-TECHNOLOGY": 1,
+      "AGRICULTURE": 1
+    }
+  },
+  "postgresql": {
+    "frequency": 4,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "HEALTHCARE",
+      "ENGINEERING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 1,
+      "HEALTHCARE": 1,
+      "ENGINEERING": 1,
+      "AVIATION": 1
+    }
+  },
+  "gcp": {
+    "frequency": 4,
+    "categories": [
+      "HEALTHCARE",
+      "FITNESS",
+      "AGRICULTURE",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 1,
+      "FITNESS": 1,
+      "AGRICULTURE": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "computer vision": {
+    "frequency": 4,
+    "categories": [
+      "ENGINEERING",
+      "AUTOMOBILE",
+      "BANKING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 2,
+      "AUTOMOBILE": 1,
+      "BANKING": 1
+    }
+  },
+  "ruby": {
+    "frequency": 4,
+    "categories": [
+      "ARTS",
+      "HEALTHCARE",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "ARTS": 2,
+      "HEALTHCARE": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "angular": {
+    "frequency": 3,
+    "categories": [
+      "CONSULTANT",
+      "DIGITAL-MEDIA",
+      "CONSTRUCTION"
+    ],
+    "category_counts": {
+      "CONSULTANT": 1,
+      "DIGITAL-MEDIA": 1,
+      "CONSTRUCTION": 1
+    }
+  },
+  "tensorflow": {
+    "frequency": 3,
+    "categories": [
+      "ENGINEERING",
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "ENGINEERING": 2,
+      "AGRICULTURE": 1
+    }
+  },
+  "vue": {
+    "frequency": 3,
+    "categories": [
+      "DESIGNER",
+      "INFORMATION-TECHNOLOGY",
+      "BANKING"
+    ],
+    "category_counts": {
+      "DESIGNER": 1,
+      "INFORMATION-TECHNOLOGY": 1,
+      "BANKING": 1
+    }
+  },
+  "adobe analytics": {
+    "frequency": 3,
+    "categories": [
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 3
+    }
+  },
+  "matplotlib": {
+    "frequency": 3,
+    "categories": [
+      "AGRICULTURE",
+      "AUTOMOBILE",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 1,
+      "AUTOMOBILE": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "sqlite": {
+    "frequency": 3,
+    "categories": [
+      "AUTOMOBILE",
+      "BANKING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "AUTOMOBILE": 1,
+      "BANKING": 1,
+      "AVIATION": 1
+    }
+  },
+  "stata": {
+    "frequency": 2,
+    "categories": [
+      "AUTOMOBILE",
+      "CHEF"
+    ],
+    "category_counts": {
+      "AUTOMOBILE": 1,
+      "CHEF": 1
+    }
+  },
+  "microservices": {
+    "frequency": 2,
+    "categories": [
+      "INFORMATION-TECHNOLOGY"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 2
+    }
+  },
+  "docker": {
+    "frequency": 2,
+    "categories": [
+      "BANKING",
+      "AVIATION"
+    ],
+    "category_counts": {
+      "BANKING": 1,
+      "AVIATION": 1
+    }
+  },
+  "hadoop": {
+    "frequency": 2,
+    "categories": [
+      "HEALTHCARE",
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "HEALTHCARE": 1,
+      "AUTOMOBILE": 1
+    }
+  },
+  "looker": {
+    "frequency": 2,
+    "categories": [
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 2
+    }
+  },
+  "amazon web services": {
+    "frequency": 2,
+    "categories": [
+      "INFORMATION-TECHNOLOGY",
+      "CONSULTANT"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 1,
+      "CONSULTANT": 1
+    }
+  },
+  "scikit-learn": {
+    "frequency": 2,
+    "categories": [
+      "AGRICULTURE",
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 1,
+      "ENGINEERING": 1
+    }
+  },
+  "scala": {
+    "frequency": 2,
+    "categories": [
+      "CONSULTANT",
+      "PUBLIC-RELATIONS"
+    ],
+    "category_counts": {
+      "CONSULTANT": 1,
+      "PUBLIC-RELATIONS": 1
+    }
+  },
+  "natural language processing": {
+    "frequency": 1,
+    "categories": [
+      "AVIATION"
+    ],
+    "category_counts": {
+      "AVIATION": 1
+    }
+  },
+  "qlik": {
+    "frequency": 1,
+    "categories": [
+      "INFORMATION-TECHNOLOGY"
+    ],
+    "category_counts": {
+      "INFORMATION-TECHNOLOGY": 1
+    }
+  },
+  "keras": {
+    "frequency": 1,
+    "categories": [
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 1
+    }
+  },
+  "redshift": {
+    "frequency": 1,
+    "categories": [
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 1
+    }
+  },
+  "numpy": {
+    "frequency": 1,
+    "categories": [
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "AUTOMOBILE": 1
+    }
+  },
+  "opencv": {
+    "frequency": 1,
+    "categories": [
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 1
+    }
+  },
+  "hive": {
+    "frequency": 1,
+    "categories": [
+      "AUTOMOBILE"
+    ],
+    "category_counts": {
+      "AUTOMOBILE": 1
+    }
+  },
+  "objective-c": {
+    "frequency": 1,
+    "categories": [
+      "BANKING"
+    ],
+    "category_counts": {
+      "BANKING": 1
+    }
+  },
+  "rust": {
+    "frequency": 1,
+    "categories": [
+      "ADVOCATE"
+    ],
+    "category_counts": {
+      "ADVOCATE": 1
+    }
+  },
+  "flask": {
+    "frequency": 1,
+    "categories": [
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 1
+    }
+  },
+  "deep learning": {
+    "frequency": 1,
+    "categories": [
+      "BANKING"
+    ],
+    "category_counts": {
+      "BANKING": 1
+    }
+  },
+  "asana": {
+    "frequency": 1,
+    "categories": [
+      "FITNESS"
+    ],
+    "category_counts": {
+      "FITNESS": 1
+    }
+  },
+  "nlp": {
+    "frequency": 1,
+    "categories": [
+      "BANKING"
+    ],
+    "category_counts": {
+      "BANKING": 1
+    }
+  },
+  "typescript": {
+    "frequency": 1,
+    "categories": [
+      "BANKING"
+    ],
+    "category_counts": {
+      "BANKING": 1
+    }
+  },
+  "predictive modeling": {
+    "frequency": 1,
+    "categories": [
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 1
+    }
+  },
+  "kubernetes": {
+    "frequency": 1,
+    "categories": [
+      "BANKING"
+    ],
+    "category_counts": {
+      "BANKING": 1
+    }
+  },
+  "power bi": {
+    "frequency": 1,
+    "categories": [
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 1
+    }
+  },
+  "bitbucket": {
+    "frequency": 1,
+    "categories": [
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 1
+    }
+  },
+  "seaborn": {
+    "frequency": 1,
+    "categories": [
+      "ENGINEERING"
+    ],
+    "category_counts": {
+      "ENGINEERING": 1
+    }
+  },
+  "node.js": {
+    "frequency": 1,
+    "categories": [
+      "AGRICULTURE"
+    ],
+    "category_counts": {
+      "AGRICULTURE": 1
+    }
+  },
+  "serverless": {
+    "frequency": 1,
+    "categories": [
+      "BANKING"
+    ],
+    "category_counts": {
+      "BANKING": 1
+    }
+  },
+  "elasticsearch": {
+    "frequency": 1,
+    "categories": [
+      "CONSULTANT"
+    ],
+    "category_counts": {
+      "CONSULTANT": 1
+    }
+  },
+  "cassandra": {
+    "frequency": 1,
+    "categories": [
+      "BUSINESS-DEVELOPMENT"
+    ],
+    "category_counts": {
+      "BUSINESS-DEVELOPMENT": 1
+    }
+  },
+  "gitlab": {
+    "frequency": 1,
+    "categories": [
+      "DIGITAL-MEDIA"
+    ],
+    "category_counts": {
+      "DIGITAL-MEDIA": 1
+    }
+  }
+}

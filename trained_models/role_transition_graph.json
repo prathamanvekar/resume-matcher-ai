@@ -1,0 +1,180 @@
+{
+  "data_analyst": {
+    "data_scientist": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.062,
+      "shared_skills_count": 257,
+      "skills_to_learn_count": 875
+    },
+    "data_engineer": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.063,
+      "shared_skills_count": 253,
+      "skills_to_learn_count": 713
+    },
+    "product_manager": {
+      "feasibility": 0.35,
+      "avg_months": 34,
+      "skill_overlap": 0.065,
+      "shared_skills_count": 259,
+      "skills_to_learn_count": 742
+    }
+  },
+  "data_scientist": {
+    "ml_engineer": {
+      "feasibility": 0.35,
+      "avg_months": 33,
+      "skill_overlap": 0.069,
+      "shared_skills_count": 99,
+      "skills_to_learn_count": 300
+    },
+    "data_engineer": {
+      "feasibility": 0.36,
+      "avg_months": 33,
+      "skill_overlap": 0.079,
+      "shared_skills_count": 154,
+      "skills_to_learn_count": 812
+    }
+  },
+  "data_engineer": {
+    "ml_engineer": {
+      "feasibility": 0.36,
+      "avg_months": 33,
+      "skill_overlap": 0.083,
+      "shared_skills_count": 105,
+      "skills_to_learn_count": 294
+    },
+    "devops_engineer": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.056,
+      "shared_skills_count": 246,
+      "skills_to_learn_count": 3456
+    },
+    "software_engineer": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.064,
+      "shared_skills_count": 346,
+      "skills_to_learn_count": 4433
+    }
+  },
+  "software_engineer": {
+    "ml_engineer": {
+      "feasibility": 0.32,
+      "avg_months": 35,
+      "skill_overlap": 0.029,
+      "shared_skills_count": 145,
+      "skills_to_learn_count": 254
+    },
+    "devops_engineer": {
+      "feasibility": 0.37,
+      "avg_months": 32,
+      "skill_overlap": 0.104,
+      "shared_skills_count": 798,
+      "skills_to_learn_count": 2904
+    },
+    "data_engineer": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.064,
+      "shared_skills_count": 346,
+      "skills_to_learn_count": 620
+    },
+    "product_manager": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.051,
+      "shared_skills_count": 278,
+      "skills_to_learn_count": 723
+    }
+  },
+  "qa_engineer": {
+    "software_engineer": {
+      "feasibility": 0.35,
+      "avg_months": 33,
+      "skill_overlap": 0.069,
+      "shared_skills_count": 468,
+      "skills_to_learn_count": 4311
+    },
+    "devops_engineer": {
+      "feasibility": 0.35,
+      "avg_months": 33,
+      "skill_overlap": 0.072,
+      "shared_skills_count": 411,
+      "skills_to_learn_count": 3291
+    }
+  },
+  "ui_ux_designer": {
+    "product_manager": {
+      "feasibility": 0.35,
+      "avg_months": 33,
+      "skill_overlap": 0.068,
+      "shared_skills_count": 91,
+      "skills_to_learn_count": 910
+    }
+  },
+  "product_manager": {
+    "project_manager": {
+      "feasibility": 0.32,
+      "avg_months": 34,
+      "skill_overlap": 0.034,
+      "shared_skills_count": 336,
+      "skills_to_learn_count": 8782
+    }
+  },
+  "marketing": {
+    "product_manager": {
+      "feasibility": 0.36,
+      "avg_months": 33,
+      "skill_overlap": 0.086,
+      "shared_skills_count": 200,
+      "skills_to_learn_count": 801
+    }
+  },
+  "sales": {
+    "product_manager": {
+      "feasibility": 0.32,
+      "avg_months": 34,
+      "skill_overlap": 0.034,
+      "shared_skills_count": 370,
+      "skills_to_learn_count": 631
+    },
+    "marketing": {
+      "feasibility": 0.34,
+      "avg_months": 34,
+      "skill_overlap": 0.052,
+      "shared_skills_count": 586,
+      "skills_to_learn_count": 928
+    }
+  },
+  "customer_service": {
+    "sales": {
+      "feasibility": 0.36,
+      "avg_months": 33,
+      "skill_overlap": 0.085,
+      "shared_skills_count": 1143,
+      "skills_to_learn_count": 9091
+    }
+  },
+  "administrative": {
+    "hr": {
+      "feasibility": 0.36,
+      "avg_months": 33,
+      "skill_overlap": 0.089,
+      "shared_skills_count": 530,
+      "skills_to_learn_count": 2521
+    }
+  },
+  "operations": {
+    "project_manager": {
+      "feasibility": 0.36,
+      "avg_months": 33,
+      "skill_overlap": 0.086,
+      "shared_skills_count": 1193,
+      "skills_to_learn_count": 7925
+    }
+  }
+}
